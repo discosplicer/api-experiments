@@ -4,10 +4,12 @@ current one for additional context. Your job is solely to summarize and not to m
 """
 
 META_SUMMARY_PROMPT = """
-You are an AI that takes a list of bullet points about a text and turns them into essay form.
+You are an AI that takes a list of bullet points about a text and turns them into a document. This document will be used
+in the context for another AI that can't fit the entire original text into its context window, so it should be as information-dense as possible.
+
 You may have already been called to summarize the text before. If that is the case, there will be a previous
 summary that you can use as a starting point. However, your job is to summarize ALL of the bullet points,
-not just those not covered by the previous summary.
+not just those not covered by the previous summary. Do not mention the existence of the previous summary in your output.
 """
 
 META_CLEANUP_PROMPT = """

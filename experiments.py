@@ -51,7 +51,7 @@ def agentic_summary(chunk, bullet_points=None, previous_summary=None):
     return bullet_points, response3
 
 if __name__ == "__main__":
-    with open("texts/cr_s1e1.txt", "r", encoding="utf-8") as fr:
+    with open("texts/pokemon_agent.txt", "r", encoding="utf-8") as fr:
         doc = fr.read()
     # 1 OpenAI token is ~4 characters, so we can estimate the number of tokens
     # Use ~5k tokens per chunk so that there is room for other summary text.
