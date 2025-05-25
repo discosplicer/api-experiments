@@ -1,0 +1,4392 @@
+MATT: Hello everyone. My name is Matthew Mercer, voice actor and Dungeon Master for Critical Role on Geek & Sundry, where I take a bunch of other voice actors and run them through a fantastical fantasy adventure through the world of Dungeons & Dragons. We play every Thursday at 7:00pm Pacific Standard Time on Geek & Sundry's Twitch stream. Please come watch us live if you have the opportunity. Back episodes and future episodes will be uploaded on the Geek & Sundry website. You can also check them out there. In the meantime, enjoy! Welcome to first episode of Critical Role, and what this basically is is a continuation of our weekly D&D game. Me and a bunch of other likely nerdy and enjoyable voice actors gathering around, rolling some dice, killing some creatures, having some adventure. Now we have the pleasure of bringing it on the stream for you to watch, enjoy, and occasionally interact with. Before we get to that, to give you a little backstory on the characters you'll be seeing this evening, we're going to play some videos for you in a second. Do note, for all you hardcore gamers out there, a lot of this is house-ruled, loosey-goosey having a good time. So all you number crunchers, stop paying attention there, just have fun with it. Nevertheless, we have some background story on many of the characters you'll be seeing this evening to help you jump into the story. Let's go ahead and enjoy those in a minute, then we'll introduce the players. So have fun!
+
+TRAVIS: Right, listen up! If you have ale, then you have a friend in Grog Strongjaw! A goliath of towering height and size, this barbarian has an appetite for the two great loves in his life: combat, women, and ale!
+
+[record scratch] Wait.
+
+TRAVIS (CONT'D): Easily the brains of the group, Grog is often consulted for his vast knowledge of shapes, colors, and shiny things! Also ale. In his early years, armed with his two-handed greataxe, Grog often enjoyed proving his might amongst the ranks of his family's wandering herd. But after coming upon an unsuspecting elderly gnome in the woods, he objected to the killing of such an innocent life. A creature of impulse, Grog felt only pity for this– well, this terrified little thing. And his disobedience cost him dearly. Beaten bloody, and banished by the herd leader, his Uncle Kevdak, Grog was abandoned and left to die. Exiled from his herd, it was then that the relative of the very gnome he fought to save, saved him. It was the kindness of a gnome cleric named Pike that healed Grog, bringing him back from death's edge. And they have remained close friends ever since. Most nights, Grog can be found challenging entire taverns to wrestling matches! Or accompanying Scanlan to the nearest house where you pay for lady favors. Also ale!
+
+MARISHA: A first impression of Keyleth would leave you with little information on the half-elven druid. You might even think that her social awkwardness due to her sheltered upbringing is kind of sweet. Of course, it would be unwise underestimate her based on first impressions.
+
+[thunder crack]
+
+MARISHA (Cont'd): Under that un-intimidating petite frame is a vicious beast waiting to be unleashed, whose natural powers have made even the fiercest of champions pee their pants, literally! Born to the Air Tribe of the Ashari people, Keyleth was raised with a deep love of nature and the elemental magics. It is her people's inherent duty to protect the delicate areas in Tal'Dorei where the four elemental planes begin to bleed with this realm. Since she was a little girl, she had quite a knack for air manipulation and beast shaping abilities. Well, if you consider kittens and flying squirrels to be little beasts...which, I do. Anyways, it wasn't long before the headmaster of the tribe, her father, Korrin, realized her true prodigious abilities and she was inveterated to succeed him as the next headmaster. Just like that, her jovial childhood was stripped and replaced with endless spell memorization, teachings from ancient traditions, and exceedingly high expectations. Every druid leader-to-be must embark on a journey to seek out the sister tribes in order to introduce and establish respect amongst the fellow headmasters. They call this the Aramente, or Noble Odyssey. When her father felt she was ready, he set her on the path to truly discovering herself, not knowing when, or if, she will ever return. As she hiked down the mountain towards Stilben, she meditated on the task ahead. Part of the Aramente is proving yourself a strong warrior, a valiant protector, and a wise and compassionate leader. With this knowledge, one thought plays in repeat in her mind: Is she even worthy?
+
+TALIESIN: Percy was the third child of seven children, born to a noble family who lived far to the north in the ancient castle of Whitestone. With so many siblings to share the burdens of lordship, Percy turned his attention to the sciences, engineering, and naturalism. One day, a mysterious couple, named Lord and Lady Briarwood, came to court. During a feast held in their honor, the Briarwoods violently took control of the castle, killing or imprisoning everyone who would stand in their way. Percy awoke chained in the dungeon, only to be freed by his younger sister. Together they fled, chased by the Briarwoods' men. As they ran, Percy's sister took several arrows to the chest and fell. Percy kept running, eventually jumping into a freezing river and floating unconscious to freedom. He did not remember waking up on a fishing boat. He barely remembered the next two years, as he slowly made his way as far south as possible. Then one night, Percy had a dream: a roaring cloud of smoke offered him vengeance against those who destroyed his family. When he awoke, Percy began to design his first gun.
+
+SAM: Oh, you haven't heard of Scanlan Shorthalt? Well, gird your loins, ladies, because he has his eye on you. A talented musician, master of disguise, and dashingly handsome in his own mind, Scanlan sings songs almost as much as he sings his own praises. Born a poor gnome, Scanlan used his endless charm and soaring tenor voice to croon for coin and support his single mother. One day, he was discovered by a half-orc promoter, and joined Dr. Dranzel's Spectacular Traveling Troupe where he learned the ways of the world, and honed his skills as a bard extraordinaire. A loner much of his life, Scanlan has never quite come to terms with the violent death of his mother at the hands of a goblin invasion. While his years on the road provided many, shall we say, educational experiences with the opposite sex, deep down Scanlan yearns for the one thing he's never known: the true love of a fellow gnome. Still, Scanlan considers himself a lover first, performer second, and fighter distant third. On the battlefield, he'll support his allies, but rarely draws blood, unless it's to protect fellow gnome, Pike. Count on Scanlan for a hearty laugh, a rollicking song, and a twinkle in his eye that melts hearts and makes the females swoon.
+
+ORION: Greetings and salutations, I am Tiberius Stormwind. I hail from a town called Tyriex, located in the heart of Draconia. Born from a politically respected family, at the age of 15, I succeeded in passing the Sorcerer's Rite, showing prodigy-like control of my magic. The judges and the Draconian high council were amazed at how powerful my spells were for how long I had been training. At 20 years old, I was the youngest appointed member of the magic guild in Draconian history. For the next few years, I almost went mad from the malaise of being a guild member, as it's rather boring. However, one day I happened upon a chamber, unused for quite some time. In the room were stacks of books and maps of the surrounding cities and areas around the known world. For months, I would frequent the chamber, and learned of artifacts from legend. After a long period of research, I made a list of artifacts that caught my eye. I brought these findings to the high council and was told that all of the information in the chamber I had stumbled upon was either believed to be fiction, or unsolvable mysteries, and hence were lost forever. I found those answers to be unacceptable. A year later, I devised a ruse and managed to convince the city council to lend support in me leaving Draconia on a mission of peace and diplomacy for the surrounding kingdoms. Going from town to town and making friends and allies in and for the name of Draconia. Being a red dragonborn, I had quite the task on my hands in that respect, but it was exactly what I needed so I could explore the world and find these artifacts, as I felt the truth was out there. Some may describe me as buffoonish, but I say poppycock to all that. I am much sharper than most give me credit for. I just don't pay attention to things sometimes. I've also been known to be rather cunning, loyal, happy-go-lucky, and well, dangerous. I can't help but show my true scales every now and then. But overall, I think I'm quite friendly for a dragonborn.
+
+LIAM: Never entirely welcome in the company of elves or men, Vax'ildan learned at a young age to skip past formality, preferring instead to invite himself in your door. Along with twin sister, Vex'ahlia, Vax was born by a chance encounter between elven royalty and human peasantry. Raised by their mother in their early years, the twins were eventually sent off to their father in the elven capital of Syngorn. But their cool reception among the elves there never warmed, and their time in the capital didn't last. The siblings stole away one autumn night and set out on the open road. After a few years of wandering, they eventually decided to return to their mother, and journeyed back to the lands of their youth. But instead of finding their childhood home, they returned to a pile of rubble. Their mother was gone, their home burned to ash. Pressing the townspeople for answers, they learned of the day the dragon came. With their ties all severed, Vax'ildan and his sister set out to find their fortune together in Tal'Dorei. An outsider since birth, Vax quickly learned to solve life's challenges in his own particular way, often by sidestepping them entirely. And when his knack for circumventing adversity isn't enough, the way of blades the elves schooled him in more than makes up the difference.
+
+LAURA: Like so many half-elves, Vex'ahlia has spent most of her life suffering the cool reception of a people who don't fully accept her. Born of a human mother, and an elven father who only later in life took an interest in their existence, Vex'ahlia and her twin brother, Vax'ildan, quickly realized the only people they could truly rely on in this world were each other. It was at the age of ten when the two were taken from their mother, and brought to live in Syngorn, the isolated elven city for which their father was an ambassador. He quietly took them in, but always kept an icy distance, and after too many years of disdainful looks, the pair decided to leave his indifference behind, and set out on their own. Vax took to the cities, stealing small trinkets and learning the ways of the thief, while Vex kept to the woods. She preferred the isolation. Always the keen observer, she learned to hunt and to track, to spy and to shoot. Through a series of fateful events, earned herself a companion in the form of a bear– her own stolen Trinket – to fight alongside her and protect her fiercely. Also, he is adorable, and gives expert massages.
+
+
+
+MATT: Hey guys, welcome back. To give you a little heads up, we are playing the 5th edition of Dungeons & Dragons. We recently converted over from Pathfinder, for those who play Pathfinder. One of our players was a gunslinger, for which there are no rules for in 5th edition. So I had to create and customize those for the game, so bear with us on that. That will be an interesting ride, regardless. We do have an eight-player game we've been playing for two years, which is a little crazy, which is why we go a little loose with the rules. It's a great group, it's a lot of fun. Not everyone can make every game, so we have enough players to definitely pull a party each time.
+
+ZAC: Just so you know, we're having an audio bottleneck. It'll take about 30 seconds to work itself out.
+
+MATT: Okay, audio bottleneck.
+
+ZAC: Tech problems that make me want to murder someone.
+
+MATT: That's okay. Just a second. You let us know when it's okay to talk.
+
+TRAVIS: I don't know what that means, a bottleneck.
+
+MATT: Are we all right? And how are we? Exterminate. Exterminate.
+
+SAM: Nice. Audio isn't working they're going to watch something else. Thanks, douche.
+
+(laughter)
+
+MATT: Is the mic adjusted? Is it any better?
+
+ZAC: Better now. We're good.
+
+MATT: Well, great. Thank you guys. A couple of things transitioned from Pathfinder to 5th edition may be a little strange and fun. We have a lot of players, but they're great folks and most of that just means I have to work really hard to make sure the game keeps going, so that's on me. Ashley Johnson, unfortunately, cannot join us. She's our gnome cleric, Pike. She'll be here next week. Unfortunately, she's in London accepting a BAFTA, so I think we're okay. For the Last of Us. That's harsh. Also no donations this week, but going forward we will have donations available for those that will help partially run the show from our wonderful cameraman and crew. Also, half of our donations will go to the 826 charity. Marisha, if you want to talk a little about that.
+
+MARISHA: Yes! 826LA is a charity that focuses on tutoring children in an after-school program and helping specifically with creativity, storytelling, art and general things that relate to Dungeons & Dragons. You should definitely check out the Time Travel Mart. There is one in Echo Park and one in Mar Vista. They have this amazing storefront where you can buy these awesome tchotchkes and things that go immediately to support the charity and the stream. It's awesome. It's 826LA, you should look it up. There's a few all over the country.
+
+MATT: Yes. Also, as a heads up because I saw some of you guys ask me in the chatroom: These videos will be available on the Geek & Sundry YouTube Channel soon enough, as well as a more extensive backstory of the party. We'll have all that content ready for you so you don't have to memorize it. Maybe a bio page, I don't know. We'll figure something out. It'll be fine. Anyway, let's open that up. You know who I am. Matthew Mercer, voice actor and I've been running this game for two years. I'm a hardcore nerd. Let's go around the table and introduce our players so you can attach the faces to the intros you just saw. Let's start on this side with Travis.
+
+TRAVIS: Oh! Hi. I'm Travis Willingham, voice actor, gamer. I play Grog the goliath barbarian.
+
+LAURA: Hi. I'm Laura Bailey. I'm also, you know, a voice actor like everyone here.
+
+TRAVIS: Yeah. I think we all are.
+
+LAURA: I'm playing Vex'ahlia. The coolest chick ever.
+
+MATT: The ranger with the bear.
+
+LAURA: The ranger with the bear named Trinket, in case you didn't catch that. His name is Trinket and he's amazing.
+
+LIAM: Hi, I'm Liam O'Brien. I'm playing Vax'ildan. This one's twin. We're half-elven twins. I started playing D&D when I was 13 and I can't believe this is happening. So cheers. Cheers to this.
+
+TALIESIN: My name is Taliesin Jaffe. I'm a voice actor, director, and I've been playing some form of Dungeons & Dragons, and if you can't tell by my black clothing, a lot of Vampire the Masquerade when I was a teenager. There was a problem. I'm playing Percy, the Gunslinger. I'm the reason all the rules are all messed up.
+
+MARISHA: I am Keyleth, the druid from the tribe of the Air Ashari. I am a half-elven person.
+
+MATT: No, you're elven.
+
+MARISHA: No, half-elf.
+
+MATT: Half-elf. Okay.
+
+MARISHA: Yeah, Come on, man. I've been half-elf since day one. Half-elven. Yes! You can see me shooting lightning and turning into awesome animals./
+
+MATT: Orion.
+
+ORION and MATT: Hi.
+
+ORION (Cont'd): Hey, everybody. I'm Orion Acaba and I'm also a voice actor. I do things.
+
+MARISHA: Oh, I'm Marisha Ray, by the way.
+
+ORION: Yeah!
+
+MARISHA: Did I say that?
+
+ORION: Keyleth is Marisha Ray.
+
+MATT: Let Orion have his moment. Don't try and break–
+
+ORION: No, it's our moment.
+
+MATT: There you go. All right.
+
+ORION: I'm Tiberius the awesome sorcerer.
+
+MATT: Dragonborn sorcerer.
+
+ORION: Dragonborn, yeah! That's right.
+
+SAM: I'm Sam Riegel: a voice actor, and stuff. My character is Scanlan Shorthalt. The gnome bard who sings a lot. Let's start playing, yeah?
+
+(cheering)
+
+Part I
+MATT: All right! Let's jump on in. Thank you. Last we left off, to give you a little backstory. The party had completed a large venture in saving the nearby city of Emon. One of the central capitals of this human civilization of Tal'Dorei. They managed to halt a demonic insurrection within the throne and as such were greeted to a hero's celebration and had a keep built in their honor. Over the six month period of the keep being constructed, they went their own ways and then returned to see its final creation. However, they did not have a chance to really enjoy it immediately as one of their good friends and allies, Arcanist Allura Vysoren of the Tal'Dorei council came to them requesting their aid saying that a long time friend of hers, Lady Kima of Vord, who is a very well known and very well respected halfling paladin of Bahamut, the Platinum Dragon, had been gone on a pilgrimage for a while, essentially a vision quest that is part of her own development as a paladin. As part of this, she let the information go to Allura that a dark vision had come to her saying that some sort of evil root is beginning to breed beneath Kraghammer and the mountains within Kraghammer, which is the nearby dwarven civilization that you guys have previously not been allowed entry to because the dwarves weren't fans of nobody without any political means of entry. However, she managed to acquire the necessary documentation and offered you a very substantial reward should you find the whereabouts of Lady Kima of Vord and hopefully bring her back safely. You left on the pathway to the dwarven citadel of Kraghammer. You were ambushed by a group of roaming barbarian goliaths. Part way through the battle, Grog managed to recognize one of them as a previous ally and no longer an ally at this time.
+
+TRAVIS: Son of a bitch.
+
+MATT: Yep, the barbarian for his first and only time so far managed to avert battle through a social encounter and rolled pretty damn well on a persuasion check. So you got one. You get one. You got your one. Never again.
+
+TRAVIS: Next time he dies.
+
+MATT: Yeah. Essentially. Which managed to not turn it into complete bloodshed. You continued on your way to Kraghammer, presented your paperwork, were given entry into the city and that is where we begin this adventure.
+
+LAURA: Oh no.
+
+SAM: In the city of Kraghammer?
+
+MATT: In the city of Kraghammer.
+
+SAM: Wow! This is fantastic.
+
+TRAVIS: We're in, right?
+
+MARISHA: Yes. We were at the door. We were talking to someone right?
+
+MATT: Yeah, you were talking to the front guards at the gate of Kraghammer. They have begrudgingly let you inside. Giving you a couple of pointers little prods and sent you into the city proper. You made your way through the darkened alleyways and stone carved tunnel that leads into the main, central portion of the city proper. An enormous underground metropolis sprawls out before you. The dark earth and shadows creating beautiful stone work, marble columns, archways, and labyrinthine bridges climbing across the vertical cityscape. All warmed with the red glow of some strange, crimson rock peppered throughout the town as a light source. A large metal forge envelops the center of this cylindrical city. The entire is a three-tiered cylindrical city that is built into the ground of the mountain itself. Welcome to Kraghammer!
+
+LIAM: Remind us. Did we bullshit our way in here, or did–
+
+LAURA: No, we had a way in.
+
+MATT: No, Allura got your paperwork so you were actually able to get in this time.
+
+LAURA: But, Ashley speaks Dwarvish. Pike speaks–
+
+MATT: Pike speaks Dwarvish and she's not here.
+
+ORION: I speak Dwarvish as well!
+
+LAURA: Oh good!
+
+ORION: I do.
+
+SAM: That's fantastic.
+
+MATT: The only other bit of information you have about the whereabouts of her is that she came here to go into the mine Apparently, a mithral mine where this evil is supposedly brewing. You heard that the one person who owns the biggest part of the mithral market here cornering, his name was the dwarven Lord Nostoc Greyspine. That was the only name you had in regards to this deep earth quarry.
+
+SAM: Greyspine?
+
+MATT: Greyspine, correct.
+
+SAM: We have to go find him, don't we?
+
+TALIESIN: I think before we do anything we should find a place to sleep.
+
+ORION: That's true!
+
+TRAVIS: Oh! We're all jacked up from before, right?
+
+TALIESIN: Wouldn't it be nice to put everything down for a little while.
+
+SAM: Of course. I've got a lot of booty that I need to stow.
+
+ORION: Good way to phrase that, Scanlan. Also, I would like to check out any places where they might have enchanted libraries or what not.
+
+SAM: Can you stick with us? You're the only one that speaks Dwarvish.
+
+LIAM: Yes, you're getting ahead of yourself.
+
+ORION: I'm just saying put it on the list.
+
+LIAM: Let's look around. Are there any dwarves in the vicinity?
+
+MATT: Oh, there are many! As you finish this conversation you look about there are two guards posted nearby wearing dark crimson and brass chest plates that have a uniform scar carved across the front. It's actually built into the armor itself as a design. They're both staring awkwardly at all of you arguing in the middle of this entry thoroughfare of Kraghammer.
+
+LIAM: Tiberius, make with the dwarf-talk, please.
+
+ORION: Hello, friends. My associates and I were looking for a place of lodging for the night and a place of reputable reputation.
+
+MATT: One dwarf shouts over to another one, “You hear that, Jepson?! They're looking for a place to “stay.” “Aye, I heard that right. It's about time we had some new folk in town. Well, if you're 'looking for a place to stay' I'd say your best bet would be the Pig Pits.”
+
+SAM: Is that the name of a place?
+
+MATT: “Yes! Certainly! The Pig Pits.”
+
+SAM: All right.
+
+MATT: “Ask for the Pig Pits–”
+
+LAURA: Those are actually pig pits, isn't it?
+
+MARISHA: I feel like we're being hazed.
+
+MATT: “What?! No! Not at all.”
+
+TRAVIS: That sounds fine with me.
+
+LIAM: This is Common?
+
+MATT: This is all in Common, yeah.
+
+SAM: Which way to the Pig Pits, sir?
+
+MATT: “Pig Pits are that way.” He points over the edge and you see down past the central forge structure in the city to the very bottom nearby a large temple that envelops the bottom floor of Kraghammer proper there is indeed a distant slop of mud where internal livestock are being kept.
+
+LAURA: I bring out a piece of gold. Please, sir, we're looking for a place to stay that isn't covered in mud.
+
+MATT: “It's good to see that at least one of you speaks Dwarvish.” Takes the coin, kinks it in his teeth and goes, “All right, now if you're looking for a proper place to stay you're going to look for the Iron Hearth Tavern. That is to your left up that way no more than a half mile. Keep an eye out. Listen for the laughter and the people who are very drunk. That's your best bet.”
+
+LAURA: Thank you, sir.
+
+MATT: “No worries.”
+
+LAURA: I like your armor by the way.
+
+MATT: “Well, thank you kindly.”
+
+TRAVIS: Was that a wink?
+
+LAURA: It was.
+
+LIAM: That's all she does.
+
+LAURA: That's all I do is wink at people.
+
+LIAM: It's a nervous tic, really.
+
+MATT: It's a feat she took. You progress to the western side of the Kraghammer rotation as you curl around the central platform. Making your way eventually to the outside of this rather large, central tavern inn. As you walk in, you can hear music playing, you can hear laughter and boastful cheer, you can hear some arguments in the distance. You can hear it from a good two or three buildings away. This is definitely a central social environment here in Kraghammer. As you walk inside, you– Let me get some proper tavern music here for you.
+
+SAM: Smells in here.
+
+TRAVIS: Drinking territory.
+
+MATT: You hear some loud boisterous (hearty dwarven laughter), some drinks being clinked together. As you walk in, the first thing that catches you is the scent of stale alcohol and smoked wood of some kind.
+
+TRAVIS: Yes!
+
+MATT: There are tables, most of them in decent condition, some of them half-broken and repaired, probably from some previous encounter in the bar. In the center of the room, there looks to be a not currently in use, specifically built brawling circle. It's about 30 feet by 20 feet. It's more of an oval. It's not in use, currently.
+
+SAM: An octagon?
+
+MATT: Essentially.
+
+LIAM: How high is the ceiling here? Can Grog fit in here?
+
+TRAVIS: Oh right, am I like–?
+
+MATT: The ceiling actually is considered vaulted ceiling for dwarves so it runs at about seven feet. For Grog, it's uncomfortable, almost scratching your head across the top. As you enter, about seven or eight of the nearby dwarves at the front door go, (hearty laughter). They look immediately at the ragtag non-dwarven group that just stumbled into the center of the tavern.
+
+TRAVIS: What're you looking at?
+
+MATT: “It's not very often we get someone with that kind of a mug on you. Let me buy you a drink, come "sit down!”
+
+TRAVIS: My kind of people, see you later! I go grab the drink with the lovely dwarves.
+
+LAURA: We grab a table next to the dwarves with Grog.
+
+MATT: Both tables next to the table they're at are completely filled with dwarves.
+
+LIAM: I take a sack of gold out of my own pocket, slam it down on the table–
+
+LAURA: A sack of gold, are you crazy?!
+
+LIAM: Gentlemens and ladies. Ladies and gentlemen, we are traveling from far away. We just arrived from Emon. We are fascinated to see your underground city and to celebrate the occasion I would like to buy every dwarf in here a round. Bartender!
+
+MATT: The music stops. The conversation stops. All dwarven eyes turn to the table and they all turn to a single dwarven woman in the back who's behind one of the bars, who has a towel over one arm. She's looking around, she's staring confused at you and all eyes are on her, and she goes, “Well, it's about time someone around here had some generosity! Certainly, pay upfront. Drinks all around on this half-elven gentleman.”
+
+LIAM: Let it rain!
+
+(cheering)
+
+MARISHA: Make it rain.
+
+TRAVIS: I would like a cask of ale.
+
+LIAM: I'll need your largest bowl of ale for this one here.
+
+TRAVIS: Cask. Cask of ale. Cask.
+
+MATT: “No worries, Adra's got your back, be right back.” She wanders off to the back room, comes back and starts pouring stein after stein after stein of ale.
+
+TRAVIS: Yeah. Keep going. Looks good.
+
+MATT: You do notice she is definitely the head of this tavern and all of her barkeeps are male and seem to be worked rather ragged.
+
+LAURA: What was her name?
+
+SAM: Excuse me, miss. You.
+
+MATT: “Adra. Yeah?”
+
+SAM: I'm sorry?
+
+MATT: “Adra.”
+
+SAM: Adra! You run a fantastic establishment.
+
+MATT: “That's right I do!”
+
+SAM: Thank you for welcoming us and allowing us to buy this round.
+
+MATT: “Of course. Patrons that come and drop coin like that are welcome any time.”
+
+SAM: Well, thank you for your hospitality. Might we inquire about staying here the night? Do you have an inn with the establishment?
+
+MATT: She reaches below and pulls out a big tome and starts thumbing through it. “You know, "actually we have openings right now on the second floor.”
+
+SAM: Several rooms, or just one?
+
+MATT: “Do you need them side by side?”
+
+SAM: That would be nice.
+
+MATT: “We could pull him there and push him into room seven.”
+
+SAM: Something with a little bed for me.
+
+MATT: “Giles!” One of the dwarf barmaiders comes over. “Aye?” “Get Stepheson out of his room, move him to the third floor. We have to open a block for our new guests.” “Ugh, fine.” The older dwarf stumbles his way up the stairs begrudgingly. “Right, so I can get a room for each of you. We're looking at eight rooms separately, that will run you per evening about 25 gold pieces. Does that sound about right?”
+
+TRAVIS: Total?
+
+MATT: “25 total pieces.”
+
+SAM: Oh, okay.
+
+LAURA: You want to share a room?
+
+MARISHA: Yeah! We'll bunk up.
+
+SAM: Grog, you and me. I can sleep on your feet.
+
+LAURA: Probably like 15 gold then for just that amount.
+
+MATT: She visibly deflates a little bit and is like, “All right, fair enough. Five rooms it is. 15 gold per room.”
+
+SAM: We're penny pinchers.
+
+MATT: “How long do you expect to stay?”
+
+ORION: At least a few days.
+
+SAM: I'd say a week.
+
+TALIESIN: With an indefinite hold, we have business in the city.
+
+MATT: “Right! Well how bout we pay the week in advance and I'll give you a discount?”
+
+LAURA: What's the discount?
+
+MARISHA: Wait. I thought we were going to be heading south?
+
+MATT: “Let's say, 100 gold for the week, all five rooms.”
+
+LIAM: We're pretty flush, I think we can handle it.
+
+LAURA: Yes. That works.
+
+TALIESIN: This doesn't terrify me.
+
+LAURA: I think I did the math wrong.
+
+TRAVIS: I was told there would be no math.
+
+SAM: Sounds good!
+
+LAURA: Gah! I hate not having a calculator! Fine!
+
+MATT: “Ah! Great!” She pulls back and pulls some keys out and hands them to the rest of you. Hands you some paperwork, shows you which rooms are yours and says, “You're welcome to stay all you like, ask questions, hang about. Just make sure you don't do anything stupid near the Carvers.”
+
+ORION: Ooh! Like what? I do things like that all the time!
+
+LIAM: Sorry. Our Dwarvish is a little thick. Near the–?
+
+MATT: “The Carvers, the Carvers!”
+
+LAURA: The carvas. Of course.
+
+MATT: “The Carvers!”
+
+ORION: The Converse! Of course!
+
+SAM: The Car Verse?
+
+MATT: “Is this your first time in Kraghammer?”
+
+ALL: Yes!
+
+MATT: “The Carvers are the guard that run this city. They're the ones that keep the law.”
+
+LAURA: The scar!
+
+MATT: “Yes, the armor, the Carvers!”
+
+TRAVIS: Yeah, what is with the scar? I've got one myself.
+
+MATT: She leans back and as you reveal the rather gnarled scar on your chest. She reels back a bit and two of the nearby dwarves go, “Yeah!” They chug down their drinks.
+
+TRAVIS: Yeah! More drinking!
+
+MATT: They start showing their scars and are like, “Oh no! I got this one from an iron bolt!” They start talking about different creatures they fought. “All right. Well, the Carvers are a bit of a– how do I put it? A military class in this city. They run a very tight ship on the streets, so be careful.”
+
+TALIESIN: That shouldn't be a problem. Mostly we are looking for Lord Greyspine, if I recall. We have business with him.
+
+LAURA: We might have business with you, if you've seen a halfling come through.
+
+MATT: She thinks to herself and goes, “There was a halfling woman, but she was staying at the "Firebrook Inn.”
+
+LAURA: The Firebrook.
+
+MATT: “The bottom floor, for a couple of weeks. There was talk about her. She got in a few fights herself. The one with the silver armor? That one? Yeah, she was a firebrand if ever I saw one. Right up my alley, I like that one.”
+
+TALIESIN: How long ago would you say this was?
+
+MATT: “Oh, she went through a few weeks. I haven't seen her recently.”
+
+TALIESIN: Thank you. Perfect.
+
+TRAVIS: Is there a champion of the circle of fighting in the tavern? Is there a reigning–
+
+SAM: Already, Grog?!
+
+TRAVIS: Well, I have to know these things!
+
+TALIESIN: He has to do something.
+
+MATT: She turns the barrel that she has on the table towards you a little bit and you can see the actual symbol, this burned image on the side that says, “Balgus Brewery.” She goes, “That'll be Balgus. The one that supplies us with what you're drinking. He's the undefeated champion. But I don't think he's quite right to fight at the moment.” She points towards the very edge of the bar and you see one older grizzled dwarf, long gray hair pulled into straight braids in the back, big bushy beard that's all shoved up into his face because he's asleep, drunk as a skunk, on the edge of the bar.
+
+TRAVIS: My type of dwarf. Maybe we'll can use him as a merc later or something. All right, another time then.
+
+SAM: Another time.
+
+LIAM: Save it for a rainy day.
+
+TRAVIS: Does it rain down here?
+
+TALIESIN: I don't think they have rainy days.
+
+MATT: “You said Greyspine?”
+
+LAURA: Yes, Greyspine.
+
+TALIESIN: We are looking to set up a meeting.
+
+MATT: “Which Greyspine?”
+
+SAM: Nostoc?
+
+MATT: “Nostoc Greyspine. He's definitely a business type one.”
+
+ORION: Well who's the friendlier Greypsine?
+
+MATT: “The friendlier of the types would probably be the head of House Greyspine.”
+
+MARISHA: Wait, how many Greyspines are there?
+
+MATT: “Oh, well there's probably several at this point, I've lost track. The family line's been going for a while. However, of House Greyspine currently, Ironkeeper Gradim Greyspine is the head of this entire city. Voted in ten years ago, actually. He's head of the council.”
+
+MARISHA: Ironkeeper what?
+
+MATT: “Ironkeeper Gradim Greypsine. Gradim! You're– (sigh) These commoners. Learn to speak the language!”
+
+ORION: I understood!
+
+LIAM: Adra, may I ask, obviously we have no dwarves in our little party.
+
+MATT: “Unfortunately.”
+
+LAURA: Unfortunately for us.
+
+LIAM: Sorry, about that. You're very welcoming. We appreciate that. How welcoming would you say the city is to outsiders? Would we stick out like a sore thumb?
+
+MATT: “Probably. As long as you don't do anything stupid. As long as you keep the coin flowing, and as long as you stay to the upper levels. The lower levels you get to more of the business: the miners, the forges, the foundries. When you get to the business areas, that's where the guard gets heavier and that's where folks don't like you poking near their money.”
+
+SAM: So the lower levels would have the mithral mines?
+
+MATT: “The mithral mine, aye.”
+
+SAM: There's one?
+
+MATT: “There is one now. It's all been, and has been for quite some time, completely helmed up and run by House Greypsine. The Keystone Quarry is what you're looking for.”
+
+LIAM: We're not really interested in that. We just want to see the city. Our business is elsewhere.
+
+MATT: “Yeah, I would not recommend it. Not without proper business credentials on that. You'll end up being questioned very heavily.”
+
+LIAM: Sounds like a dirty business, anyway.
+
+LAURA: Right.
+
+TRAVIS: Yeah, you want to stay away from those miners Scanlan, that's a dirty business.
+
+MATT: She gives you a look almost like it was a slightly racist statement, but then passes it off because you paid her a lot of coin today.
+
+MARISHA: So racist.
+
+LAURA: So No-stock. Nostoc?
+
+LIAM: Nostoc.
+
+LAURA: Nostoc Greyspine.
+
+MATT: “Yes.”
+
+LAURA: You said that he's kind of a–?
+
+MATT: “Oh, there's a reason he's the one put in charge of the mines and the businesses and the foundries.”
+
+LAURA: Oh. Where is he located, exactly?
+
+MATT: “Well, if he's not home at the actual Greyspine Manor– which is a sprawling house. It contains all the ones who live there.”
+
+TRAVIS: We're going there!
+
+MATT: “He's probably down at the actual–” What is it? Pardon. Bear with me. Consult my notes! “He's probably down by the Greyspine quarry itself, keeping an eye on the business there.” There's a nearby dwarf having a few drinks, goes, “Ah, Greyspine, there's been troubles round there! Apparently, a friend of mine works there. Got a big, nasty scar last week. Wouldn't even pay him for his time off to heal. It's bullshit!” He slams his drink down on the table.
+
+SAM: Down at the quarry?
+
+MATT: “Aye.”
+
+MARISHA: How did your friend get this nasty cut?
+
+MATT: “He works there! Said there was things pouring out of the caves. Goblins and the like!”
+
+LAURA and SAM: Goblins?
+
+MATT: “Ah, goblins are nothing.”
+
+LAURA: Of course not.
+
+MATT: “Seems there's something other than goblins poking out through this hole. Just saying, that business is in for a serious problem if it doesn't change.”
+
+LAURA: Does your friend ever have drinks here? “No. He's been sober for two years. We're not friends anymore.” Tugs on his beard a little bit.
+
+MARISHA: Oh. I'm sorry. I think.
+
+SAM: A lot to process.
+
+MATT: He pours another drink. At which point, Adra slaps his hand and says, “Pay that. He bought one round!” He finishes his drink and walks away.
+
+ORION: Excuse me, one thing, Adra, are there any mystics in this particular town that study any arcane arts?
+
+MATT: “Of course! What, you think dwarves are just the baseline folks who brawl each other?”
+
+MARISHA: So many racist comments. Jeez!
+
+MATT: “What you're looking for is House Thunderbrand. They are the ones who, by blood, have the arcane arts in their family line.”
+
+ORION: Interesting.
+
+MATT: “They run most of the enchantment process in the city, they also train– they call it train– some of us call it more 'indoctrination.' But, they're definitely the focus of all arcane arts here in Kraghammer.”
+
+ORION: Thank you.
+
+SAM: Thank you for your time, Adra. Carry on with your evening. We'll seek you out if we have any more questions.
+
+MATT: “Certainly. Now if you don't mind,” She scoots you aside, and you see a line, a queue of dwarves behind her, with their empty cups, waiting to get to her to fill up the drinks that you bought.
+
+MARISHA: Oh, that's– we did promise that.
+
+LIAM: Enjoy, gentlemen! And lady.
+
+LAURA: What time of day is it?
+
+MATT: Best that you can tell, inside– you can't. You just arrived, probably around 3:00 or 4:00 in the afternoon, so you're probably pushing sunset right about now.
+
+LAURA: Do dwarves carry the same schedule?
+
+MARISHA: I don't know.
+
+LAURA: Does anyone know?
+
+TALIESIN: There's only one way to find out.
+
+MATT: Make an intelligence check!
+
+TRAVIS: Oh! Roll it! You're the first one.
+
+LIAM: First die rolling. Nice!
+
+LAURA: 18, plus, what is that? Investigation? Or insight?
+
+MATT: This would be a straight intelligence roll on this one, so your general knowledge of dwarves.
+
+LAURA: Oh. 20, then.
+
+MATT: 20. That's not too bad! In your experience, you know dwarves, depending on their lifestyle and what they do for a living, their clocks can run differently, but for the most part, they run in tandem with most other races just because it makes it easier for dealing with outside forces. But, like I said, it's very variable. There is no set, locked time of: this is morning, this is evening, they just sleep when they need to and wake up when they need to.
+
+LAURA: All right. Good to know.
+
+MARISHA: It's like living in Alaska.
+
+LAURA: Right!
+
+MATT and MARISHA: Dwarven Alaska.
+
+SAM: Yes, fellows, what should we do?
+
+LAURA: Check out the Firebrook Inn, yes. That was where Lady Kima was staying. Also, I think somebody should run reconnaissance on Greyspine Manor.
+
+TRAVIS: Like stealth, you mean?
+
+LIAM: Yes. I don't think we should try to go directly to the mines and find Nostoc.
+
+LAURA: No.
+
+SAM: Agreed.
+
+LIAM: No, I think maybe we should enlist the help of a dwarf here in the city to introduce us to Nostoc. I mean, we're not trying to raise hell, or bring down a thousand dwarves upon us.
+
+TALIESIN: There's no sense attempting to be subtle.
+
+SAM: Although, that does sound fun.
+
+TALIESIN: Everyone's going to know that we're here, and what we're looking for by morning.
+
+TRAVIS: Why don't we get old Drunky Greybeard that's got his face down on the bar to do it?
+
+LAURA: Yeah, but he's very– Well, let's ask him. Maybe he's drunk enough to help us. Saddle up, Grog!
+
+TRAVIS: Me?
+
+LAURA: People seem to like you here.
+
+TRAVIS: Yeah, but I'm really– oh, that's true.
+
+LIAM: You're the connoisseur.
+
+TRAVIS: Maybe I'll part my armor, so he can see the scar. Post up on the bar.
+
+MARISHA: Take him a drink!
+
+TRAVIS: All right.
+
+LAURA: Yes, take him a drink. A very large drink.
+
+TRAVIS: I would like to get the largest goblet you have of ale, and I would like to go over to, what was his name? Bulbous?
+
+MATT: Balgus.
+
+ALL: Balgus.
+
+TRAVIS: I had it right.
+
+MATT: Close.
+
+TRAVIS: Balgus. I would like to–
+
+SAM: I'm coming with Grog.
+
+TRAVIS: Yes. I would like to go up and put my scar, and post up on the bar and (throat clearing)
+
+MATT: (snores)
+
+TRAVIS: (louder throat clearing)
+
+SAM: I take out my flute and I play a little Healing Words spell and try to heal him of his drunkenness.
+
+LAURA: Just a little of his drunkenness, not all of his drunkenness.
+
+TRAVIS: He likes him drunk, so maybe like, half.
+
+MATT: You play your tune, a beautiful little tune that saunters through the air.The magical energies emanate from the notes you make, drift into his torso; you can see a slight glow and he, “(grumbling) Where's that blasted music coming from?” His hand goes out and paws towards the flute.
+
+SAM: Huh, I don't know where that was coming from.
+
+TRAVIS: I'm sorry to disturb you, your name is of great repute around these parts.
+
+MATT: He wipes a globule of drool that's crusted into his beard. “Aye, you've bothered me nap. What do you want from Balgus?”
+
+TRAVIS: We were wondering if we might, perchance, acquire your knowledge about town, for a bit of a search.
+
+LAURA: (whispered) Talk to him about fighting first.
+
+TRAVIS: Right, I hear you're a good fighter. You look strong.
+
+MATT: “I've heard the same.”
+
+TRAVIS: Right. How often do you get challengers in this tavern?
+
+MATT: “Not as often as I get woken up from my sleep. Which is never. Because only stupid people do that.”
+
+LAURA: Lost cause. Abandon ship!
+
+TRAVIS: Right. I have an intelligence of six, I know what I'm doing.
+
+LAURA: Okay.
+
+TRAVIS: There is a very pretty lady over there, with slightly pointy ears. (whispering) I'm
+
+talking about you or you. (normal volume) There's two of them! They were actually wanting to ask you
+
+a question if you wouldn't mind.
+
+MATT: Make a persuasion roll.
+
+TRAVIS: Me?!
+
+SAM: Why is he doing this?
+
+LAURA: Why would you throw this to us?
+
+MARISHA: I know!
+
+TRAVIS: Because I was either going to fight him or I was going to throw boobs at him, and I went with boobs.
+
+MARISHA: He realized he was sinking.
+
+MATT: That's level ten you get that, by the way. Throw Boobs.
+
+LAURA: Persuasion. Oh! Good roll.
+
+TRAVIS: Look at that: one. 19!
+
+LAURA: Woo!
+
+MATT: 19? He takes a moment, and grabs the drink that you prepared from his hand and goes (gulps).
+
+TRAVIS: Nice form.
+
+MATT: “You've got five minutes.” Then he stretches his back a bit. This gnarled hunch that he holds in his physical posture, flexes it a bit, and now you can see the rippling muscles that show beneath his tunic. This is a built dwarf. You don't know what past he's had, moving boulders or forging crazy iron shit, but there's a reason this guy has a reputation. He stands up off of his stool, which you can now hear crack with the weight of a dwarf, which are made for normal dwarves. This guy is solid muscle. He saunters over, looks about for a second, almost like he's looking for his next target. Sees the pointy ears, sees the pointy ears, and goes (sighs) and saunters up to the table, slams his hand down.
+
+MARISHA: Why is he coming towards us?
+
+TRAVIS: Because I told him to. Because you're supposed to ask him–
+
+SAM: Boobs!
+
+LIAM: Steady as she goes, ladies.
+
+MATT: He sits down.
+
+MARISHA: (whispered to Laura) You're better at this than I am.
+
+MATT: “You called for Balgus, why?”
+
+LAURA: Oh! Hello, Balgus.
+
+MARISHA: Hi, Balgus.
+
+LAURA: We just heard you're so impressive and masculine.
+
+MARISHA: Yes!
+
+LAURA: We really wanted to talk to you.
+
+ORION: I use my Earring of Whisper to Vex. Cool it down.
+
+LAURA: Oh sh– okay.
+
+ORION: Calm down. Not so sexy.
+
+MARISHA: I reach out and I stroke his bicep because I can't hear that.
+
+MATT: Make a persuasion check.
+
+ORION: Keyleth, stop doing that.
+
+LIAM: I disagree, heat it up.
+
+LAURA: Roll so good.
+
+MARISHA: I'm really low in charisma. I'm really awkward. Persuasion.
+
+MATT: Roll your persuasion.
+
+TALIESIN: (groans)
+
+LAURA: Oh no, what was it?
+
+MARISHA: I rolled a two?
+
+MATT: Plus?
+
+MARISHA: Plus my persuasion of zero, because I have a shitty charisma.
+
+MATT: As your arm reaches for his bicep–
+
+MARISHA: I didn't say anything. I just touched him!
+
+MATT: As your arm reaches for his bicep, his hand, belying his grumpy, half-asleep haze– with unnatural speed reaches out and slaps your hand to the side. Not painfully, but just, “No touching the drunk dwarf.”
+
+LAURA: Sorry about my friend, Balgus. She's just so impressed with your muscles. We've heard amazing things about you here.
+
+MATT: “Have you?”
+
+LAURA: We have.
+
+MATT: Tell me, what have you heard?”
+
+LAURA: We've heard that no fighter can match your skill.
+
+MATT: “You've heard correct.”
+
+LAURA: We've heard that you know more about this town than anyone else.
+
+MATT: “I've been around a bit, yeah.”
+
+LAURA: Yeah. I bet nobody knows more about the Greyspines than you do and they've been around a long time.
+
+MATT: “Political ass minds is what they are.”
+
+SAM: Assmanes?
+
+MATT: “Not keen to them– ass minds.”
+
+MARISHA: Ass mines?
+
+MATT: “They've got minds of an ass.”
+
+MARISHA: Oh, I thought you meant like, mines that ex– Sorry. Go ahead. No, ass minds. Yes, they have ass minds.
+
+MATT: “The Greyspines are no friend of mine. ”
+
+LAURA: No, I've heard they're terrible. What do you do, Balgus?
+
+MATT: “What do I do? I own the brewery in town!”
+
+LAURA: (gasp) You do?
+
+MATT: “The only one.”
+
+LAURA: The best brewery?
+
+MATT: “The only! Of course it's the best!” I've put everyone out of business. We export to most of Tal'Dorei.“
+
+LAURA: This ale is amazing, that I'm drinking right now.
+
+MATT: "Damn right it is!” You set it down and he takes it from your hand a little bit and takes a sip himself and sets it down again. (inhales deeply) (spits)
+
+MARISHA: It seems that you aren't challenged often in business and in fighting.
+
+ORION: I saunter over. Hello! My name is Tiberius Stormwind!
+
+TRAVIS: We're all going to die.
+
+MATT: He glances over and says, “Dragonborn. I haven't fought one of your kind in a long time.”
+
+ORION: Oh! Who's the last dragonborn you fought? Do you remember his name?
+
+MATT: “I recall his name was 'Broken and Bloody.'”
+
+SAM: I think that's a friend of yours.
+
+ORION: No, I know him! I know the Bloody family, they're terrible people. Anyway, my associates and I were wondering if you might come– Is that what we're doing? Trying to get him to come with us?
+
+LAURA: Anyway!
+
+SAM: We're trying to find out more about Greyspine. Where he might be or who his associates might be.
+
+MARISHA: Gee, I'm so glad you came over.
+
+ORION: Would you like to accompany us on this journey that we're taking? We're trying to find the Greyspines and you seem like you would want to come in on this.
+
+TALIESIN: We think there might be something rotten in the mines.
+
+MATT: Make a persuasion roll. You can assist if you like.
+
+TALIESIN: I'm assisting in this persuasion roll, good god.
+
+MATT: That just means he has advantage.
+
+ORION: Oh, I get advantage?
+
+TALIESIN: 21.
+
+MATT: Yeah, so you get advantage on this roll.
+
+SAM: So you roll twice.
+
+MARISHA: What was the first thing you rolled?
+
+ORION: Three. I'll take the 18.
+
+MARISHA: Definitely take that 18.
+
+ORION: Oh and plus my–
+
+MARISHA: Persuasion.
+
+MATT: He looks at you keenly, which–
+
+ORION: Which is a nine.
+
+LAURA: Whoa, you have a nine persuasion?!
+
+ORION: That's why I talk.
+
+MARISHA: He's pretty charismatic.
+
+MATT: He goes, “Well no, I don't really want to go anywhere with you. But if you're looking to go ahead and talk to the Greyspines, you don't want to go empty-handed. It's customary to come with a gift of some kind.”
+
+LAURA: Oh really?
+
+SAM: What might they like?
+
+MATT: “Well, let's just say, I have the finest brewery in the city.”
+
+LAURA: Oh!
+
+MATT: “I have some fine, very rare, very exotic drinks that I could, perchance, sell to you.”
+
+LIAM: Pay the dwarf.
+
+LAURA: How much for this exotic ale?
+
+MATT: “How exotic you wanting?”
+
+LAURA: We want to get in the door. We want him to like us.
+
+MATT: “I can give you the finest of thistle branch, dark blood wine. This was crafted by myself, from a rare bloodthistle branch that I had brought over from the far-off city of Kamordah. This, I personally oversaw. It took me four years to fill this barrel full. It'll cost you 500 gold pieces. But it is a king's red wine!”
+
+MARISHA: Can I do a persuasion check– a perception check to see if he's lying?
+
+MATT: This would be insight. Go ahead and roll insight.
+
+TALIESIN: I'm going to go walk over to Grog really quickly.
+
+MARISHA: 27.
+
+MATT: He seems too drunk to lie.
+
+SAM: Let's just do it.
+
+LAURA: Tell you what, Balgus. We have some very rare items with us that I think you might be interested in.
+
+MATT: “Make it quick! You've got one minute.”
+
+LAURA: We've got one minute? Well, we've got–
+
+MATT: “My time is far worth the 500 gold you've already been talking about.”
+
+LAURA: We've got this with us right now.
+
+TRAVIS: We've got a bunch of dragon pieces.
+
+ORION: Do you like dragon pieces?
+
+TRAVIS: We've got 37 dragon teeth, one dragon eye, four cups of dragon blood–
+
+LAURA: We've got this cup of dragon blood! Which I know can be added to ale or wine and makes it quite sensational.
+
+MATT: He takes the sealed cup and sloshes it around in his hand. The actual liquid is coagulated to such a point that it's less of a blood and more of a gelatin. (sloshing sounds)
+
+TRAVIS: It gets better with age.
+
+LAURA: Exactly, a spoon of it!
+
+MATT: He peeks it open and (sniffs). “Yes!”
+
+LAURA: I think that's really expensive, actually.
+
+MATT: “I can have this appraised, but if you want to do a straight trade for the barrel for this, I'll take you up on that.”
+
+LAURA: Shit, no.
+
+SAM: Just go for it.
+
+LAURA: All right, fine! One cup of it.
+
+MATT: “All right.” He takes the cup, puts it in a small satchel on his side. “Adra!” “Aye, what do you want, you drunken bastard?” “They've bought me thistle blood wine. Take it out back. Here's the key.” He tosses her the key. She grabs it and goes, “Really? Ooh, just walked in, they're buying fancy.” She comes back with two of her barmaiders who are begrudgingly carrying it with her. It's a nice barrel. It has a gold trim. The actual bands that hold the wood together is gold. The branding on the side is gold leafed into the wood. It's fine, exquisite, we're talking top shelf BevMo-style, awesome dwarven wine.
+
+MARISHA: Top shelf at BevMo!
+
+MATT: He pats it and he goes, “All yours. If this doesn't get you in the door, I'll eat my shoe.”
+
+TRAVIS: Have you ever done that?
+
+MATT: “Maybe, I forget a lot of nights.”
+
+SAM: Where might that door be?
+
+MATT: “Minute's up, you'll have to ask around, but it was great doing business with you.” He walks away from the table.
+
+TRAVIS: I put it in the bag of holding.
+
+MATT: It does not fit in the bag of holding.
+
+LAURA and TRAVIS: What?!
+
+MATT: The barrel is too big, you barely got Dork the ox in there. Which, for the record, they did fit a small ox in the bag of holding and then realized later on that there was no airflow.
+
+TRAVIS: He came out!
+
+TALIESIN: I feel like we weren't going to discuss that. I felt that that was in the past.
+
+MATT: I felt that was a necessary story.
+
+SAM: Maybe if we drank some of it, it would fit.
+
+LAURA: The troll dick. Is that still in there or no?
+
+TRAVIS: No, we actually got rid of the troll dick.
+
+LAURA: Oh, okay.
+
+TALIESIN: Did we trade the troll dick for something?
+
+MARISHA: I thought we like used it as a weapon.
+
+TRAVIS: I offered it up, but by that time it had turned into a slimy–
+
+LAURA: Ew.
+
+MARISHA: I thought we threw it at somebody.
+
+LAURA: Can I stop Adra then and ask her where Greyspine Manor is? Keep, manor, whatever.
+
+MATT: “Ah, well I can have him do it.” She pokes one of the barmaiders who turns around. This one's younger, he looks like he's frazzled and maybe new here or at least trying to make his way. He goes, “Okay, I can show you around, just follow me outside, come follow me.” He walks out. He's got a little apron on. He leads you guys outside. He brings you to the edge of the outer walkway of the central ring you're on. He points across the way and what you can see is a series of marble pillars that outline a residential district that opens and consumes the other side of the central ring of Kraghammer. He says, “If you go past far in that way, you'll look for the house of Greyspine. It's the one that has dark black marble with gold tinting inside the spiraling vein of the marble, it's gold. The gate outside is wrought iron, black iron, that's topped with a series of pikes and–” Pike awkwardly looks sickened, not understanding. “The real key point is, if you look on the front yard, you'll see a dwarven statue of the current Ironkeeper himself. That's where you'll want to go.”
+
+SAM: Yes, very helpful, young man.
+
+LAURA: Thank you so much.
+
+MATT: “Of course. If you get the chance, you could fill out a little form saying how helpful I've been–”
+
+SAM: Are there suggestion cards here?
+
+MARISHA: Oh, absolutely.
+
+MATT: “Here.” He pulls out a small parchment and hands it to you. It's handwritten with a couple of checkboxes.
+
+ORION: You should give us all a copy so you will have multiple.
+
+MATT: “I only have one.”
+
+ORION: Oh, okay, that's fine.
+
+MATT: “Sorry!”
+
+SAM: Confidence needs improvement.
+
+LAURA: Oh, it's okay, we have a wonderful writer.
+
+TALIESIN: I'll rustle up a few. That's fine, why not. It's what I do, apparently.
+
+MATT: He runs back into the tavern.
+
+SAM: All right, shall we go to the manor?
+
+LAURA: Do we want to do the manor right now? What time is it?
+
+SAM: 5:00 or 6:00.
+
+TRAVIS: We got to sleep.
+
+LAURA: We might not want to bug him when he's, you know, having dinner.
+
+TRAVIS: Let's be honest, that gate's going to jack us up. It's going to be full of trouble.
+
+SAM: All right, yes, let's go sleep.
+
+TRAVIS: Let's sleep.
+
+LAURA: Well, it's only 6:00.
+
+SAM: Well, then we have time to do other things.
+
+ORION: How long is a short rest?
+
+MATT: Short rest is around ten minutes or so.
+
+ORION: I want to take short rest.
+
+MATT: You've technically been short resting in the tavern. It's more of like a post battle– like, take a breather, bandage your wounds, settle yourself after a harrowing experience. That's what a short rest is.
+
+ORION: What was the arcane magic, the manor?
+
+MATT: Oh, what you're looking for is the House Thunderbrand.
+
+ORION: I want to head in that direction.
+
+MATT: Okay, so you're dividing from the party? Okay.
+
+ORION: Oh, I'm going to House Thunderbrand, if anybody wants to come with me.
+
+LAURA: What are you doing? I can't understand you with that popcorn in your mouth.
+
+ORION: Sorry! I'm going to House Thunderbrand before turning in this evening. I've had a nice little short rest and I would like to ask them a few questions.
+
+LAURA: All right.
+
+TRAVIS: Yeah, go ahead, okay.
+
+SAM: Is there any recon that's going to happen tonight?
+
+LAURA: I think that you and I are going to go to Greyspine?
+
+LIAM: We'll check out the house.
+
+SAM: Do you need any help?
+
+LIAM: Sure, you can come with us.
+
+SAM: No, I don't want you to say yes.
+
+LAURA: Then no, we'll stealth our way.
+
+LIAM: Just a moment. Pike, you seem very distant. It's very strange, are you all right?
+
+LAURA: Pike's not listening, she's looking at the chat room.
+
+SAM: She's feeling ill. Does she need to lie down?
+
+MATT: Pike is feeling, and for those of you who are curious in the chat room, once again, elements of this are house ruled, so don't complain.
+
+LAURA: Oh, players.
+
+MATT: We keep short rest to ten minutes because it makes it move faster. Pike is going along, she seems to be a little distracted, she can't quite understand. She says, “I don't know, I feel like I've been here before. It's hard to explain.”
+
+TRAVIS: What?
+
+MATT: “Anyway, I'm probably going to go rest for the evening.” She heads back to the tavern.
+
+TRAVIS: The fuck does that mean?
+
+SAM: We'll find out next week.
+
+TRAVIS: But first, whores in the bedroom!
+
+LAURA: Lovely.
+
+SAM: Grog and I go in search of a, shall we say politely, whorehouse.
+
+MATT: The polite term.
+
+LIAM: Well, the cleric's away, the bard shall play.
+
+TRAVIS: We need a massage. On my crotch.
+
+LAURA: You and I stealth.
+
+MATT: You guys make your way to the Greyspine Manor, you guys head for that, you head to Thunderbrand.
+
+SAM: Is Grog going to find someone his size?
+
+MARISHA: Percy and I spend some time making some really nice comment cards for–
+
+TALIESIN: We're going to make some beautiful comment cards.
+
+MARISHA: For what's his name?
+
+MATT: His name is Balan.
+
+ALL: Balan.
+
+MARISHA: We're going to make some wonderful comment cards for Balan.
+
+LIAM: Oh, Percy is wonderful with calligraphy; you've shown me.
+
+TALIESIN: Yes, thank you.
+
+MATT: Okay, so you'll get to that. You guys do manage to find what's called The Stone's Pillow.
+
+TRAVIS: The Stone's Pillow?
+
+MATT: The Stone's Pillow.
+
+TRAVIS: I love it.
+
+MATT: It's an establishment of comfort and ease, and will run you both for the evening, as you are not Kraghammer locals, 30 gold for the night each.
+
+TRAVIS: A bargain.
+
+SAM: We'll take it.
+
+LAURA: 30 gold?!
+
+SAM: What sort of ladies will we find there?
+
+LAURA: Bearded ladies.
+
+SAM: What species?
+
+MATT: The madam of the house introduces you to a spectrum of ladies, mostly dwarven, and very attractive, you know. This is a nice establishment. There is one gnome. One female gnome. There are a number of male dwarves as well, that are standing at the ready. There is one elf, looks a little shy and embarrassed that a goliath walked in.
+
+SAM: And that's our choice.
+
+MATT: Those are your choices.
+
+TRAVIS: I'll take the tallest one.
+
+SAM: I'll take a dwarf.
+
+MATT: Okay. You choose your lady, you take the tallest one which would probably be the elf. As you walk in, the shy elf turns around entirely. She is aggressive and throws you around. You got your money's worth. You get manhandled in a way that you haven't– You're going to be sore in the morning.
+
+TRAVIS: Thank you!
+
+MATT: Welcome to Kraghammer, gentlemen.
+
+TRAVIS: I like it already.
+
+MATT: All right, you guys.
+
+LAURA: Yes.
+
+MATT: Are you just walking up to the manor?
+
+LAURA: No, we're going to try to check out what it looks like. See what the guards are like.
+
+LIAM: Yeah, we'll pretend to take a stroll.
+
+LAURA: Yes.
+
+LIAM: Pose as a married couple.
+
+LAURA: Ew, no.
+
+LIAM: Just for the purposes of sneaking around the house.
+
+LAURA: (retching)
+
+LIAM: I want to see what the area's like.
+
+LAURA: How about we pose as brother and sister, creepy?
+
+(laughter)
+
+LIAM: You come on to every human, orc, and half-elf in the entire kingdom, but pretending to be my wife for 30 minutes is too much.
+
+LAURA: Yes. It's disgusting, so no.
+
+LIAM: You're probably right.
+
+MATT: She's got standards.
+
+LIAM: Okay. So we'll take a stroll. Shop, see what the area's like.
+
+MATT: You enter the residential district. It is dark and you see the red stone that permeates the area for a low gentle glow of the entire city is now clustered into these street lamps that are throughout the entire location. You begin to press into the residential district proper. There's some nice homes that are carved into the side of the rock, there's some stand-alone homes that are built out of fine stone. You eventually make your way towards the nicer part of it, where you start seeing some of the more marble buildings, some of the more exotic stonework being used in the construction of the homes. You also notice three of the guards that are part of the city establishment there are following you from behind, curiously. The Carvers.
+
+LAURA: Oh shit, the Carvers. Shit.
+
+MATT: No weapons drawn, but definitely hands at the ready.
+
+LAURA and LIAM: Okay.
+
+LIAM: Well, we could just keep walking.
+
+LAURA: We could, but that could be bad.
+
+LIAM: Yes. No, we just want to look at the house.
+
+SAM: Louder!
+
+LIAM: I mean we're not going to go sneaking in in the day.
+
+LAURA: Let's say which ones are very obvious about being pretty, so we look like we're just sightseeing.
+
+LIAM: Yes.
+
+MATT: (chuckles darkly) As you continue to walk, eventually some of the dwarves approach.
+
+LAURA: I point and say: Oh! Look at that one, with the carving, it's amazing!
+
+LIAM: The architecture is divine.
+
+LAURA: Divine!
+
+SAM: (snorts) They're posing as the Howells?
+
+LIAM: Lovey, would you look at this dwarven home?
+
+MATT: (snobby voice) The marble texture on this is gorgeous. You get about 20 more feet before you get, “Hail! Hail!”
+
+LAURA: Oh my! Yes? (giggles)
+
+MATT: “You foreigners are wandering too far in districts you don't belong to. What's your business?”
+
+LAURA: Oh I'm so sorry, I was just so amazed by the architecture here. I wanted to see the beautiful sculpture.
+
+LIAM: We definitely are visitors here, sir, no one has explained the rules to your city. We were just taking in the fantastic architecture and history of Kraghammer.
+
+LAURA: We were told there was a beautiful sculpture down the street of the ruler of Kraghammer?
+
+MATT: Make a persuasion roll.
+
+SAM: Oh jesus.
+
+TRAVIS: Oh god.
+
+MATT: Either of you, whichever you prefer.
+
+SAM: If only I was there.
+
+LAURA: 21.
+
+MATT: All right.
+
+TRAVIS: Wow! Pretty decent, good for you.
+
+MATT: The guards look at each other. The one that was talking to you, you can see now, as he comes a little closer into the light, a frazzled black beard that's pulled into a very tight braid that goes down to his bellybutton. All wearing the same basic chest plate; long, black velvet cloak behind; each carrying some sort of heavy warhammer around the side of their belt. Steps up and says, “Well, just to tell you the rules here, if you're going to wander at night in a very expensive district, you don't want to do it by yourself because you either have chances of being mugged or arrested. We might have arrested you.”
+
+LAURA: Oh no! I'm so sorry! Well, do we need protection?
+
+MATT: One of them looks over and sees the bear that is off in the shadows nearby.
+
+LAURA: I thought Trinket stayed behind. Cool, cool!
+
+MATT: Trinket's quietly trying to keep up with his wonderful master.
+
+LIAM: Come along Trinket, there there's nothing to be scared of.
+
+MATT: “What's a bear doing in Kraghammer?!” They all grab out their warhammers.
+
+LAURA: Oh no, please, he's quite harmless. In fact, he's very scared of most people.
+
+LIAM: He's completely trained. He does tricks. Doesn't he do tricks?
+
+LAURA: He does. Trinket show them your wonderful shake trick.
+
+MATT: At which point Trinket, (subdued growling) just shakes his whole body. He looks at you, confused.
+
+LAURA: That's good.
+
+MATT: Then raises a paw up, and– (bear noises)
+
+LAURA: If you put your hand out, he'll shake your hand.
+
+MATT: (growling)
+
+LAURA: Yeah, see!
+
+MATT: The dwarves take a step back as the claw goes through the, “That's all right. I would say if that's your animal–”
+
+LAURA: Yes?
+
+MATT: “–don't bring it here.”
+
+LAURA: Oh, good to know. Trinket, head back to that tavern, would you? People are getting nervous.
+
+MATT: (growling)
+
+LAURA: I love you.
+
+MATT: Trinket begins to walk back. A couple of other dwarves that are wandering carrying some packages to the side make a very wide berth around this armored bear that's slowly moping its way through the streets of Kraghammer. What could possibly go wrong?
+
+LAURA: He's so cute.
+
+LIAM: He's a sweetheart, he's fine.
+
+MATT: (growls) You hear in the distance. The one goes like, “Look, I'll show you to the statue and that's it, then you got to go.”
+
+LAURA: All right. Thank you.
+
+MATT: “I don't see many half-elves here and honestly I'm excited to meet you, so let's do this quickly. Come with me.” He leads you further into the cityscape. Down the road, you end up going through a few buildings. You find one large wrought iron fence with a series of carved spikes towards the top, and you see the beautiful dark marble building with the gold trim.
+
+LAURA: Oh, this one's amazing.
+
+MATT: “This is what you were talking about, Greyspine Manor. Lot of rich sons of bitches.”
+
+LAURA: Wow, so you said the Greyspines own this one?
+
+MATT: “Aye.”
+
+LIAM: It's stunning. We only heard about the building itself; what can you tell us about the people who live here?
+
+MATT: “Bunch of rich sons of bitches.”
+
+LAURA: Well, we can tell that can't we?
+
+MATT: “Actually, Ironkeeper's all right, he's been doing a great job. The rest of the family can suck off.”
+
+LAURA: Oh, really?
+
+LIAM: Not liked by the rest of the city, then?
+
+MATT: “Oh, they have friends everywhere, but I personally don't like them. They run business pretty dark. They work most of their employees to the ground. To the bone.”
+
+LAURA: Oh no!
+
+MATT: “I don't think that's how you run a business. Well, that's how you run a business for profit, but not for–”
+
+LAURA: Wow. It sounds like they would run the mithral mine which we've heard is so hard on its employees.
+
+MATT: “Aye, that's the one.”
+
+LAURA: Oh, really?
+
+MATT: “Yeah. I don't know, I don't go that far south, doesn't interest me.
+
+LIAM: Nor us.
+
+MATT: "Smells like brimstone.”
+
+LAURA: I don't blame you.
+
+LIAM: We prefer the company of good hard working people, like yourself. We're very impressed with the work the Carvers do in this city, from what little we've seen so far, so hats off to you.
+
+MATT: “I appreciate that. You know it's not easy. You're born into it. We spend most of our time training, which can get very boring.” You see that two of the dwarves that are now about two steps behind go, “(clears throat) All right, Thompson! We got to get back to our post!” “Oh, sorry. Look, we've dillied about too much. Just follow us back, go about your business, don't wander here at night, and good luck.”
+
+LAURA: Thank you so much.
+
+LIAM: Thank you. We follow for a couple of blocks, behind them for a bit.
+
+LAURA: Make sure that they're paying attention to us.
+
+MATT: Mm-hmm.
+
+LIAM: Yes.
+
+MATT: All right. They bring you back towards the entrance of the residential district.
+
+LAURA: Then we stealth and–
+
+LIAM: – split off, yes, we can split off.
+
+MATT: All right, roll stealth, both of you guys.
+
+SAM: Am I currently being beaten by a whore dwarf or anything?
+
+MATT: Make a constitution check!
+
+SAM: Constitution check?
+
+TRAVIS: Hang strong, buddy!
+
+ORION: That's a mouthful. 'Whore dwarf.'
+
+SAM: 18!
+
+MATT: Plus your constitution modifier. Actually, athletics! Go athletics!
+
+SAM: Plus two! 20.
+
+MATT: All right, that's a fine constitution check. You have impressed your female dwarf.
+
+LIAM: Are you making a sex check?
+
+SAM: Yes! I'm sex checking.
+
+TALIESIN: Whore dwarf!
+
+MATT: That happened. That's the first time.
+
+SAM: (grunting)
+
+LAURA: This is so uncomfortable.
+
+MATT: So that happened. What'd you guys roll for stealth?
+
+LIAM: 20.
+
+LAURA: He rolled a 20, I rolled a 15.
+
+TRAVIS: That's okay!
+
+MATT: As you guys begin to wander off–
+
+LAURA: No! They're professional Carvers.
+
+MATT: – Vax, you vanish. Vex, you take a couple steps. You hear, “Hey, hey, hey! I told you, it's dangerous down there in the dark! Don't do that!”
+
+LAURA: Of course!
+
+MATT: “Where's your friend?”
+
+LAURA: Oh, he already went back to the tavern that we're staying at. I was wondering if maybe you could show me around the rest of the town?
+
+MATT: He looks to the other guards and they're obviously fed up with his flirting, and they're not too keen on you guys. “Well, you guys hold up post, I'll give her a quick walk around.”
+
+LAURA: Thank you so much.
+
+MATT: “All right, but I'm going to tell the boss!” “Fine! I don't get this chance very often!”
+
+LIAM: I wave off from the alley that I snuck in to.
+
+LAURA: Yeah, go do your shit.
+
+LIAM: You do your shit, that you do! Then I head back through the shadows.
+
+LAURA: Whoosh! Damn it!
+
+MATT: You ask around, and it takes a while, especially since as a dragonborn some folks are like, “Oh, I'm not talking to you!” Some others are like, “Oh, yeah, right over that way!” It's a completely wrong direction, so it takes you a good two hours to eventually find your way to House Thunderbrand. When you get there, it's a beautiful alabaster building: large, white dome, with small spires built in to one of the more elevated ceilings of Kraghammer proper. On the outside, there is no gate, just an open lawn. You see grass, you see normally outside flora and fauna currently adorning the scape around this structure.
+
+ORION: Whoa. Well, this is a lovely sight! I'm going to saunter on up to the door!
+
+MATT: Nice! Go ahead and make a perception check.
+
+ORION: Where is my perception–? Oh. Five.
+
+MATT: Five? You saunter right up to the edge of the grass line, and get one step on what suddenly becomes visible to you: a rather subtly carved dwarven rune in the ground. In fact, there's a bunch of them, outlining the entirety of the grass. As your foot hits the rune, you're like, “Oh, that's a dwarven rune!” (stomping)
+
+SAM: That's a good voice!
+
+MATT: (as Tiberius) I've been practicing my Tiberius.
+
+ORION: It's close.
+
+MATT: Go ahead and roll a dexterity saving throw.
+
+TRAVIS: Uh-oh. Saving throw?
+
+LAURA: You got it, Tiberius!
+
+ORION: What is this?
+
+MARISHA: Dexterity.
+
+ORION: Oh! That's a 15.
+
+MATT: 15?
+
+ORION: Mm-hmm.
+
+MATT: You manage to pull back to lessen the impact, but a bolt of bluish energy bursts out from the rune in front of you, throwing you about three or four feet behind the rune. You catch yourself. You do suffer eight points of thunder damage.
+
+ORION: Okay.
+
+MARISHA: Damn gated communities.
+
+SAM: This is why we go to brothels instead of sneaking around at night!
+
+TRAVIS: Yep! No lightning attacks!
+
+MATT: It's a whole different kind of damage you can suffer!
+
+ORION: Okay. Well, I dust myself off. Apparently, there's some security. Hello?! Anything happen?
+
+MATT: You wait about two or three minutes, no response.
+
+ORION: Two to three minutes? That's a long time.
+
+MATT: Yeah.
+
+MARISHA: I have a feeling they're not going to respond to the crazy guy.
+
+ORION: Very well.
+
+TRAVIS: What're you two doing?
+
+TALIESIN and MARISHA: We're making comment cards! Yes!
+
+TALIESIN: You're all going to have comment cards that you are expected to fill out when you return back to the bar!
+
+SAM: Hugely important!
+
+MARISHA: Yes, because– what was it? Baldus, Beldus?
+
+SAM: Balgus?
+
+MARISHA: Balan! Balan was so nice!
+
+MATT: There we go. Balgus and Balan.
+
+ORION: What do I see around the place? Do I see any large rocks, or any large pillars that I can–?
+
+MATT: Best from what you can tell at this distance, because it's fairly dark down here: the building itself has four corner spires around the large central dome structure. Each one of these spires is a very thin, tall, alabaster spire that at the very top is crested with some sort of bluish crystal that comes to a point. They're probably a good 35, 40 feet tall. About as tall as the rest of the structure is. You can't really tell how far back the structure goes because it meets with the back of the cave wall.
+
+ORION: I'm going to– okay. I'm going to shoot a Fireball. Right in front of me, roll it like a bowling ball. Just right to the door.
+
+MATT: Okay.
+
+SAM: There's a baby right there.
+
+MATT: You are four feet from the door.
+
+ORION: Oh! I'm four feet from the door? I don't do that.
+
+MATT: You can step back and do it.
+
+ORION: I'm only four feet from the door? Oh.
+
+MATT: It pushed you back four feet from the rune you stepped on. You're not at the door.
+
+LAURA: Can I use that magical earring that we have?
+
+LIAM: You don't know what's going on there!
+
+SAM: Episode one. Tiberius kills himself.
+
+MARISHA: Don't die! I should have come with you! Then I could–
+
+TRAVIS: Bowl that Fireball, dude!
+
+MATT: Tiberius Stormwind is a dragonborn sorcerer. Everyone is level nine currently in the game.
+
+ORION: I use Mage Hand. I knock on the door.
+
+MATT: From that far away? Okay, the arcane energy swirls up and forms this loosely hand-like appendage that drifts forward. As soon as it crosses over the rune where you stepped on, there is a spark of energy and the hand is dispelled.
+
+ORION: Damn these runes. Okay, fine. I will do Glacial Blast right up to the door.
+
+MATT: Okay.
+
+ORION: But not to the door.
+
+MARISHA: What?
+
+SAM: You're alone.
+
+MATT: Okay. You cast the Glacial Blast forward. The ice begins to congeal across the bottom of the floor. As it reaches the front of the rune, there is another spark of energy and the ice forms up against an invisible barrier that's there and then the ice that's up against the barrier melts extremely quickly, drifting into a puddle of water.
+
+ORION: Shit. I turn back and head to the group.
+
+MATT: Okay. As you turn around there are four Carvers that are hurrying towards you now, with their hammers out going, “You!”
+
+ORION: What?!
+
+MATT: They all surround you on all sides, you have a dwarf on each corner. “You have attacked one of the great dwarven families of Kraghammer! Name yourself and your business before you are under arrest.”
+
+ORION: Don't speak to me in that manner, I am Tiberius Stormwind!
+
+SAM: I am snoring after having sex.
+
+MATT: Make intimidation check.
+
+ORION: 18.
+
+MATT: All four Carvers take a step back, look at each other. “Look, we're just doing our job. What's your business?”
+
+ORION: I understand that, and I am sorry for losing my temper. I was just looking to ask questions of particular artifacts I have been looking for and this house is the only known arcane house I know that I was pointed to. I tried to reach them and communicate, but I was stopped by the stupid rune I can't figure out! I was turning back to get my tavern to get some rest and come back and try to contact the family the next day! Then I was stopped by you!
+
+MATT: Make a persuasion check.
+
+ORION: 24.
+
+LIAM: I've just arrived to New York City, I'm going to smash the doors open.
+
+MATT: The dwarf guards look at each other and one of them steps forward and this guy you can see now he has more carvings in his armor, he looks to have a little more rank than the other ones. He steps forward, ruddy brown beard, his eyes itself are pitch black. There is almost no color to the irises. He goes, “Look. I'm letting you off this once, but if you so much as spit in the direction of any other dwarf in the city, we're going to bury you so far underneath the dungeon you won't see the light of day 'til the day you rot, you hear me, dragonborn?”
+
+ORION: I mean yes, my hearing is perfectly fine.
+
+MATT: “Get on with you.” He puts his hammer back at his side. They all separate, stare you down as you walk past.
+
+ORION: Good day. Back to the tavern.
+
+MATT: Okay. You!
+
+LIAM: Yes?
+
+MATT: You make your way through the alleyways, eventually back towards the building proper. What would you like to do?
+
+LIAM: Just going to watch, that's all. Do I see any security details? See who's guarding the place.
+
+MATT: There are Carvers doing rounds around the city. On the streets wandering through in pairs, keeping watch. You don't see any particular guard outside, but you do see individuals moving past windows. There's a little bit of light from the inside of the buildings.
+
+LIAM: No Carvers or any sort of guard detail outside the house? Anything like that?
+
+MATT: Not between the gates. The yard area and to the front door.
+
+LIAM: Okay. Heavily heavily guarded by the looks of what's inside and what's outside the gate?
+
+MATT: What's outside the gate? You're hard pressed to find a moment where the street isn't visible to some Carver. This area is pretty well guarded. You figure largely because the person who is currently the Ironkeeper of the entire city of Kraghammer lives within that building as well as one of the more powerful dwarven families, so it's pretty well watched.
+
+LIAM: Okay, I'm going to head back to the inn, then. I'm not going to poke the bear.
+
+MATT: You all eventually gather back at the tavern.
+
+SAM: (exhausted sigh) How was your night?
+
+TRAVIS: That was wonderful, I don't know about you!
+
+SAM: (singsong) I have hickies.
+
+(laughter)
+
+LIAM: Hickies? Is that a Gnomish STD?
+
+SAM: Yes.
+
+LAURA: Crazy! I have some hickies too, actually. What?
+
+SAM: What?
+
+TALIESIN: We have comment cards, so this will all work out well.
+
+MARISHA: Yes! here! Here you go, here you go–
+
+SAM: Success all around! Did you learn anything, Vex and Vax?
+
+LIAM: I definitely think we should take the diplomacy route. The place is heavily guarded. There seem to be lots of Carvers.
+
+MATT: There's a knock at the room that you guys are currently talking in.
+
+LAURA: Yes?
+
+MATT: Unless, are you in the tavern proper or have you gone back to– ?
+
+LAURA: No, we're in a room.
+
+SAM: I'll get it! (clears throat) Hello?
+
+MATT: Adra's standing there looking a little nervous and she goes, “Hi, sorry to bother you. Is that bear one of yours?”
+
+SAM: Oh!
+
+LAURA: Yes! Trinket! Isn't he adorable?
+
+MATT: “You might want to go,” You hear in the tavern: (aggravated growls)
+
+LAURA: I'll be right back. I head downstairs.
+
+MATT: You head downstairs and you can see all the dwarves are now gathered around the fighting ring in the center of the tavern.
+
+LAURA: Oh no!
+
+MATT: Trinket's now inside the ring with a couple other dwarves around, prodding and pushing it into the ring.
+
+LAURA: No, no! No! No.
+
+MATT: There's raucous cheering. They're not even listening to you at this point.
+
+LAURA: Grog!
+
+LIAM: I followed my sister downstairs.
+
+TRAVIS: I come down too. It's party time!
+
+MARISHA: I run down to with Grog.
+
+MATT: Okay, as you guys head down, you can see now Balgus is now up and rubbing his chin. “Oh, never fought a bear before! (laughs)”
+
+LAURA: No, Balgus! Fuck! Trinket, come here! Are we allowed to cuss? Trinket, come here!
+
+MATT: You are very much allowed to cuss.
+
+LAURA: Okay.
+
+MATT: Isn't that right, guys? Fuck yeah!
+
+LAURA: No, no, and I run into the ring with him.
+
+MATT: Okay, as you run into the ring a couple of the dwarves pat you on the back, you get a shove into the ring. It's now Trinket and you–
+
+LAURA: Oh! I'll take on this bear!
+
+(laughter)
+
+SAM: What?!
+
+TALIESIN: Well, all right!
+
+MATT: Make a general charisma check.
+
+TRAVIS: Do it! Fuck that bear up!
+
+LIAM: I'm pushing my way through the crowd.
+
+LAURA: Oh no!
+
+MATT: What did you roll?
+
+LIAM: A one.
+
+MARISHA: Oh no!
+
+MATT: Yes!
+
+LIAM: First one of the series, everybody! First one!
+
+MATT: As you rush and you guys are coming to the front, Balgus sees this and now you can see both eyes are open which means he's sobered up a bit, and he goes, “Oh no! This bear's mine. You want to fight two of us? Oh, it'll wake you right up!”
+
+LAURA: Let's do it!
+
+MATT: “Nothing as invigorating as a brawl!”
+
+SAM: Are you going to fucking fight him?
+
+MARISHA: I cast a fog. Over the ring.
+
+MATT: Okay. As everyone is cheering up and getting ready, this very thick fog begins to fill the center of the bar area. You can now see a bunch of people are, “Wait, what the?!” Some are coughing. Some are like, “What the hell's going on? Fucking hell. Why is there–”
+
+MARISHA: Okay, I run up in the fog, and I tap Trinket and I whisper in Trinket's ear and I say: Trinket, I'm tapping you out. And I turn into a bear like Trinket!
+
+SAM: What?!
+
+TRAVIS: Good!
+
+MATT: Okay.
+
+MARISHA: Wait. First, I Polymorph Trinket into a squirrel.
+
+LAURA: (gasp) You can do that?
+
+MARISHA: I can. No, a mouse, like a rat.
+
+LAURA: Little tiny.
+
+MATT: Okay. You see the shadows nearby the fog you hear, “Come at me, I'm going to–” You can see Balgus's shadow swinging wildly at the air, angrily.
+
+SAM: Are you going to fight him?
+
+LAURA: I don't know!
+
+MATT: You grab Trinket. Trinket shrinks down into a tiny little mouse.
+
+MARISHA: I say: Scanlan! Catch Trinket!
+
+SAM: Jesus, I don't like rats, but I'll keep it. Okay.
+
+MATT: Trinket, the little mouse face, the moment you see it, looks very confused, very scared.
+
+SAM: It's okay. I'll protect it. Don't worry.
+
+MARISHA: Then I bear form up.
+
+MATT: You (whoosh) into a bear form. Now Keyleth is now this giant bear where Trinket once was.
+
+TRAVIS: I got my money on Ballsack!
+
+SAM: Don't bet against the enemy!
+
+LIAM: In the fog I somersault over some random dwarf and pull out my dagger, but turn it around in my hand and whack Balgus in the back of the head as hard as I can, just to try and knock him out.
+
+LAURA: Can you see in fog?
+
+SAM: He's a really good fighter.
+
+LIAM: Low light.
+
+MATT: Go ahead and make a stealth check.
+
+LAURA: What?!
+
+MATT: You have advantage because you are in fog.
+
+ORION: I'm at the balcony by the way. Watching all this.
+
+LAURA: You have advantage, roll twice.
+
+LIAM: Oh, thank you.
+
+TRAVIS: Yeah, we're watching what they're doing.
+
+SAM: Remember, he's our friend. We don't want to kill him.
+
+ORION: I'm taking a short rest, you all can do this.
+
+LIAM: 21.
+
+MATT: Okay. Balgus's drunken, mist covered state does not seem to notice your approach. He is swinging wildly, though. He has disadvantaged attack on you as you approach. One of his fists swings past you. That is going to be a 12, I don't think that hits.
+
+LIAM: No.
+
+MATT: You just narrowly dodge out of the way. You can feel the fist just whoosh past one of your
+
+ears. As you come back up, clutching the base of your dagger, go for your strike.
+
+LAURA: Oh my gosh!
+
+TRAVIS: Come on taint butter, you got it.
+
+LIAM: Oh, that's no good. Oh, I have advantage on the attack roll for this?
+
+MATT: Because he does not see you, yes. You are currently stealthed.
+
+LIAM: That's much better. 26!
+
+TRAVIS: That'll work.
+
+MATT: That'll hit. Go ahead and roll sneak attack damage on this, of course.
+
+LIAM: Plus regular?
+
+MATT: Yeah.
+
+SAM: Don't kill him!
+
+MATT: Well, we're considering it nonlethal damage because it's with the base of the dagger.
+
+ORION: I'm having an ale while watching all this.
+
+MATT: You're watching a lot of fog, with some shapes moving in it.
+
+ORION: Yeah, and I'm like: This is fog! Probably Keyleth's spell.
+
+LAURA: I'm blindly looking for Trinket.
+
+SAM: Trinket's in my hands.
+
+MATT: You're like, “Where's Trinket?” You see a giant bear there and you're like, “There's Trinket! That's not Trinket. There's no armor.”
+
+MARISHA: Oh, that's right.
+
+MATT: You're very confused. Trinket now has no armor, is a slightly different shade–
+
+MARISHA: No, he's close enough! Man, come on, I've been around Trinket enough.
+
+ORION and MARISHA: Come on, man!
+
+LIAM: 27, right in the base of his skull.
+
+SAM: Jesus.
+
+MATT: Crack! A resounding impact hits and there now dwarves that are like, “Yeah! Ooh!” All the cheering stops and there's this lull. Quiet hits. Balgus hasn't moved, by the way. You impact and it's like hitting a wall. There's this taut, thick stump of muscle where the dwarf neck is.
+
+LIAM: Fuck!
+
+MATT: As you pull back the dagger, his hand reaches up and grabs your wrist. His head slowly turns towards you and he goes, (laughs)
+
+LIAM: Bonus action to disengage. Disengage as a rogue.
+
+MATT: Well he's going to attempt to grapple you.
+
+LAURA and LIAM: Oh no.
+
+MATT: Go ahead and make an acrobatics check; it's probably your best score anyway.
+
+LIAM: All right. Oh, that's fine! That's a 30.
+
+MATT: That's a 30?
+
+LIAM: Yeah.
+
+MATT: You manage to just slip out of his grip. Barely. He was about to clamp on. As you step away, he turns towards you and goes, “Oh, well I feel alive tonight! Bring it, all of you! I want to smash a face in.” He's got a little bit of ale froth at the corner of his mouth. It's beginning to drip into his beard. It's quite an awful sight for those that are close enough to see it. The rest of you just see this, shapes and movement. There's still this, “Okay, what's going on?” kind of a feel. You hear Adra in the back going, “Stop this! This is– I can't even see! What are you doing?! Don't destroy another table!” She's frantically trying to stop this chaos. There's now a bear– what are you doing, Keyleth?
+
+MARISHA: I'm a bear and–
+
+MATT: You're a bear.
+
+ORION: (like Marisha) I'm a bear.
+
+MARISHA: What happened?
+
+MATT: You're a bear, you want to do anything?
+
+LAURA: What are you doing?
+
+MATT: You see the shape of Balgus like– in the middle of this fight ring.
+
+LAURA: Do some tricks! Do some tricks! Start clapping and, like, dancing around.
+
+MARISHA: Okay, that's a good idea.
+
+MATT: This is what she tells you.
+
+MARISHA: I see her as my trainer.
+
+LAURA: Dance!
+
+MARISHA: I'm like (growling). I'm circus bear-ing.
+
+LAURA: Everyone! Gather round and watch the amazing Trinket do his tricks!
+
+SAM: I start playing music from my shawm instrument. Which exists.
+
+MATT: Yeah, it does.
+
+SAM: A rousing jaunty bear-like tune.
+
+LAURA: Yes!
+
+ORION: I'm going to cast Prestidigitation and do fireworks on top of that.
+
+MARISHA: You should give me a fez! Can you Prestidigitation me a fez?
+
+ORION: Can I do little hats?
+
+MATT: You haven't done a fez yet. You need to work on that. A couple more levels.
+
+ORION: No. I'll try. Paper hat!
+
+MATT: Have you ever seen fireworks go off in a cloud? You get that little boof, boof. There's a bunch of that above you. Cloud, lights flashing. You begin singing your tune. Do you give an inspiration dice to her?
+
+SAM: Sure, I would love to give her an inspiration dice.
+
+MATT: A d8 inspiration dice from the bard as you hear the enchanting, jaunty, bear dancing theme.
+
+SAM: (singing) Oh, look over there! It's a bear! Yeah!
+
+MATT: Bard getting his bard on. Go ahead and make a performance check.
+
+SAM: Who, me?
+
+MATT: No, she does. You're performing as a bear!
+
+MARISHA: Natural 20!
+
+(cheering)
+
+MATT: Do you want to add performance dice?
+
+LIAM: Look at that, a fucking bear dance.
+
+MATT: I'm sorry, the inspiration dice that he gave you.
+
+SAM: No! It's a natural 20!
+
+MARISHA: It's a natural 20!
+
+MATT: I know. Okay!
+
+MARISHA: No, I want to save it! I'm inspired, for later. I will think back to that moment.
+
+MATT: You were so inspired, you weren't even inspired to be inspired for this.
+
+MARISHA: Yeah.
+
+MATT: This array of strange puffy fireworks in the fog; you doing this little rotation. You actually manage to do a bear cartwheel, and slam into the ring, but it looks pretty cool. You get back up. You're on your hind legs, you dance on one foot for a second. Balgus is like, (raucous laughter). He starts laughing, doubles over, clutching his stomach, laughing his ass off. Other dwarves start laughing too. The music gets louder and the band in the back of the tavern begins playing again. There's now this general jovial air restored to the tavern.
+
+LAURA: I grab an empty cup off of the table and say: Tips for the bear, right here!
+
+SAM: We're going to get money for this?
+
+TRAVIS: Of course.
+
+LIAM: I beeline to the bar and say: A large mug of ale, please. As soon as it's ready, bring it right over to Balgus.
+
+MATT: You guys are pulling through a crowd, covered in mist still. You're having a hard time finding your way through the bar. The people are at least now cheering, in the mood. There's still some people trying to find their way to the front to see what's going because they hear the music and they hear the cheering. “Well, what's going on over there?” They're pushing their way through. You make your way to the bar. You see Adra's really nervous, like, (panicked sounds)
+
+LIAM: I can fix this!
+
+MATT: “How? Do! Go!”
+
+LIAM: Quickly?
+
+MATT: “Here, go!” She hands you one, doesn't even charge you for it.
+
+MARISHA: I'm still dancing!
+
+LIAM: Looking for Balgus in the crowd.
+
+MATT: He's still in the center of the ring. No one's still getting near Balgus. They're cheering off to the side. Balgus is laughing. “Ooh, growl for me! Do a happy growl!”
+
+MARISHA: (growls)
+
+MATT: “Yeah, there's a happy growl! Oh, it's been so long since I've been outside!” A little tear on the edge of his face. As you approach up his side–
+
+LIAM: Arm around his shoulder.
+
+MATT: Immediately, instinctively, he slaps it off his arm and turns around.
+
+LIAM: Take this! You are an impressive specimen, my good man. I have never had a fight that amazing in at least a week. That was something to see. Here, take this, and after this one there's three more.
+
+MATT: He's drunk, you're offering him ale, and he's been laughing at a bear for two minutes. Make a persuasion roll with advantage.
+
+LIAM: Yeah! Persuasion, you say? 15.
+
+MATT: Two rolls, yeah, you have advantage.
+
+LIAM: Oh! 15.
+
+MATT: 15! He looks at you with this big grin, and you can now see his gnarled, yellow dwarven teeth, this railroad of terror that his mouth is. This big smile. He reaches out, his beard poofing over the side, grabs it and goes, “See, now this is dwarven hospitality!” He lifts his drink up and it spills a little bit on his arm. He's like, “Hey!” Everyone lifts up and cheers again.
+
+(cheering)
+
+MATT: Everyone still keeps drinking through the fog. It's like a bad sauna in here right now. Everyone's fighting their way through. At which point now, Balgus slaps you on the shoulder, takes a drink, and wanders out of the fight ring, goes and finds a table to sit down and begin chugging what you gave him.
+
+SAM: Why don't we adjourn for the evening? Retire to our rooms?
+
+TRAVIS: Why don't you go change out of bear form?
+
+MARISHA: Yeah, and I guess I can let Trinket change out of mouse form.
+
+SAM: Why don't you wait until we're upstairs?
+
+LAURA: Can I take the mouse? Can I take Trinket?
+
+SAM: Here, rat-mouse-thing.
+
+LAURA: Okay, hi, Trinket! Oh, is his armor teeny tiny too?
+
+MARISHA: Oh, does he have a tiny armor mouse? Mouse armor!
+
+MATT: If you choose, while polymorphing him, you could make it as a visual aesthetic. Because it was a quick impact, I would say it looks like a normal mouse right now. Sorry. Next time!
+
+LAURA: Well you're still adorable little– don't poke him.
+
+MATT: (squeaks)
+
+LAURA: I stick him in my little pocket.
+
+LIAM: I grab a half a mug of ale off the table and say, “Dwarven compatriots, we could not have expected a better welcome here in Kraghammer! We'll see you tomorrow night for round two. Thank you, one and all.”
+
+ALL: Huzzah!
+
+MATT: (cheering) Balgus goes, “Three more! You said three more!” You see his empty cup on the table.
+
+TRAVIS: We did say three more.
+
+LAURA: I laugh and hustle her over and say: One, two, three, put them in a row for this gentleman right here.
+
+MATT: “Aye! (whispers) Thanks.” She gives you like a really earnest like, “Thank you.” You now have a very good idea of how a good third of the tables in this tavern are repaired.
+
+TRAVIS: He's tough.
+
+MATT: You guys head back up to the rooms.
+
+TRAVIS: You put some stank on him.
+
+MATT: Yeah, that was like a (vibrating) when you got the impact on him.
+
+LAURA: Don't fight him, you guys.
+
+SAM: Oh, Grog's going to fight him at some point.
+
+MATT: I get the feeling that's probably going to go down at some point.
+
+TRAVIS: He's going to be playmates with me.
+
+LIAM: It's just a misunderstanding. I'm sure he's a lovely gentleman.
+
+MATT: You guys are heading back up to the room. Which, it's not a hallway built for a bear. Your shoulders are squeezing through.
+
+LAURA: How big is the room?
+
+MATT: Well, each one of your rooms comfortably fits two people, maybe. Like, one and a half?
+
+LAURA: Oh no. What will I do with Trinket?
+
+MATT: If you help push Trinket through the door. Thankfully, dwarves are fairly wide folk, so the doors are built for stouter folk, they're just not very tall. You, actually, have to bend through, Grog, to get into your room. On the bed that you lie on, your legs dangle a good two feet off the bottom, at maximum. You can push Trinket through with a one, two, three! Or you can carry her through as a mouse, and then have her stuck in there.
+
+MARISHA: Yeah.
+
+LIAM: That's all right. Neither of us need a blanket now.
+
+LAURA: Well.
+
+MARISHA: How long can I keep her a mouse?
+
+LAURA: Him! Trinket's a boy, all of you, please.
+
+MARISHA: Up to an hour?
+
+MATT: I believe it is, yeah, concentration.
+
+TRAVIS: I mean, are there like stables?
+
+LAURA: You know, yeah. Can I go downstairs and ask about stables? Maybe he can stay in the stables.
+
+MATT: You have to talk to Adra. She's like, “There's no stables in this establishment, but we do have a downstairs storage area your bear can probably stay in.”
+
+TRAVIS: Yeah, he's a bear, he's fine.
+
+LAURA: Trinket, is that okay?
+
+TRAVIS: (as Trinket) Yeah, I'm fine.
+
+LAURA: All right, yeah, he's seems to think it's all right. Let's go with the storage room. If there's anything that looks edible, you can eat it. It's fine.
+
+MATT: “That's not true.”
+
+LAURA: Just kidding!
+
+MATT: “I'll charge you later.”
+
+MATT: You bring Trinket back down. Do you release your polymorph?
+
+MARISHA: Yeah.
+
+MATT: Trinket becomes a bear again. I'd say the room's probably a good 40 feet by 30 feet.
+
+LAURA: Oh, so he's fine.
+
+MATT: Half of it's filled with barrels and crates, and storage of dried foods. Trinket comes in and (sniffing) and starts rummaging into one of the half open sacks of dried meat. That's going to be put on your bill.
+
+LAURA: Shit.
+
+MATT: You head back to your rooms for the evening to rest.
+
+MARISHA: Take a nap.
+
+MATT: Anything you guys want to do in preparation for the next day?
+
+SAM: No, let's get it on.
+
+MARISHA: Oh, we should give our comment cards to Balgus.
+
+TALIESIN: I think we should all turn in our comment cards.
+
+LAURA: Oh, our comments cards, that's right.
+
+MATT: You turn in your comment cards for Balan.
+
+MARISHA: Balan.
+
+TALIESIN: I can't stress how important this is.
+
+LIAM: Maybe we should– go ahead, I'm sorry.
+
+TALIESIN: No, no, really, no it's fine, speak over me, I don't care.
+
+MARISHA: Here, take him the extras.
+
+TALIESIN: We're going to give him a few extras so he can have more comments.
+
+MARISHA: Yes.
+
+SAM: You guys are so kind with these comment cards.
+
+LIAM: Perhaps we should all go to bed, and the humans back in North Hollywood should take a pee break. At some point.
+
+SAM: The humans?
+
+LIAM: You. You, and you and you and you and me.
+
+MATT: Yes, indeed. Do you want to take a quick restroom break for the folks here?
+
+SAM: You okay?
+
+MATT: Zac?
+
+ZAC: What's that?
+
+MATT: Folks here might want to use the restroom real fast.
+
+ZAC: You want me to play the intro videos again?
+
+MATT: You know what, go ahead and play some of the intro videos and we'll come back here in a minute to continue the game, while everyone rests, and empties their bladders. We'll be right back guys. Hang tight.
+
+SAM: Commercial break.
+
+Break
+TRAVIS: Right, listen up! If you have ale, then you have a friend in Grog Strongjaw! A goliath of towering height and size, this barbarian has an appetite for the two great loves in his life: combat, women, and ale!
+
+[record scratch] Wait.
+
+TRAVIS (CONT'D): Easily the brains of the group, Grog is often consulted for his vast knowledge of shapes, colors, and shiny things! Also ale. In his early years, armed with his two-handed greataxe, Grog often enjoyed proving his might amongst the ranks of his family's wandering herd. But after coming upon an unsuspecting elderly gnome in the woods, he objected to the killing of such an innocent life. A creature of impulse, Grog felt only pity for this– well, this terrified little thing. And his disobedience cost him dearly. Beaten bloody, and banished by the herd leader, his Uncle Kevdak, Grog was abandoned and left to die. Exiled from his herd, it was then that the relative of the very gnome he fought to save, saved him. It was the kindness of a gnome cleric named Pike that healed Grog, bringing him back from death's edge. And they have remained close friends ever since. Most nights, Grog can be found challenging entire taverns to wrestling matches! Or accompanying Scanlan to the nearest house where you pay for lady favors. Also ale!
+
+MARISHA: A first impression of Keyleth would leave you with little information on the half-elven druid. You might even think that her social awkwardness due to her sheltered upbringing is kind of sweet. Of course, it would be unwise underestimate her based on first impressions.
+
+[thunder crack]
+
+MARISHA (Cont'd): Under that un-intimidating petite frame is a vicious beast waiting to be unleashed, whose natural powers have made even the fiercest of champions pee their pants, literally! Born to the Air Tribe of the Ashari people, Keyleth was raised with a deep love of nature and the elemental magics. It is her people's inherent duty to protect the delicate areas in Tal'Dorei where the four elemental planes begin to bleed with this realm. Since she was a little girl, she had quite a knack for air manipulation and beast shaping abilities. Well, if you consider kittens and flying squirrels to be little beasts...which, I do. Anyways, it wasn't long before the headmaster of the tribe, her father, Korrin, realized her true prodigious abilities and she was inveterated to succeed him as the next headmaster. Just like that, her jovial childhood was stripped and replaced with endless spell memorization, teachings from ancient traditions, and exceedingly high expectations. Every druid leader-to-be must embark on a journey to seek out the sister tribes in order to introduce and establish respect amongst the fellow headmasters. They call this the Aramente, or Noble Odyssey. When her father felt she was ready, he set her on the path to truly discovering herself, not knowing when, or if, she will ever return. As she hiked down the mountain towards Stilben, she meditated on the task ahead. Part of the Aramente is proving yourself a strong warrior, a valiant protector, and a wise and compassionate leader. With this knowledge, one thought plays in repeat in her mind: Is she even worthy?
+
+TALIESIN: Percy was the third child of seven children, born to a noble family who lived far to the north in the ancient castle of Whitestone. With so many siblings to share the burdens of lordship, Percy turned his attention to the sciences, engineering, and naturalism. One day, a mysterious couple, named Lord and Lady Briarwood, came to court. During a feast held in their honor, the Briarwoods violently took control of the castle, killing or imprisoning everyone who would stand in their way. Percy awoke chained in the dungeon, only to be freed by his younger sister. Together they fled, chased by the Briarwoods' men. As they ran, Percy's sister took several arrows to the chest and fell. Percy kept running, eventually jumping into a freezing river and floating unconscious to freedom. He did not remember waking up on a fishing boat. He barely remembered the next two years, as he slowly made his way as far south as possible. Then one night, Percy had a dream: a roaring cloud of smoke offered him vengeance against those who destroyed his family. When he awoke, Percy began to design his first gun.
+
+SAM: Oh, you haven't heard of Scanlan Shorthalt? Well, gird your loins, ladies, because he has his eye on you. A talented musician, master of disguise, and dashingly handsome in his own mind, Scanlan sings songs almost as much as he sings his own praises. Born a poor gnome, Scanlan used his endless charm and soaring tenor voice to croon for coin and support his single mother. One day, he was discovered by a half-orc promoter, and joined Dr. Dranzel's Spectacular Traveling Troupe where he learned the ways of the world, and honed his skills as a bard extraordinaire. A loner much of his life, Scanlan has never quite come to terms with the violent death of his mother at the hands of a goblin invasion. While his years on the road provided many, shall we say, educational experiences with the opposite sex, deep down Scanlan yearns for the one thing he's never known: the true love of a fellow gnome. Still, Scanlan considers himself a lover first, performer second, and fighter distant third. On the battlefield, he'll support his allies, but rarely draws blood, unless it's to protect fellow gnome, Pike. Count on Scanlan for a hearty laugh, a rollicking song, and a twinkle in his eye that melts hearts and makes the females swoon.
+
+ORION: Greetings and salutations, I am Tiberius Stormwind. I hail from a town called Tyriex, located in the heart of Draconia. Born from a politically respected family, at the age of 15, I succeeded in passing the Sorcerer's Rite, showing prodigy-like control of my magic. The judges and the Draconian high council were amazed at how powerful my spells were for how long I had been training. At 20 years old, I was the youngest appointed member of the magic guild in Draconian history. For the next few years, I almost went mad from the malaise of being a guild member, as it's rather boring. However, one day I happened upon a chamber, unused for quite some time. In the room were stacks of books and maps of the surrounding cities and areas around the known world. For months, I would frequent the chamber, and learned of artifacts from legend. After a long period of research, I made a list of artifacts that caught my eye. I brought these findings to the high council and was told that all of the information in the chamber I had stumbled upon was either believed to be fiction, or unsolvable mysteries, and hence were lost forever. I found those answers to be unacceptable. A year later, I devised a ruse and managed to convince the city council to lend support in me leaving Draconia on a mission of peace and diplomacy for the surrounding kingdoms. Going from town to town and making friends and allies in and for the name of Draconia. Being a red dragonborn, I had quite the task on my hands in that respect, but it was exactly what I needed so I could explore the world and find these artifacts, as I felt the truth was out there. Some may describe me as buffoonish, but I say poppycock to all that. I am much sharper than most give me credit for. I just don't pay attention to things sometimes. I've also been known to be rather cunning, loyal, happy-go-lucky, and well, dangerous. I can't help but show my true scales every now and then. But overall, I think I'm quite friendly for a dragonborn.
+
+LIAM: Never entirely welcome in the company of elves or men, Vax'ildan learned at a young age to skip past formality, preferring instead to invite himself in your door. Along with twin sister, Vex'ahlia, Vax was born by a chance encounter between elven royalty and human peasantry. Raised by their mother in their early years, the twins were eventually sent off to their father in the elven capital of Syngorn. But their cool reception among the elves there never warmed, and their time in the capital didn't last. The siblings stole away one autumn night and set out on the open road. After a few years of wandering, they eventually decided to return to their mother, and journeyed back to the lands of their youth. But instead of finding their childhood home, they returned to a pile of rubble. Their mother was gone, their home burned to ash. Pressing the townspeople for answers, they learned of the day the dragon came. With their ties all severed, Vax'ildan and his sister set out to find their fortune together in Tal'Dorei. An outsider since birth, Vax quickly learned to solve life's challenges in his own particular way, often by sidestepping them entirely. And when his knack for circumventing adversity isn't enough, the way of blades the elves schooled him in more than makes up the difference.
+
+LAURA: Like so many half-elves, Vex'ahlia has spent most of her life suffering the cool reception of a people who don't fully accept her. Born of a human mother, and an elven father who only later in life took an interest in their existence, Vex'ahlia and her twin brother, Vax'ildan, quickly realized the only people they could truly rely on in this world were each other. It was at the age of ten when the two were taken from their mother, and brought to live in Syngorn, the isolated elven city for which their father was an ambassador. He quietly took them in, but always kept an icy distance, and after too many years of disdainful looks, the pair decided to leave his indifference behind, and set out on their own. Vax took to the cities, stealing small trinkets and learning the ways of the thief, while Vex kept to the woods. She preferred the isolation. Always the keen observer, she learned to hunt and to track, to spy and to shoot. Through a series of fateful events, earned herself a companion in the form of a bear– her own stolen Trinket – to fight alongside her and protect her fiercely. Also, he is adorable, and gives expert massages.
+
+Part II
+MATT: Hello, everyone. Welcome back. We've had our pee breaks. We've had our refills of our drinks. We've got Fireball, so I think we're good for the next venture. Anyway, the party has taken their rest for the evening. Once again, this is one of those weird experiences where you wake up, not because of the sun rising, because you can't see it in the dwarven city of Kraghammer, but eventually you all come to consciousness naturally. What is your plan of action?
+
+SAM: Oh, Jesus, we should have all talked about this while we were all peeing.
+
+TRAVIS: We're going to beat up everybody, right?
+
+SAM: Are we going to the manor?
+
+TALIESIN: I say we have brunch, and we go to the manor–
+
+LAURA and TRAVIS: Brunch?
+
+SAM: Eggs benedict.
+
+TALIESIN: I want dwarven brunch.
+
+LIAM: I want a traditional dwarven breakfast.
+
+MARISHA: Dwarven eggs are very good.
+
+TALIESIN: They're small.
+
+MATT: Okay, so Tiberius fills you all in about his experience, trying to get into the House Thunderbrand.
+
+TRAVIS: How you almost got killed?
+
+ORION: I didn't, certainly not. I just couldn't get in the door. Rather rude!
+
+MARISHA: Why did you think that after the magic hand failed that the big thunder ice wave would work?
+
+ORION: What I thought is that I could cover the rune with ice and merely step over it. I didn't think it would dissolve my ice.
+
+TRAVIS: Did you sleep?
+
+ORION: Yes.
+
+TRAVIS: Oh. I had to make sure, you know.
+
+ORION: A good sorcerer always all his tricks before turning around, which is what I did. I think we should go back there because I feel that it's significant that I couldn't get in so easily.
+
+TALIESIN: We will go back there. I don't think it's the next order of business but I think that we're not leaving the city without dealing with that.
+
+LAURA: Definitely.
+
+TRAVIS: Do we need to do something with the comment cards?
+
+LAURA: Oh.
+
+TALIESIN: Did you not fill out your comment card?
+
+TRAVIS: No, I did! I know, like, three letters, so like A, F, and A.
+
+MARISHA: That's okay.
+
+TALIESIN: That sounds very positive.
+
+MARISHA: It's the thought that counts, Grog. It's the thought that counts.
+
+LAURA: Did you put a smiley face next to the A-F-A?
+
+TRAVIS: I covered my hand in ink.
+
+LAURA: That works.
+
+TALIESIN: Very good. I think that went well.
+
+SAM: Shall we try to make our way to the manor, then?
+
+LAURA: The Greyspine Manor, with our cask of fancy ale/wine.
+
+TRAVIS: Does the light ever change being underground?
+
+MATT: No, it is a perpetual low red glow from all the stones that are embedded around the streets.
+
+LAURA: I feel really sleepy and also very awake at the same time.
+
+MARISHA: Yeah, I know.
+
+MATT: Oh, dwarves.
+
+LAURA: So what do you think?
+
+TALIESIN: Now I'm curious if there's dwarven coffee.
+
+MATT: You guys make your way after your brunch, your delicious dwarven brunch–
+
+TALIESIN: Thank you!
+
+MATT: – which is very alcoholic.
+
+TRAVIS: Yes!
+
+TALIESIN: It's like being in New Orleans for the weekend, every meal is going to come with something alcoholic.
+
+LAURA: You're turning yourself into a dwarf?
+
+SAM: Did you catch that? He just turned himself into a dwarf.
+
+TRAVIS: You did?
+
+MATT: Tiberius went (whoosh) into a dwarven form.
+
+LAURA: What kind of dwarf? What do you look like?
+
+SAM: He's very handsome for a dwarf.
+
+LAURA: Are you a girl dwarf?
+
+MARISHA: Yes! You should be a lady dwarf.
+
+SAM: Oh yeah, what kind of dwarf? A lady dwarf?
+
+ORION: I would not do that again.
+
+TRAVIS: Oh, you did do that, you did take it as a troll.
+
+ORION: Almost! She shot off the penis.
+
+LIAM: What is going on?
+
+TRAVIS: That's where the troll dick came from.
+
+ORION: Don't you remember, Vax? I was almost raped by trolls.
+
+MATT: There was a cavern interaction with two male trolls that they had stealthed up behind as a party. I love explaining this to the audience. Tiberius then polymorphed into a female troll to try and Bugs Bunny them, not realizing that dwarves who are underground and–
+
+LAURA: Trolls.
+
+MATT: –trolls don't encounter female trolls often enough to have a one track mind. He nearly got himself in a very bad situation. That was remedied by the party attacking and Vex over here shooting off the troll's dick. Which then went in the bag of holding, which is disgusting.
+
+MARISHA: That's also where the hashtag not all trolls came from.
+
+MATT: Yup, hashtag not all trolls came from that game. That is horrible.
+
+TALIESIN: Oh god. Bring it back.
+
+MARISHA: Bringing it back.
+
+MATT: You guys make your way to the residential district. The same guards are there who were there the previous night that encountered you guys so, as you roll up with an entourage-
+
+SAM: How many are there?
+
+MATT: Currently, there are four.
+
+TRAVIS: We can take them.
+
+LAURA: Hi. I wave at Thompson.
+
+MATT: He's actually not there. It's the two others that were with you. He is noticeably absent.
+
+LAURA: Oh. Where's Thompson?
+
+MATT: They look at each other and they're like, “He's been given the day off.”
+
+LAURA: Oh, really?
+
+LIAM: As you can see, we brought one of your citizens with us to show us a tour of the city.
+
+SAM: That's you.
+
+MATT: “Citizen? I haven't see you about. What's your name?”
+
+ORION: Oh, my name is Tiberius Kraghammer.
+
+(laughter)
+
+SAM: Like Johnny New York.
+
+ORION: Shoot, we're in Kraghammer, right?
+
+SAM: We're in Kraghammer.
+
+ORION: Oh, Stronghammer.
+
+SAM: Johnny New York.
+
+MATT: “What is it, Kraghammer, or what was it?”
+
+(laughter)
+
+ORION: I meant–I meant Stronghammer. Kraghammer is my father's cousin's side.
+
+MATT: “How drunk are you?”
+
+ORION: I've been drinking since I've woken.
+
+MATT: Make a persuasion check.
+
+SAM: See, he is one of you!
+
+TRAVIS: I had a lot of breakfast.
+
+ORION: Oh yay, 19.
+
+MATT: 19.
+
+TRAVIS: Tiberius Kraghammer.
+
+MATT: “All right, I haven't seen you around, but obviously it's a bit early to be that fucked up.”
+
+ORION: I've been very depressed, you know.
+
+MATT: Well, what's your business, if I might ask again? You already seen the statue.
+
+LAURA: Yeah, we saw the statue, but we wanted to get a better look at it. We brought this gift for the Greyspines and we wanted to present it to them.
+
+MATT: The two new Carvers step forward and look at it. “Ooh!”
+
+LAURA: It's really nice.
+
+MATT: One of them's like, “I'll tell you what. If you let us taste a bit of that, we'll let you go.”
+
+ORION: Oh, I mean, I've been drinking a lot of it, sure!
+
+LAURA: A thimble of it because if any of it goes missing– Is it sealed? Can we tell if it's sealed?
+
+MATT: You look at it. It does not have any sort of port or exit on it. It is just a solid barrel.
+
+ORION: Maybe, we can save some for them.
+
+LAURA:. If we open it, it'll ruin the barrel, right?
+
+MATT: “Ah, that's right.”
+
+LAURA: Maybe we can save you a bottle of it when we open it inside. We'll give it to you later.
+
+MATT: Make a persuasion check for that. It's a very persuasion based encounter.
+
+LAURA: Should I roll that one that failed me earlier or my little dice?
+
+MATT: The little dice! They haven't come out yet!
+
+LAURA: (high-pitched) My little, tiny dice.
+
+MATT: Itty bitty dice.
+
+LAURA: Teeny tiny dice. Okay that's better, I rolled a 23.
+
+MATT: Okay. They all look at each other. “If you can save enough for all four of us, please do. Bring it back, we'll be looking forward to it.”
+
+ORION: Do you have any flasks that we could use to fill them up?
+
+LAURA: We've got some bottles, don't worry.
+
+MATT: “We'll be waiting. If you don't show with the drink, we'll go right to our supervisor.” They all nod.
+
+LAURA: Yeah, keep nodding. Here's the thing. I don't know if I can save four bottles worth, but I'll save as much as I can.
+
+SAM and TALIESIN: Just say yes.
+
+LAURA: Hey, I've got it covered.
+
+LIAM: On our father's good name, we will bring you some of this. That is a promise.
+
+TRAVIS: It's a good name.
+
+MATT: They all look about each other. “Fine. Remember, we're waiting.” They all lick their lips a little. They part and let you guys into the residential district. You make your way to the very back. You can see House Greyspine. Once again, guys, for those who haven't been there before, it's a beautiful arrangement. The iron gate around it with spikes on the top. You can see the entire front yard, it's about a good 80 yard walk to the front of the building itself. It's a quite a distance from the front gate and that entire area is filled with like a stone garden with various small sculptures and interesting knick knacks they collected and put on display like as a small museum as you approach the front of House Greyspine. You get to the front door as a large double oak door about ten feet tall, four feet wide, currently closed. There is no handle on the door.
+
+TRAVIS: No handle?
+
+MATT: No.
+
+ORION: Hold on, wait. Don't knock on anything. Things shock you here.
+
+SAM: Let's go knock on the door.
+
+TALIESIN: I want to double check, see if there's a bell to ring or there seems to be some sort of calling–
+
+MATT: Easily enough, you see next to the door there is a small chain that protrudes from the stone wall. It has a small bulbous ball at the end.
+
+TALIESIN: Ding ding. Ding-a-ding.
+
+MATT: You pull it. Not a ding, but a large (clanging). It is a heavier chain than you expected. As you pull on it, you feel a large hammer-like object is slamming into a brass-type material as it echoes and resounds in the building. Definitely announcing your presence.
+
+MARISHA: Percy, can I try?
+
+TALIESIN: If you must, yes.
+
+MARISHA: Okay!
+
+MATT: Boosh! It echoes into the house.
+
+MARISHA: I just wanted to do that once! I'm sorry.
+
+SAM: Should we ding-dong-ditch?
+
+(laughter)
+
+LIAM: Scanlan perhaps a little ditty on strings will ease our introduction.
+
+SAM: I'll start singing a little jaunty welcoming song. (singing) Hello, hello, we're here to pay you calling. Hello, hello I don't know what rhymes with calling.
+
+TALIESIN: “Calling,” at the very least. I thought you would go right there.
+
+SAM: Yes, it's true.
+
+MATT: All right, are you going to play the music for the sake of playing music?
+
+SAM: Yes, for now.
+
+MATT: All right. About ten seconds pass before the door– you hear a large (thudding) and one of the doors opens up. You see a dwarf, with long gray hair that's slicked back and pulled into a ponytail. A very small trimmed beard, very proper, steps out in long black robes and goes, “Can I help you?”
+
+TRAVIS: Percy?
+
+TALIESIN: Yes, Percival Fredrickstein von Musel Klossowski de Rolo III.
+
+ORION: You can call him Percy.
+
+TALIESIN: You can simply call me Percy, thank you. We're here to discuss some business with Lord Greyspine and we have, of course, brought gifts and our charming company.
+
+LIAM: As well as our dwarven compatriot to introduce us.
+
+ORION: Yes, who? I am quite drunk right now.
+
+MATT: He gives you an awkward look. It's like a look of trying to place your face. “Which lord are you looking for?”
+
+LAURA: Actually Nostoc.
+
+ORION: Is he the nice one? I would like the nice one.
+
+MATT: “Nostoc, I'm afraid, is currently working at the quarry, if he's who you're looking for.”
+
+LAURA: Oh, of course he is.
+
+SAM: If Gradon is here, is that his name? Gradon?
+
+MATT: He gives you this look. “Gradem is not taking visitors.”
+
+LAURA: Of course not.
+
+TALIESIN: That's a shame, we brought this half-barrel of ale right here and some–
+
+SAM: And some very, very attractive mining contracts, but if there's no one here to talk about them–
+
+MATT: He gives you this look. “If you're talking mining contracts you want to head to the quarry and talk to, Lord–” Looking him up again in my notes. “You want to talk to Nostoc Greyspine. He's the one who runs the quarry. As far as the Ironkeeper himself– I mean no offense, but only official political business.”
+
+TALIESIN: Well, this is definitely official political business. I will also say, could you direct us to the quarry? We are new in town.
+
+MATT: “Obviously. Have you not shown them where the quarry is, friend?”
+
+ORION: I have no idea what's going even going on.
+
+SAM: Jesus.
+
+TALIESIN: He's been drinking since very early this morning.
+
+MARISHA: He's on vacation. You'll have to excuse him.
+
+ORION: I must say, I am having a wonderful time.
+
+MARISHA: You know, friends are in town, he's showing us around.
+
+TALIESIN: What was your name, again?
+
+MATT: The dwarf gives you a subtle look, goes, “My name is Magrim. I am the servant of the Ironkeeper himself.”
+
+TALIESIN: Magrim, of course you're the servant. You are filled with poise and sophistication, and of course, above all, protocol. I would not wish you to break protocol which is why some simple directions, for those of us who are wishing to do some official business. You'll be right on your way and your house will return to order.
+
+MATT: “Right. The Ironkeeper is not open to business outside of pre-approved political understanding.”
+
+LAURA: Of course.
+
+MATT: “If you don't have a pre-approved meeting put within our ledger, you won't be seen.”
+
+LAURA: Of course not, but for the mining contracts, however, wouldn't we need to speak to Nostoc? Is there any way– I hear it's very hard to get down into the mines. It's very well-guarded, right? That's why we came to speak to him here.
+
+MATT: He leans over and looks at the cask of ale and says, “Down to the mines, you have to go to one of the chain platform posts at the edge of town that will bring you to the base area. Find your way to the mines there. That should be enough to get Nostoc's attention. The rest is up to you.”
+
+LAURA: Lovely. Thank you so much.
+
+SAM: One moment, before we adjourn– (whispers) Do we want to try to get into this place, or are we just going to go to the mines?
+
+LAURA: (whispers) Maybe we should talk to Nostoc first.
+
+SAM: And ditch this place?
+
+TALIESIN: Every time we break into someone's house it turns out poorly.
+
+LAURA: We're trying to get to the mines, essentially.
+
+LIAM: I think he's still listening.
+
+TALIESIN: Good man, good day. We'll be on our way, thank you.
+
+LAURA: Magrim, you've been wonderful. Thank you so much. We plan on keeping some of this ale and bringing it back to the household. Would you like some when we open the cask?
+
+MATT: He looks down at the cask, looks up at you and says, “I would not turn down a sip or two.”
+
+LAURA: Lovely. We'll be sure to save you a small bottle.
+
+SAM: I'm going to turn invisible.
+
+MATT: As he's looking over there, you vanish. All right.
+
+LAURA: You can do that?!
+
+SAM: And I'm sneaking into the house.
+
+LIAM: To what end?!
+
+TRAVIS: That's awesome! Who cares? Light it up!
+
+SAM: I don't know why!
+
+TRAVIS: He's gone nuts!
+
+TALIESIN: We are off the reservation.
+
+MATT: “Is that all your business?”
+
+LAURA: I believe it is all of our business.
+
+MATT: “Well, good day.” He steps back into the doorway and closes the large oak doors. You are now standing in the foyer of Palace Greyspine. A luxurious foyer, the floor itself is a fine dark velvet red carpet. There are tapestries across the walls and small wooden end tables set at the edges of the hallway, this foyer area that contains sculptures and vases and plants that exist underground specifically. There's a large stairway that leads up into the upper portion of the house and two doors at each side that lead to rooms you no longer can see.
+
+ORION: I use the earpiece and whisper: What are you doing, Scanlan?! What are you doing?!
+
+SAM: I don't know! Give me 20 minutes!
+
+LAURA: 20 minutes, that's okay! Let's all step away from the house.
+
+MARISHA: Ask if he needs assistance or divergent–
+
+TALIESIN: Divergent?
+
+MARISHA: Divergent.
+
+MATT: Magrim wipes his hands and walks away going, “(sigh) Fucking foreigners.”
+
+SAM: I follow him where he's going.
+
+MATT: Okay.
+
+SAM: My nervousness, I let out a little bit of a fart as we–
+
+MATT: Make a stealth check.
+
+ORION: Why are you making it harder on yourself?
+
+SAM: 14 plus I'm invisible, plus two. 16.
+
+MATT: Because you're invisible, I'll give you advantage on that. Go ahead and roll.
+
+SAM: Oh, well. 14. Plus two. 16.
+
+MATT: As you scamper by, behind Magrim, following him towards the kitchen area of the abode, Magrim stops and turns, rubs his stomach, goes (groaning) and continues walking forward, seemingly unperturbed by the sound.
+
+SAM: I'm snooping around, trying to see if there's any lords or higher ranking individuals in the area.
+
+MATT: Okay, I'll say within the time that you have within the house, you wander through quite a few rooms. There's a wonderful music room, which contains a number of dwarven instruments that you've read of and many instruments that you know as well. You actually find another, what do you call it again? A shawm?
+
+SAM: Shawm.
+
+MATT: A shawm. You find another shawm within, more finely crafted than the one that you have.
+
+SAM: Oh fuck.
+
+MATT: A gift of lords, if you will.
+
+SAM: I'm so tempted, but no.
+
+LAURA: Does he have an earring on? Does he have one of our earrings?
+
+LIAM: We all do.
+
+MATT: Not everyone, you only made a few.
+
+SAM: Just me and him.
+
+LAURA: Who all has an earring?
+
+SAM: He can talk to me, apparently.
+
+LAURA: Tiberius, tell him to look for paperwork of something. For the mines!
+
+ORION: Scanlan, look for paperwork of something else, and by the way, all of you should be hearing me right now, you all have the ear–
+
+LAURA: Not everyone. You only made like five or something.
+
+MATT: You could only afford five.
+
+ORION: That's right. (clears throat) Do all those things, Scanlan.
+
+SAM: Great.
+
+TRAVIS: Who's talking right now?
+
+MATT: As you look about the household, you also come across a couple of bed chambers that are locked, pretty hefty lock.
+
+SAM: Not going to try.
+
+MATT: Okay. You make your way up the stairway, and there's a long hall that leads to, essentially, a throne room that is still partially under construction, mostly finished. It actually was an intentional build onto this house. House Greyspine, when the current Ironkeeper went into office, it seems, began to have this room built. It's nearly finished, but it's an extravagant room with a large stone and dark metal throne, steps lead up to it, and its raised dais-like pedestal in the center of the room. A series of great magically glowing and flickering lanterns across them. There are two dwarves inside that are currently finishing up the stone work. They're doing various sorts of masonry and plastering in areas and carving out and chiselling out pieces of stone, and making them intricately carved in this flavor. Other than that the room is currently empty.
+
+SAM: Shit. There's nothing to steal!
+
+TRAVIS: Drop a deuce in the bedroom!
+
+MATT: Hashtag “gnomishdeuce.”
+
+ORION: Damn it, Scanlan! Just get out of there! What are you doing?
+
+LAURA: You totally should!
+
+TRAVIS and LAURA: An invisible poo!
+
+SAM: I might as well try one of the doors that's locked, and see if I can pick it, but I'm not good at that, so I'll try.
+
+MATT: Okay. Do you have on your person any sort of thieves' tools?
+
+SAM: I have a forgery kit, a poisoner's kit–
+
+MARISHA: Forge some thieves' tools real quick.
+
+SAM: Climbing gear? And a whip.
+
+LIAM: Matt, I have one of the earrings, and I say: Scanlan, what exactly is the purpose for this little escapade, and will it be ending shortly?
+
+SAM: Can I reply?
+
+MATT: You can, through the message-based ear enchantment.
+
+SAM: Just trust me that I have no idea what I'm doing.
+
+MATT: Do you wish to pick one of the doors?
+
+TRAVIS: Do it.
+
+SAM: Yeah, I'm going to try one!
+
+MATT: Okay, you have disadvantage on this.
+
+SAM: Of course I do.
+
+MATT: So roll twice, and we'll consider this a straight dexterity check.
+
+SAM: 11, plus zero?
+
+MATT: You futz with the door for a good minute, trying to bend a piece of wire you had, thinking to forge some tumblers, and eventually get to a point where you hear, (tink). And it broke.
+
+SAM: I can't do two spells at once, so I will give it up and I'll make my way to the door.
+
+MATT: Okay. The door is currently closed.
+
+SAM: I become un-invisible and I cast Dimension Door.
+
+MATT: All right. You blink through this small, purplish arcane doorway. It brings you directly outside. You guys are waiting, Scanlan just pops into view.
+
+SAM: It was crazy in there! People were farting everywhere! It was not me. They're building a throne room, there were some locked doors. Man, I wish you could have been there! It was exciting, but ultimately pointless. Let's go down to the mines!
+
+LIAM: I would like to stress again that none of these dwarves are our enemies, at all. We just want to go have some words with Greyspine.
+
+TRAVIS: That we do not have our healer, at present.
+
+LIAM: Well, we do, but she's very distracted, and is not feeling herself.
+
+SAM: She wanted to stay at the inn this morning.
+
+LIAM: She's feeling awfully BAFTA today, so.
+
+SAM: Let's make our way to the mines, shall we?
+
+ORION: Metal poisoning, yes.
+
+TRAVIS: To the mines, then, yeah.
+
+LIAM: Let's go get this drunk dwarf!
+
+MATT: Yes, the bard was doing a lockpick with no lockpicks. He was fashioning it from wire. Exciting but pointless! You make your way to the edge of the center ring. You find that there are long spiral staircases that move to the bottom, where there are elevators that bring you to the bottom floor. The elevators are chain based, like a ratchet-type system with two Carvers there, of course. You approach one, eventually you talk with them, they lead you down there, but once again they give you a look of, “Watch your back!”
+
+LAURA: We point at the ale and give him a thumbs up!
+
+MATT: They nod, and let you pass. As you continue downward into the lower area, you can see the red stone that lets a lot of the atmospheric glow of Kraghammer is used less and less and a lot more central torches are now in place; sconces. The stone itself is either rarer the further down you go or has less of an illuminating power the deeper into the earth. You eventually reach into the center part of town. You now see from where you're standing a number of large structures in the very center of the bottom part of the city of Kraghammer. You can see– There is a giant domed temple that is made of gold and bronze in the center. It looks almost like a gargantuan gazebo that has doorways on each side that is currently closed off. No guards at it, though. You do see a number of other buildings. There is a large, heavy foundry far off to the left of you that has a little bit of smoke that's coming off of it, but most of it looks to be filtered into a giant, metallic funnel that is then placed into the rock. Almost like all the smoke based exhaust is being funneled outside of the mountain. That is the closest; that's the foundry. Then to the right of you, you wander a bit and you can begin to see that part of the mountainside to the far right has that look of a strip mine, or like a large portion of the minerals has been pulled away and is currently being mined further. That looks like probably one of the better places to look in looking for the Greyspine Quarry. You eventually make your way to the outside of the quarry. You now look down into three large pits that descend deeply into the side of the mountain. This mine has been going for quite some time and a large chunk of this looks like it may be being prepped; almost like the mine is what's growing Kraghammer. The more they mine into the mountain, the more they fill the mined area with further city construction. It's this self perpetuating cycle of expanding the city downward. Currently in the quarry, there are a number of large stone dwarven buildings in the edge of it, one of which is the largest of them all, looks like it's made more of a black and red, iron aesthetic; some of it's been oxidized a little bit and has that rough and tumble, iron feel. That one has the most guards around the base of it. The Carvers are gathered entirely around it. Looking down into the center of the quarry, towards the bottom there are a number of tunnels that lead into the hillside of Cliffkeep Mountains proper, surrounding Kraghammer.
+
+TRAVIS: Let's go where the guards are.
+
+LAURA: Let's walk towards the guards.
+
+LIAM: Let's just do this directly, I think.
+
+SAM: Just swords out.
+
+MARISHA: Wait. Before we go up, I take the cask of ale and I grow some pretty flowers on it, and I make a nice pretty bow and I shine it up a little.
+
+TALIESIN: You're making a fruit basket?
+
+MARISHA: No, I'm just– it looks attractive now.
+
+TALIESIN: It looks like a fruit basket.
+
+MARISHA: It does not look like a fruit basket. It's not that ostentatious.
+
+TALIESIN: It's the “Ale of the Month” Club.
+
+LIAM: In her defense, they probably don't see flowers too often. It's a nice touch.
+
+TALIESIN: That is very fair.
+
+ORION: I'm going to take this opportunity to cast Stoneskin on myself.
+
+MATT: Okay. Stoneskin is placed on you.
+
+SAM: Are you a dwarf still?
+
+TALIESIN: Are you a dwarf made of stone?
+
+MATT: You have not turned Alter Self off. You are still a dwarf.
+
+ORION: Yeah, that's fine.
+
+MATT: Oh, Stoneskin is a concentration spell, so yes, that would eliminate the Alter Self spell. Okay, so you revert back to your dragon form, robed self, but Stoneskin is in effect. You using your, what's it called again?
+
+MARISHA: Druidcraft.
+
+MATT: Druidcraft! Thank you. The Prestidigitation for hippies. Portions of the wood begin to sprout from the outside of this dark wood barrel and form these entangled ivy vines that eventually embrace the entirety of this cask with little buds of dark, ruddy flowers. Something that would definitely appeal to a dwarven aesthetic.
+
+MARISHA: That's hot.
+
+MATT: You approach the guards, of which there are eight currently at the front.
+
+LAURA: Can I use my perception to see which one of them looks maybe the most interested or weakest?
+
+MATT: Would be more of an insight.
+
+LAURA: Insight! Which one of them looks most interested in our party.
+
+MATT: Yeah.
+
+LAURA: Oh, good. I thought that was a one, but it's not. It was a 13.
+
+MATT: 13? Okay. Strangely enough, they are fairly distracted and after a rather long, uneventful morning, most of them are used to being in armor and waiting for business to go down. There are a few along the edges that look a little more alert, and one of them is looking occasionally down into the quarry. Just keeping an eye on the established area.
+
+LAURA: Which one looks like the newest?
+
+MATT: The newest of the bunch would be the one that's on the far left that is looking down into the quarry as well. He has a shaved head, has a small brownish beard that looks like he's starting to grow out into a nice, long tuft. Either it got shaved in some, I don't know, terrible college dwarf accident. You know part of his entry into some fraternity.
+
+TRAVIS: Dwarf Sigma Sigma.
+
+MATT: It's a fairly thick tuft of unkempt brown beard that goes about that far out. It's starting to be pulled in like tiny little scruffy braids. It's not quite there and he probably gets a lot of shit for it from the other dwarves. He seems to generally be looking at you guys.
+
+LIAM: Okay, work your magic.
+
+TRAVIS: Yeah, do your thing– fuck these dwarves up.
+
+SAM: What are we trying to do?
+
+LAURA: We brought this gift. Hello! We address all of them, maybe, right now, yes?
+
+TALIESIN: She is better at this. I'm going to let her do this.
+
+LAURA and SAM: Hello, hi!
+
+ORION: Greetings and salutations!
+
+MATT: The other guards reach back and grab their weapons. One of them looking to you.
+
+ORION: Oh, you don't need that.
+
+LAURA: I look over at the shaved-head one and I hold his gaze for a little bit.
+
+LIAM: I give Vex a little push forward.
+
+LAURA: Pardon me. Not yet!
+
+MATT: “All right, what's your business?”
+
+LAURA: Oh, yes, well– we are here to speak with Nostoc. We brought a gift for him that's quite remarkable, actually.
+
+MATT: They curl up around the apparent barrel that Grog's holding. They look wary of Grog, but once they make note of the barrel they all, “Ooh!”
+
+TRAVIS: Right? It's the shit.
+
+MATT: “I've heard of that, but I've not seen anyone actually drink it. There were long standing rumors that this even existed.”
+
+LAURA: It exists.
+
+SAM: And it's for Nostoc.
+
+MATT: “This is a Balgus original?”
+
+LAURA: Yes.
+
+MATT “Signed by himself I see on the burned, emblazoned wood. I'll go talk to him!” He heads inside of the building, the doors close behind him. The other guards encroach, keeping a very keen eye, each one having a bead on the rest of your group. About two minutes pass before he comes back, opens the door and the dwarf goes, “Nostoc will see you briefly, but you best bring the gift. I think that's what's holding his interest.”
+
+ORION: Wonderful!
+
+MATT: “Inside, please.” Him and one other guard flank you guys as you enter, making sure that you are not left without that appearance. You are led into the center of this portion of the mine's main structure, a series of long hallways. There's this general smell of soot and ash and broken stone dust in the air. A hint of brimstone-ish smell. It's not very pleasant, it's very well worn and pungent for those of you who spend most of their time on the surface. As you enter, there is a general dust in the air, a little light seems to peek through from the torches that are placed up along the wall. You can see this general haze amongst the interior here. It's definitely a work environment at the base of an underground dwarven establishment used to mine. You are led further down the hallway. It curves to the left and you're brought into a large dwarven study. There are books on the walls, a series of ledgers and paper stacks on a large desk and at the center there sits a dwarf with fiery red hair cut very short, almost like a buzz-cut on the top, with a long beard that is not braided, but kept very smooth and very– not curly, not bunched, it's a very straight beard. He's very clean cut, he already has this intimidating dark glare. As you walk into the room he goes, “Okay, you brought me a drink. You have my attention. What brings you to the mines?”
+
+SAM: We should have talked this through before.
+
+TALIESIN: Well, several things actually. Several things bring us to the mine. My name, of course, is Percival Fredrickstein von Musel Klossowski de Rolo III.
+
+ALL: You can call him Percy!
+
+MATT: He raises his finger and goes, “You have not paid for your pleasantries yet.”
+
+LAURA: Oh, of course. Grog, if you would.
+
+LIAM: Tap that motherfucker!
+
+TRAVIS: I am assuming he had a goblet on the table.
+
+MATT: As you pull it up he pulls under his desk and pulls up a goblet. As you fill it, “Top it off! Thank you! Now put on the side of the desk!”
+
+SAM: Wait! Mister Greyspine. Oh, okay, all right.
+
+MATT: Puts it down. (satisfied sigh)
+
+LAURA: Is it as amazing as we've heard?
+
+MATT: “It's pretty fucking good.” He takes another long drag, while making sure you all watch him do this. This goes on probably a little longer, the pageantry of him drinking this in front of you is definitely a power play, and he's establishing some sort of unspoken dominance in the room. Eventually he finishes his tankard, sets it down under the desk again. “Right, so where were we?”
+
+TALIESIN: We were here to call upon your expertise. We imagine that we are not the first strangers to Kraghammer to come through–
+
+LAURA: – in the last few weeks.
+
+TALIESIN: In the last few weeks. We believe one of our compatriots had some dealings with you, perhaps not as pleasant as the dealings we are hoping to have.
+
+SAM: A lady, in fact.
+
+LAURA: A halfling.
+
+MATT: At which point, as you say that, he gets this grin to his face and goes, “Aye, I know of the one you speak.”
+
+LAURA: Yes.
+
+MATT: “She is a strong-headed one, that one.”
+
+TALIESIN: Yes.
+
+MATT: “She stepped on a few toes around this place.”
+
+ORION: Oh, was she clumsy?
+
+MATT: “One could say that, aye. You say you are compatriots of hers?”
+
+TALIESIN: We're here to mend any broken bridges, so to speak.
+
+MARISHA: Or broken toes, if you will.
+
+MATT: “She certainly left a mess in her wake. There's this strange vision quest she kept talking about. It brought her into atmospheres– portions of this city, portions of my business that she has no right trespassing on. She went against Carver rules, she broke away from partial arrest and she went screaming down into the caverns of our mines without my permission, blade drawn on some crazed suicide mission.”
+
+LAURA: You know what? We'll go after her. We'll bring her out. We'll get her out of your mines.
+
+MATT: “Great. I'd like that actually.”
+
+LAURA: Good!
+
+TALIESIN: We'd be happy to clear out anything unpleasant that we happen to find in there in the meantime.“
+
+ORION: How did she look?
+
+TRAVIS: What?
+
+MATT: "She looked small and angry. She seemed to have some weight to her. She was a strong lass.”
+
+ORION: So not a looker is what you are saying.
+
+MATT: He gives you this strange look and goes, “I will not discuss the physical aesthetics of a halfling.”
+
+SAM: The dwarf is a feminist.
+
+LAURA: How much would this task be worth to you? Obviously we are doing you quite a favor and we brought you quite a gift!
+
+SAM: This cost us a thousand gold.
+
+MATT: “Obviously this lass means a lot to you, doesn't she?”
+
+LAURA: No, but I know she is probably wreaking havoc on your mines.
+
+LIAM: We've come to correct the wrongs that she's done and come to bring her home.
+
+MARISHA: It also sounds like there are some other terrible things wreaking havoc on your mines.
+
+MATT: “There is nothing going on, we're fine. We have everything under control, we don't need your help for that. If you want to find your friend, go find her! If she is still alive. If not, take her corpse back and leave.”
+
+TALIESIN: It's not help, sir. We are simply respecting you as a businessman. As a businessman I'm sure that you would disagree with unceremonious charity whether it would be to give it or receive it. We are making sure that our dealings with you are fair and balanced.
+
+MATT: “I appreciate your offering. You have bought your time. Now, if you are here to go find your
+
+friend, I'll let you pass. You may pass into the mine, but if at any moment you cross over to any sort of thieving bullshite–” Looks over at you. “I recommend–”
+
+(laughter)
+
+“I recommend– that you fall down the same path your friend likely did and get killed real quick. I don't take kindly to those who cross on my business.”
+
+TALIESIN: I doubt that we could find anything of more value that what we have already brought you.
+
+LIAM: We are here to right wrongs and I promise you, our business is finding her and returning home.“
+
+MATT: "Then go.”
+
+LAURA: Is that our business?
+
+TRAVIS: Yeah, we are here to right wrongs and right lefts.
+
+TALIESIN: And write comment cards.
+
+MARISHA: Wait, before we dive into this mountain– we know that there's ghouls and god knows what else down there. Shouldn't we find out?
+
+ORION: Yes, we should. Maybe some arcane house could tell us how to deal with these things.
+
+LAURA: Yes. Do we have permission to enter within the next few days? Obviously we might need to be prepared.
+
+ORION: Yes, do we have badges that we wear over so that they know–?
+
+MATT: “I'll speak with the men. They'll let you down. If you come back, good on you. I think our business here is done.”
+
+TALIESIN: Yes.
+
+MATT: At which point, you hear muffled in the distance a loud ringing of a very loud bell.
+
+(dinging)
+
+At which point, he perks up a bit. “Our business here is done. Please, shove off.”
+
+SAM: Which way do we go?
+
+MATT: He looks over to the two other guards who are up front. The two Carvers say, “This way.”
+
+LIAM: While he is talking I take a flask out of my cloak and approach the barrel and surreptitiously pour a little bit of it into the flask.
+
+MATT: Sleight of hand check.
+
+SAM: You're stealing beer?!
+
+ORION: No, because we have to give it to those guards.
+
+SAM: Fuck those guards, I can kill them all.
+
+LAURA: Can I talk to good old Nostoc while he's doing that?
+
+MATT: He currently does not seem like the talkative type at the moment, you can certainly try.
+
+TALIESIN: I am going to make a fumble. I am going to attempt to assist a sleight of hand with a bit of a fumble.
+
+MATT: He has already rolled it.
+
+LAURA: Damn it. I am going to fall down. In front of Nostoc.
+
+SAM: Oh!
+
+LIAM: 13.
+
+LAURA: I am going to fall down in front of Nostoc.
+
+MARISHA: Come on!
+
+TALIESIN: He is distracted by a bell.
+
+MATT: As you fill your flask–
+
+TRAVIS: Shit. Balls. Ass.
+
+MATT: You hear this loud– (clears throat).
+
+LAURA: Ow, oh my ankle! It hurts so very much.
+
+MATT: This is the first time you have witnessed the pristine, delicate yet well trained palm of a dwarven hand go straight to its forehead.
+
+LIAM: I carry the flask up to his cup and refill it and say: In my kingdom when a deal is set we drink together. I would like, not much, but to pour us all a drink and agree, surely this cask is weeks' worth of drink–
+
+MATT: “Get out of my office.”
+
+MARISHA: Take the flask, take the flask.
+
+LIAM: I can see it is a cultural difference, my apologies.
+
+ORION: Stop it. Just go! What are you doing?
+
+LIAM: You're one to talk!
+
+ORION: I'm on the earring.
+
+MATT: A second and a third bell starts going off and the guards that are waiting for you guys. They're like– They start leading you outside and as you make your way outside the main building, you can now hear voices shouting, down in the quarry below.
+
+LAURA: I lean down to one of the guards and say: What is that bell for?
+
+MATT: “Something is flushing out of the quarry.”
+
+LAURA: Flushing, what does that mean?
+
+MATT: “We don't know.” Some of the guards are motioning each other to follow and some of them start going down to one of the tracks that leads down to one of the nearest quarry below.
+
+TALIESIN: Just try and like practically usher our guards in that direction, since they seem to want to go in that direction. Let's see if we can push them in that direction.
+
+MATT: Okay, you guys follow down towards the quarry, you ask the guard that question and he goes, “I don't know, we've had quite a few interesting things come through.”
+
+LAURA: Like what? Oh, like what?
+
+MATT: He swallows and says, “Things I can't describe.”
+
+TALIESIN: Well, we can certainly help, lead on.
+
+MARISHA: Is there anybody running out?
+
+MATT: Not yet. As you head halfway down the quarry walkway, you begin seeing dwarves start running out of one of the large quarry tunnels.
+
+MARISHA: I grab one of them.
+
+MATT: Well, they're quite a distance from you. You're still walking down the side. They're a good 100 feet from you. They start running at you, you see blood streaking down one of their faces.
+
+TRAVIS: Yes!
+
+MATT: They're charging out, one of them has a weapon and is limping, and you start seeing small green scampering things rushing through. One, two, three, four, six, ten goblins come rushing out of the tunnel.
+
+SAM: Ah, I don't like these guys.
+
+LAURA: We should attack them! I string my bow.
+
+MARISHA: Don't you have family history with them?
+
+MATT: The three dwarves that are running out, one of them gets hacked down by one of the goblins and jumps on them and is tearing his neck.
+
+TALIESIN: I take a shot. Right now.
+
+LAURA: I take a shot. I shoot it!
+
+MATT: Okay, both you guys roll–
+
+LIAM: I throw a dagger.
+
+MATT: You throw a dagger? Three of you, roll for attack.
+
+TALIESIN: 19.
+
+LAURA: 15.
+
+ORION: Is there a clear area where there's a bunch of goblins running?
+
+MATT: There is an open funnel towards the tunnel.
+
+ORION: I'm going to throw a little Fireball, right there where those guys are.
+
+MATT: Okay, you guys you all hit from this distance because goblins are puny little things. They're still a little small to see, but you're all pretty well trained and pretty honed with your aim. You fire simultaneously, gunshot echo through the hallway, arrows, flying dagger, you see three goblins fall off a nearby dwarf who goes, “Thank–” At which point a large fireball explodes, killing off about ten or so of the goblins and probably two of the dwarves.
+
+ORION: Sorry about that!
+
+MATT: The guards stopped.
+
+SAM: Did you do that?
+
+ORION: Yeah.
+
+SAM: Fuck.
+
+MATT: They start looking around and they see you pull out your weapons and they all take a step back and realize they don't want to die either. “Well go, if you're going to help, go!”
+
+TALIESIN: We run straight in.
+
+MATT: With you guys charging in, you can now see a handful more goblins are rushing out. They are like running really fast, sprinting.
+
+MARISHA: I throw Entangle up, in the distance wherever they're coming from.
+
+MATT: Okay, what's the radius on that?
+
+MARISHA: Like a hundred feet.
+
+MATT: That's the range. What is the radius?
+
+MARISHA: Oh, 20-foot radius.
+
+MATT: Okay. You find a portion of the central point where the things exit from the tunnel and these strange reddish vines begin to protrude and to begin to grab nearby goblins and pull them up in this massive, weird vine creature. You hear (stomping) and you now see two larger ogre-like creatures come storming out.
+
+MARISHA: Oh, shit!
+
+ORION: Wonderful!
+
+MATT: Everyone roll initiative.
+
+(cheering)
+
+MARISHA: Oh, fuck. Goddamn it.
+
+TALIESIN: Oh yeah!
+
+TRAVIS: Take it!
+
+MATT: All right, do we have initiatives 25 to 20?
+
+TALIESIN: 27.
+
+ORION: 21.
+
+LAURA: Wait! I didn't roll yet.
+
+MARISHA: You rolled a 20?
+
+TALIESIN: I rolled a 20 plus seven.
+
+MATT: 21, you said?
+
+ORION: I have 21.
+
+MATT: 21 for Tiberius. What did you get? One? Aw.
+
+MARISHA: Oh, I rolled a two.
+
+LIAM: It's six with the plus.
+
+SAM: Fellows. I don't like goblins.
+
+LAURA: 18.
+
+MATT: You now see Scanlan, who's usually a jovial individual, his eyes begin to tense with fury.
+
+SAM: I don't like goblins.
+
+MARISHA: Is there anything that you know?
+
+SAM: No, they will all die. Don't spare any of them.
+
+TRAVIS: Copy that.
+
+LAURA: 18.
+
+MATT: All right, so we have–
+
+TRAVIS: 18, too.
+
+TALIESIN: 27!
+
+LAURA: What?!
+
+TRAVIS: Yeah, buddy.
+
+TALIESIN: I have 27 initiative.
+
+MATT: 15 to ten? Ten to five? Six.
+
+TALIESIN: Wow, oh my god.
+
+SAM: I got a three.
+
+MATT: Okay. All right.
+
+MARISHA: Four.
+
+LIAM: It was a sudden attack, man.
+
+SAM: We weren't ready.
+
+MATT: You got a three.
+
+MARISHA: To be fair I just cast Entangle. It works. I'm distracted holding Entangle.
+
+MATT: Yeah, it's fine. Then we have Scanlan. I'll get you guys in placement here, as your bear is currently back at the inn.
+
+LAURA: He is still?
+
+MATT: Unless you wanted to bring him along.
+
+LAURA: Well, I thought I brought him. I should have mentioned that.
+
+MATT: All right, we'll say you brought him along. That's fine.
+
+LAURA: I'm sorry, I should have emphasized that more.
+
+MATT: That's all right. Those of you going first, we're going to keep you on the field here.
+
+LAURA: Oh god.
+
+MATT: A number of goblins that are currently held over here.
+
+LAURA: They're easy. Goblins are easy. Orcs are not.
+
+TRAVIS: Yeah, those are mine.
+
+LAURA: Ogres?!
+
+MATT: Top of the round, Percy you're up.
+
+TALIESIN: I'm sitting down and I'm busting out Bad News.
+
+MARISHA: Bust out Bad News!
+
+MATT: Percy stops just as he gets to the quarry, a little bit elevated, and he pulls out from a small sack on his back this large elongated contraption, this weird construction that looks similar to the pepperbox he usually carries, but much larger and cumbersome. He sets it up on the ground with a small stand at the front and preps itself with a visual point.
+
+TALIESIN: Ogre.
+
+MATT: Ogre back here?
+
+TALIESIN: Yep.
+
+MATT: All right, roll for your attack with Bad News.
+
+MARISHA: Have you used it before?
+
+TALIESIN: Nope, first time.
+
+MATT: His own tinkered construction, Bad News.
+
+TALIESIN: That's a 30 attack.
+
+MATT: Yep, that'll do it. Go ahead and roll damage.
+
+MARISHA: Does that critical for you?
+
+TALIESIN: 19 actually might.
+
+MATT: Natural 19?
+
+TALIESIN: Natural 19.
+
+MATT: Yeah, that should critical for you.
+
+TALIESIN: That does critical for me. I've never criticaled with this either. What does that mean?
+
+MATT: That means the damage dice you double. Roll for damage, double that, and add your modifier after that.
+
+MARISHA: Come on! Big money, no whammies. Yeah! Hell yeah!
+
+TALIESIN: (counting) 27 points of damage.
+
+TRAVIS: Get after it, big man!
+
+MARISHA: Is that doubled?
+
+TALIESIN: That's doubled.
+
+MATT: You guys hear this cacophonous, large blasting sound, a flash of blue energy and sparks shoot out the back of the weapon. It actually lifts Percy off the ground for a second and he shifts himself from the sheer blast. This streaking, heated bullet, reddish, white hot, goes cascading through the air, plunges into the side of the ogre's shoulder with a smattering of blood splattering against the cave behind it. It's actually moved back a step and has to catch itself. Slams its club into the ground. That ends your turn?
+
+TALIESIN: I can't do anything after that. That's just reload.
+
+MATT: Tiberius, you're up.
+
+ORION: I move within 60 feet of those big fellows.
+
+TALIESIN: Bad news travels far and fast.
+
+MARISHA: Nothing travels faster.
+
+MATT: This is the entanglement, by the way.
+
+LAURA: Oh, okay.
+
+ORION: Right before there.
+
+MATT: Everything there is fighting from the entanglement. Most of these goblins are currently inside of it.
+
+ORION: I'm going to shoot a Scorching Ray at the big guy.
+
+MATT: Both of them?
+
+SAM: He said he moved within 60 feet of them.
+
+MATT: You moved up to here? All righty.
+
+MARISHA: They're all entangled, yeah?
+
+ORION: That's good right there.
+
+MARISHA: Still have Entagle up.
+
+MATT: These guys here are entangled. These front goblins are not. Scorching Ray you said at which ones?
+
+ORION: Actually, oh there's a bunch of those dudes, aren't there? I'm going to do a Fireball instead, right in the center of the juiciness where I can get a couple little guys and both the big guys.
+
+MATT: All right, so I'd probably about there would be where you'd want it.
+
+ORION: I'm going to do that, and I'm going to spend two sorcerer points immediately to do quickening spell and do another spell right after that.
+
+MATT: Okay. As you rush up, you pull back your hand and you see the arcane red energy begin to flow in your palm. You then throw the beam out, and it arcs, slams into the center, and explodes hitting each of these five goblins and the two ogres. What's your DC on your spell?
+
+ORION: My DC on my spell is–
+
+MATT: Top of your spell page on the right.
+
+ORION: Oh! Wait. Oh! 17, sorry.
+
+MATT: 17, okay. Wow! The two ogres actually make their saving throws.
+
+LAURA: Ugh!
+
+MARISHA: Boo!
+
+MATT: They got 18 and a 19.
+
+TRAVIS: Roll crappier, ogres!
+
+MATT: The goblins, however, all disintegrate.
+
+LAURA: All of them?
+
+MATT: There's no way they're going to survive the damage you– they (poofing). You see this hint of a red ash mist go, (squeaking) where they once were, and they are all turned to black nothingness. However, roll damage for the ogres. They get half damage because they made their reflex save. So 8d6 damage.
+
+SAM: 8d6.
+
+SAM: (counting) 27!
+
+TRAVIS: What?!
+
+MATT: 27, so half that. As the blast of fire dissipates, you can see one of the ogres is now burnt on half of its chest. Looking a little rough. There's blood streaking down from the side of his face where the shrapnel got thrown at him. The other ogre's looking okay.
+
+ORION: He's a large creature isn't he?
+
+MATT: Yes.
+
+ORION: I'm going to use my second spell and do Telekinesis and pick one up and try to hurl him into the other one.
+
+MATT: Okay. Which one? The one left here?
+
+ORION: The one that's beaten up already.
+
+SAM: I'm hard right now!
+
+MATT: He does fail his saving throw. You lift him up in the air and throw him into that. That ogre is knocked prone by the impact.
+
+ALL: Yeah!
+
+MATT: The other one is also knocked prone. Before (splatting) into the wall, both of them slam to the ground.
+
+MARISHA: With my vines, I make sure my vines really grapple him.
+
+ORION: I turn to Grog: They're all yours, buddy!
+
+MATT: Go ahead and roll 2d6 impact damage for the force of the throw.
+
+ORION: Sweet! Impact damage? Ten.
+
+MATT: Ten damage to each of them?
+
+ORION: Yeah.
+
+MATT: All right. Both of the ogres are now on the ground reeling from the impact. That brings us to Grog and Vex going simultaneously.
+
+TRAVIS: Ladies first.
+
+LAURA: Oh! Well, all right. I'm going to cast Hunter's Mark on the most damaged one.
+
+MATT: Okay, that'd be this one here.
+
+LAURA: All right. Then I'm going to shoot Lightning Arrow.
+
+MATT: All right. Do you want to move a little closer?
+
+LAURA: Yes, I do.
+
+MATT: All right. That would put you right there.
+
+LAURA: All right, cool. I'm going to shoot Lightning Arrow at them.
+
+MATT: Okay. You pull out your arrow and as you pull it back, a little bit of energy courses through your fingers, strikes through your arrow. You can now see this crackling energy as you're pulling it taut in your bow. You let it loose, roll for attack.
+
+LAURA: Okay! 21!
+
+MATT: 21 hits.
+
+LAURA: All right. Then I do something else. 1d8. Right?
+
+MATT: Yep. You do the damage of the arrow plus the damage of the spell.
+
+LAURA: Holy moly! So that's this. 13 for the arrow and then 4d8 for the spell. (counting) 17!
+
+MATT: 17. Okay. The ogre that's been beaten, blasted by the fireball, it's getting up– (grunt). It grabs its club, and it begins to get up on one leg as the Lightning Arrow slams into its chest. You can see it hits. Looks down for a second, and then the charge pulses through its entire torso. As it does, it screams out, “Ugh!” into the cavern, its whole muscle system locks tight and it falls forward again, onto its chest, smoke rising off of its whole upper area, unmoving, on the ground. He is gone.
+
+TRAVIS: Dang! Come on now!
+
+LAURA: Yes! Then the other one takes 2d8 if he fails his saving throw.
+
+MATT: Which, with a one, he does.
+
+LAURA: Yes! Oh, he fails it so good.
+
+MATT: Go ahead a roll damage for other ogre.
+
+LAURA: Two. ten.
+
+MATT: Ten damage. Nice. As he falls to the ground, the arc arcs over to the other one who drops his club for a second. Picks it up angrily.
+
+LAURA: I can reassign my Hunter's Mark to him now?
+
+MATT: You can.
+
+LAURA: Yes.
+
+MATT: Yes, all right. That brings us to–
+
+LAURA: Oh, my Hunter's Mark! I didn't do my Hunter's Mark damage. But it doesn't matter. He's dead.
+
+MATT: It doesn't matter. You killed him.
+
+LAURA: All right, cool.
+
+MATT: You just ultra killed him! (valley girl voice) He is so dead. Oh my god. This ogre is done. (normal voice) All right. The other ogre's angry. It's now the goblins' turn. These goblins rush up. They are dashing forward.
+
+MARISHA: (valley girl voice) They are so dead.
+
+TALIESIN: (valley girl voice) They're just, like, dead. This one moves around, and this one runs around to there. No attacks. Everyone make an insight check.
+
+SAM: Insight check? Oh shit.
+
+MARISHA: What happened? Why are we doing this?
+
+TALIESIN: I literally get a one.
+
+TRAVIS: (sings) Natural 20! On an insight check.
+
+MARISHA: 20 total. 20.
+
+LAURA: 22.
+
+ORION: Four.
+
+TALIESIN: Natural one. I'm really not paying attention.
+
+MATT: You're dealing with the fact that you just fired your gun for the first time and it burned your hands a little. You're like “Ugh!”
+
+SAM and MATT: Grog.
+
+TRAVIS: Recites poetry.
+
+MATT: Grog is familiar with one thing, fear in the eyes of his enemies. Looking at these goblins, they're not charging to attack. The attacks seem to be instinctual. They are running.
+
+MARISHA: Oh, no!
+
+MATT: They are scared.
+
+LAURA: Yes!
+
+MATT: They are fleeing from something.
+
+SAM: From the ogres?
+
+TRAVIS: Something behind the ogres.
+
+LAURA: Oh, no.
+
+SAM: May I make a request that you kill them anyway?
+
+TRAVIS: It's like playing croquet at this point, so yes.
+
+(laughter)
+
+MATT: Grog, it's your turn.
+
+TRAVIS: I would like to rage! And I would like to move to the right of all those stinking goblins!
+
+MATT: Right over here?
+
+TRAVIS: Yeah, a little more to the right. Yeah, a little more. Yeah, keep going. All the way flanking it there. Yeah. Yeah, and then I would like to give them the cleanest shave possible with my greataxe.
+
+MATT: All right. Go ahead and roll for attack on the first one.
+
+TRAVIS: 18 plus eight. That's 26?
+
+MATT: That definitively hits. Go ahead and roll damage.
+
+TRAVIS: Oh, damage, crap.
+
+LIAM: (sings) Decapitation!
+
+TRAVIS: Two plus the four. 13!
+
+MATT: 13? Okay. As you rush up, you bring your axe into the first goblin to your right (whoosh) clean. You don't even feel resistance. You hear this little (wheeze) sound as this being is bisected.
+
+TRAVIS: Oh, that was cute.
+
+MATT: Its head and upper torso rolling off to the side before rolling to a stop. However, the inertia of your axe still keeps through to the one on the other side of you. Go ahead and roll for your second attack on that.
+
+TRAVIS: 21!
+
+MATT: Also hits, go ahead and roll damage.
+
+TRAVIS: Oh, that was eight plus seven is 15!
+
+MATT: As you cleave through the first goblin, you swing around, another goblin looks up at you, scared, and pulls a dagger out with its gnarled tongue, (hisses), at which point the axe embeds itself straight into its face. Its angry face goes, “Ugh!” and falls slack against your blade. You lift backward, and it's stuck to the edge of your axe. Just limply dangling against– you shake it off a little bit.
+
+TRAVIS: Double prizes! Yeah!
+
+MATT: Great. That ends your turn. The thing about rage is that you can use your bonus action for a third attack. If you wanted to do a frenzy action, but you don't need to. That brings us to the ogre's turn. The ogre gets up, let's see if it makes its saving throw for an attempt to get out. It does with an 18. However, the ogre gets about that far. It's going to make a double move.
+
+LAURA: Double move?!
+
+TALIESIN: He's running.
+
+MARISHA: I still have Entangle up.
+
+MATT: I know. He managed to resist it.
+
+LAURA: He saved against it.
+
+MATT: It's a big ogre.
+
+MARISHA: Poop.
+
+MATT: The ogre takes his full turn to get up in melee with you guys. It does not have its attack since it used its full movement there. Once again, you see as it's lumbering forward, it also has this look in its eye of desperation.
+
+SAM: Oh crap.
+
+ORION: We should just let it pass.
+
+MATT: Now it is Vax's go.
+
+LIAM: My sister's right in the face of the ogre, correct?
+
+MATT: Correct.
+
+LIAM: Excellent. I'm going to take a run towards my sister, since she's right close to him, he's distracted so I'm going to turn just as I get to her, so my back presses against hers and swing around and sneak attack two daggers up in his belly.
+
+LAURA: We've practiced this, I turn.
+
+MATT: All right. As you dodge to the side, this blur of shadow and speed, you coast up to the side of your sister, dagger both plunge towards the side of the ogre. Go ahead and roll for an attack.
+
+LIAM: All right. One. Then the other one I do a poison dagger, gets a (singing) 20!
+
+TRAVIS: Oh, put it on him brother!
+
+MATT: All right.
+
+LIAM: That is dagger of venom, 1d4. Three, plus two is five, and then is the sneak attack damage go with–?
+
+MATT: Yeah it does because you have another ally adjacent to it. You don't get advantage on the attack roll, but you can still do the sneak attack.
+
+LIAM: Critical hit, too, as well, wouldn't it?
+
+MATT: Yeah! You can multiply the sneak attack damage.
+
+LIAM: Five, plus- and the double goes to the sneak attack damage?
+
+MATT: It does. Modifiers don't double, but any dice you roll double.
+
+LIAM: Nine, 15–
+
+MATT: In my game. (clicks tongue)
+
+LIAM: So 30 plus five, 35.
+
+MATT: 35 damage.
+
+LIAM: Plus poison.
+
+MATT: The poison's not going to factor in. You swing past her, both blades jam right into the side of its rib cage. You hear it howl out in pain. As it does, you twist the daggers in a way where both blades are now going in two different directions, and you carve out a section of its entire abdomen. As you do, the flesh, like whale blubber, sloughs off the sides of it. Organs spill out, intestines, and it looks down and tries to pull them back in. You see the color draining from its face, and you lean up and kick it down. The ogre and falls to the ground lifeless, destroyed.
+
+TALIESIN: You gave him just enough time to regret everything that had ever happened.
+
+MATT: Yes.
+
+TALIESIN: Well done. Bad life choices.
+
+MATT: That brings us to Keyleth.
+
+MARISHA: I didn't call my mom enough.
+
+LAURA: There are two goblins left?
+
+MATT: There are two goblins left.
+
+MARISHA: Okay. I do a quick sprint jog up towards Grog and go (boof) and bring up a big stone wall. Right where that entrance is.
+
+MATT: Right here?
+
+MARISHA: No. Like, right where things are pouring out.
+
+MATT: Right, here?
+
+MARISHA: Yeah.
+
+MATT: All right, Wall of Stone.
+
+MARISHA: Wall of Stone– boom.
+
+MATT: All right. A giant wall of stone now completely seals off that part of the mine.
+
+MARISHA: We don't know what's in there, we should talk about this for a second, and I bought us some time. I'm sure it's going to try to beat through that door in a second.
+
+MATT: I'm going to say that you moved up to there with your movement. All right, I'd say probably over here, not right next to the goblins and that will give you enough range. Okay, so the wall of stone–
+
+(boom)
+
+MARISHA: Are there any guards around still? Any dwarven guards?
+
+MATT: They are all watching you do this now. They don't want to put their lives at risk, and you guys seem intent on getting into the middle of this battle, so they are going to sit back and let you do it.
+
+MARISHA: I throw up my wall and turn around and I say: What's coming?! Tell us! You know what's coming. What's coming?!
+
+MATT: Make an intimidation check.
+
+LAURA: Keyleth, you are so hardcore.
+
+MARISHA: I'm not good at this.
+
+SAM: You speak goblin?
+
+MARISHA: Oh, four.
+
+(laughter and groaning)
+
+MARISHA: (tearfully) What's coming?
+
+TALIESIN: Make a pity roll.
+
+MATT: A very gentle attempt at intimidation, however, the message gets across. The guards look at you, taken off guard.
+
+MARISHA: We are about to die. It is in your best interest to tell us.
+
+MATT: “We don't know! It's been different things. Strange abominations. It's hard to describe. They're put together. Something's making things down there.”
+
+MARISHA: What kind of things? From where?
+
+MATT: As they're talking, you hear a (boom) against the stone.
+
+TALIESIN: (clicking) Sitting down.
+
+TRAVIS: I bring out my blade.
+
+MATT: The stone cracks, and you can see a noticeable crack and an audible (cracking).
+
+LIAM: I'm running right now diagonally towards the wall and I press against the wall.
+
+LAURA: Oh, good call. I do the same thing on the other side.
+
+MATT: Okay, so you come over here. Do you want to bring Trinket with you?
+
+LAURA: Yeah!
+
+MATT: All right.
+
+TALIESIN: You're all so fancy.
+
+MARISHA: I cast Stoneskin on myself.
+
+LAURA: We're stealthing, I'm stealthing.
+
+MATT: Roll stealth both of you.
+
+ORION: How tall are the walls? I mean the ceiling.
+
+MATT: Oh, the ceiling right now is the rest of Kraghammer for the most part.
+
+TRAVIS: Hundreds.
+
+MATT: Yeah, it is a huge ceiling.
+
+TRAVIS: What's in the middle? Are those fires?
+
+MATT: These are braziers here. By the way, Stoneskin goes, this disappears.
+
+TRAVIS: The entanglement?
+
+MATT: Yeah, the entanglement is gone. There are minecarts, some rocks, there is a smashed cart over here from when the ogre barreled through. This is a piece of stone that rises about 15 feet, and these are both braziers for light in the center of the area. Yeah, it's hundreds and hundreds of feet up. You can look up to the very top of Kraghammer from here.
+
+ORION: Okay, that's fine.
+
+MATT: Whatcha got? Well, let's see. Keyleth, that's your turn, Stoneskin and moving up. Anywhere else you want to go? Right now, we're technically not in combat.
+
+SAM: Right. We're out of combat.
+
+MATT: Briefly.
+
+TALIESIN: I'm breathing deep, taking aim at the wall, resetting everything.
+
+MARISHA: Can I move up behind that pillar?
+
+MATT: Okay.
+
+TALIESIN: I'm staying far back at the moment.
+
+MATT: Back here. Both of these goblins– I'll just say that you guys end up taking them down. It's not even a question. You step on them and crush them.
+
+TRAVIS: Are there any dwarves that we can say to go get Ballsack and bring him down?
+
+MATT: You can.
+
+LAURA: Oh yeah, Balgoos! Balgus.
+
+MATT: Balgus? You tell them, “Get Balgus!” and they're like, “Who?” Some of them have set crossbows up by the way. They're barreling down to get ready to fire at whatever comes through. (impact) Another crack in the wall. You can see the dust settle as the stone cracks again and a large piece at the top tumbles off. The stone wall's probably not going to hold another impact. Anybody else want to move anywhere?
+
+TALIESIN: Just taking aim.
+
+SAM: I'll move up to the right near where Grog is. No one's has taken any damage yet, right?
+
+MATT: Not currently, no. You guys have had a pretty clean sweep into this battle, so far.
+
+SAM: I can't inspire anybody here? Now?
+
+MATT: You can inspire anybody. Just give them a dice.
+
+SAM: Can I inspire everyone?
+
+MATT: You can spend all your uses to inspire as many people as you have the uses of it.
+
+MARISHA: I still have mine that I haven't used yet.
+
+SAM: I'll inspire Vex and Vax and Grog.
+
+SAM: (singing) I think you're really handsome and nice! You're going to have inspiration dice!
+
+TRAVIS: Thought you were going to have a little–
+
+LAURA: I know, some beautiful song for us! Wait, what for all of us? We all get a d8?
+
+MATT: Each of you has to have a single d8 dice, inspiration dice. The bardic inspiration is flowing through you, that you can use to add to an attack roll, not damage. You can add it to an attack roll, a saving throw.
+
+SAM: (plays tune on electric piano app)
+
+MATT: There you go. That's what a shawm sounds like, apparently. You can use it on attack roll, a saving throw, or an ability check. Any skill. Tiberius, are you going to stay where you are, are you moving anywhere? Last chance.
+
+ORION: Is that cover right there next to me?
+
+MATT: Right over here? Yeah.
+
+ORION: I'll get behind the cover. I'm going to peek out and I'm going to cast Blur.
+
+MATT: Okay, Stoneskin goes away.
+
+ORION: I can't do both?
+
+MATT: Nope. They're both concentration spells.
+
+ORION: Okay, I leave Stoneskin.
+
+MATT: Okay, Stoneskin stays on. At which point (boom) the stone breaks through scattering across the ground. Immediately bursting through–
+
+TRAVIS: What the fuck is that?
+
+LAURA: What is it?
+
+MATT: A bulbous, oversized, naga-like creature. You've encountered a naga before, which is a large serpentine creature with a humanoid head. However, this one is swollen, it is bulbous. The way it moves looks unnatural and it has affixed to it not one, not three, but five other different colored naga heads stitched to its body. It is a seriously terrible abomination. As it breaks through the stone, (hisses and growls) all the heads rear back.
+
+MARISHA: Do naga heads do something if you look at them?
+
+MATT: We're beginning back at the top of the initiative order.
+
+TRAVIS: Oh shit!
+
+LAURA: Wait! I got a question! My Hunter's Mark, can I transfer it to that thing or do I have to–
+
+MATT: Correct, you can, yes. Because this still part of the encounter.
+
+LAURA: Sweet!
+
+MATT: That is now marked with the Hunter's Mark. Percy, you're up first.
+
+TALIESIN: Do I have to take new aim or can I have myself already trained on–
+
+MATT: You've had a moment to train. You haven't seen the creature until it just burst out, so it would take you a round to aim.
+
+TALIESIN: I'm taking my round to aim.
+
+MATT: Okay, so you're aiming. That brings us to Tiberius.
+
+ORION: What did you just do?
+
+TALIESIN: I just took aim. Took aim. Just a gun.
+
+LAURA: Did we roll initiative again?
+
+MATT: I'm keeping the same initiative order.
+
+TALIESIN: This gun doesn't do anything fancy. Just shoots really far, really hard.
+
+ORION: Okay! I'll do a Scorching Ray.
+
+MATT: Scorching Ray, all right. It makes a saving throw. It does not! Rolled a two, so full damage on it.
+
+ORION: Two– four. Let's shoot two of them right now, right, three of them?
+
+MATT: It's an aimed ray attack?
+
+ORION: Yeah.
+
+MATT: Then you have to roll for the attack. Roll a d20 and add your–
+
+TRAVIS: Roll high, roll high.
+
+MATT: Top of your spell page.
+
+ORION: Oh! That's 23.
+
+MATT: 23? 23 hits.
+
+ORION: Yes, okay. Then that's 2d6. That's 12.
+
+MATT: 12 points of damage to the naga. That brings us to–
+
+ORION: Wait. I roll for the second shot, right?
+
+MATT: Yeah.
+
+ORION: Okay, and that's a natural 20.
+
+(cheering)
+
+MATT: Okay, so you fire one beam off and it slams into the side of one of the naga heads. The second you bring back and as you do there's a flicker of arcane instability. His arm shakes as he releases the surge of scorching energy as it blasts into the side of the naga. Also, does not make a saving throw again! Roll full damage.
+
+TRAVIS: Holy shit, Tiberius.
+
+TALIESIN: Oh my god.
+
+ORION: 12.
+
+MATT: 12?
+
+ORION: Yeah.
+
+MATT: Multiplied? Or did you roll a 12?
+
+ORION: I rolled a 12.
+
+MATT: 12. Times two. 24 points of damage.
+
+ORION: Oh! I'm terrible at math! Stay in school, kids!
+
+MARISHA: This is a good time to note our charity, 826LA.
+
+SAM: Not yet. Don't donate yet. Donate next week.
+
+MATT: Next week, you can donate to then. All right, so that brings us to the end of Tiberius' turn. You want to move at all, are you staying where you are?
+
+ORION: I'll stay right here.
+
+MATT: Grog and Vex, you're up.
+
+TRAVIS: Ladies first.
+
+LAURA: Oh! Me! Okay, I'm going to shoot– oh god, I didn't realize I was going so fast.
+
+MATT: What did you roll for stealth, by the way?
+
+LAURA: What?
+
+MATT: What did you roll for stealth, by the way?
+
+LAURA: I rolled a 20 for stealth!
+
+MATT: Then yeah, he has no idea you're there.
+
+LAURA: Sweet!
+
+MATT: He sees the bear going (growling).
+
+LAURA: Okay. Trinket's going to hang out because I don't want to– you know. I'm going to shoot Conjure Barrage. No, I'm just going to shoot him twice.
+
+MATT: All right, go for it!
+
+LAURA: All right.
+
+MATT: Arrow once, arrow twice, Legolas style.
+
+LAURA: I am going to do the fire arrow thingy at it.
+
+MATT: Okay, so using your bowstring.
+
+LAURA: The blazing bowstring. Thank you, Tiberius!
+
+MATT: That he created and crafted! All right so as you pull the second arrow out you nock it. As you let it, go it bursts into flames arcing halfway through the air.
+
+LAURA: Okay.
+
+MATT: What was your to hit roll on that?
+
+LAURA: 21?
+
+MATT: 21 hits!
+
+LAURA: Oh wait, that's four plus seven is 11.
+
+SAM: Don't forget your inspiration!
+
+MATT: Well inspiration dice is to hit.
+
+SAM: Oh, okay.
+
+LAURA: 11.
+
+MATT: 11 points of damage.
+
+LAURA: For the first one, plus for the blazing bowstring I can turn any arrow into a flaming arrow, doing additional ten fire damage. I'll roll that right now, which is this. Which is a seven!
+
+MATT: An additional seven, so 18 total damage and that arrow (impact) in the side of its body. One of the serpent heads reels back from the pain. It begins snatching at where the arrow's now protruding from it, trying to break it off.
+
+LAURA: Then I'm going to roll again! That's a 24!
+
+MATT: That hits, go ahead and roll damage.
+
+LAURA: Awesome. That's an eight.
+
+MATT: Grog, you're on deck.
+
+LAURA: Seven plus seven is 14!
+
+MATT: 14 damage, all right. Both arrows sink into it. Definitely piercing through the scales a little bit, but not sticking too deeply into its body; it's definitely a hearty creature. Grog, you're up!
+
+TRAVIS: Right, I would like to run around the other side of the rock, raging, spit flying out my of my mouth! I would like to use the chain of returning, also crafted by Tiberius, attach it to the end of the greataxe, and throw it from where I am at the snake.
+
+ORION: Yeah!
+
+MATT: He comes running around, rears back, and takes his double-handed great axe and lobs it overhand. The chain, that's wrapped around your wrist, keeping it attached to you, in some degree. Go ahead and roll for the attack.
+
+TRAVIS: Eight, nine, 17!
+
+MATT: 17? It just hits!
+
+TRAVIS: All right, nice. That is 15.
+
+MATT: 15 points of damage. The axe embeds itself pretty deeply into the torso.
+
+LAURA: Oh! I didn't do my Hunter's Mark.
+
+MATT: Roll Hunter's Mark damage right now.
+
+LAURA: Thank you, chatroom!
+
+Six!
+
+MATT: Six? Awesome. Six damage. All right.
+
+TRAVIS: This says, “An athletics-strength check is required to pull the weapon free, the DC 12?”
+
+MATT: Go ahead and roll an athletics check.
+
+TRAVIS: 12.
+
+MATT: Roll a d20.
+
+TRAVIS: Oh, a d20.
+
+MATT: It's a DC 12.
+
+TRAVIS: Shit. Balls. Taint. Five.
+
+MATT: Plus–
+
+TRAVIS: Plus what?
+
+MATT: Plus your athletics!
+
+TRAVIS: Oh! That's bound to be good. Seven! It's 12!
+
+MATT: 12 is the DC! So yeah!
+
+TRAVIS: (elated laughter)
+
+MATT: You pull back the chain and as you do, the blade is resisting, it's stuck in the torso and it actually (whoosh) and flies back, and you barely catch it.
+
+TRAVIS: (nervous laughter)
+
+MARISHA: I love your joy sounds!
+
+TRAVIS: Meant to do that! Meant to do that of course.
+
+MATT: Now it's its turn.
+
+LAURA: Oh no!
+
+MATT: (bursts of wind)
+
+TRAVIS: Yeah, come on!
+
+SAM: What? Why me? No, that's not me.
+
+MATT: For its size, when it moves, it moves in a burst of lightning energy. It's too fast for its corpulent form. As it goes behind to Keyleth and Tiberius, it makes an attack with each of its five heads. Two on Tiberius, three on Keyleth. Remember, you guys have Stoneskin, so I believe you have resistance against damage, right?
+
+ORION: Oh yes, I do.
+
+MATT: All right. So. Against Keyleth, it's a natural 20.
+
+ALL: Oh no!
+
+MATT: That's a 12 plus seven, that's going to be a 19 to hit?
+
+MARISHA: Yeah.
+
+MATT: Natural 20 again.
+
+MARISHA: What the fuck!
+
+MATT: Two critical hits, and a hit on you.
+
+TRAVIS: What is this bullshit?
+
+MATT: On Tiberius, that's a 22 to hit and a 13 to hit.
+
+ORION: One does, one does not.
+
+MATT: Okay, cool. Against Keyleth, you take–
+
+MARISHA: I'm glad I cast Stoneskin.
+
+MATT: I know. So you take half damage for these. Which is fine.
+
+MARISHA: Yeah.
+
+MATT: That's two plus four, that's six, damage halved, you take three damage. Oh, sorry. Three multiplied by two because it's a critical. So you take six damage from the first strike.
+
+LAURA: That's nothing! Six damage.
+
+MATT: Not too bad. You take seven damage from the second strike, and another six damage from the 3rd strike. Actually, it would have been six, four and six. Because you have resistance on the damage because of Stoneskin.
+
+MARISHA: Six, four and six?
+
+MATT: Yes. However, make a constitution saving throw. As venom from the fangs of the naga begin to pulse into your bloodstream.
+
+MARISHA: I should have taken the poison resistance. He talked me out of it. What am I–constitution.
+
+MATT: Yeah, constitution saving throw.
+
+MARISHA: Fuck!
+
+MATT: Natural one? Natural one on the constitution saving throw.
+
+LAURA: Oh no!
+
+MARISHA: It's a bad day.
+
+MATT: You feel this burning pain pulse into your bloodstream, as your whole body doubles over from the pain.
+
+SAM: Keyleth dies in episode one.
+
+MATT: You suffer 31 points of poison damage.
+
+MARISHA: 31, on top of the six, four and six?
+
+MATT: Yep.
+
+TRAVIS: Are you okay?
+
+MATT: The poison damage is not halved because it is not a physical attack on your body.
+
+LAURA: Is Keyleth unconscious?
+
+SAM: No, she's okay.
+
+MATT: Tiberius you take 13 points of damage halved by Stoneskin so you take a total of seven. Also make a constitution saving throw.
+
+Whatcha got?
+
+ORION: It's a 16.
+
+MATT: 16, you manage to physically resist the poison in your system. You feel that slight tinge, the muscles tense, but then your dragonborn form begins to shrug off the effect of the venom.
+
+ORION: Can I turn to him and blow fire out of my nostrils?
+
+MATT: Sure.
+
+ORION: That's what I do.
+
+MATT: True dragonborn challenge. That brings us to Vax.
+
+LIAM: Okay, I start jogging backwards.
+
+MARISHA: Took me down to 16 hit points.
+
+LIAM: Can I sneak attack while prone?
+
+MATT: You're stealthed currently, so you would technically get a sneak attack, but you have to be in melee for you to get the other bonus. It would be sneak attack for this damage if you were to roll or if you were to throw a dagger at it, you would get the sneak attack.
+
+LIAM: Okay, so that means one throw instead of two?
+
+MATT: You can throw both daggers at it.
+
+LIAM: All right. I feel so inspired by Scanlan's bardic tunes–
+
+SAM: (singing) Yeah!
+
+MATT: You can add it after you make the roll by the way.
+
+LAURA: If you do a really good roll then you don't need it.
+
+LIAM: Okay, 19 plus 11 is 30.
+
+MATT: Because you're a rogue, isn't that critical for you?
+
+LIAM: Yeah. Oh, yeah.
+
+MATT: Two criticals!
+
+LIAM: The other one, the other one is a 16 plus, plus– is a 26.
+
+MATT: That also hits. You chuck both daggers out, they both arc around. You're used to throwing around–
+
+LIAM: I meant to say I was aiming at its eye, the main head's eye.
+
+LAURA: No, you should've said that first.
+
+MATT: For flavor it's fine. Just go ahead, it's fine.
+
+LIAM: All right, four.
+
+LAURA: Four!
+
+LIAM: (counting)m 20. 20 times–is 40 plus four. 44, that's the first dagger?
+
+MATT: Yeah, 44 damage.
+
+LIAM: 44.
+
+TRAVIS: Damn!
+
+MATT: Rogues, man.
+
+MARISHA: Help me. Help!
+
+LAURA: That's just one dagger?
+
+LIAM: That's just one. Four plus two is six. Is that sneak attack? No.
+
+MATT: No, only one sneak attack per turn.
+
+LIAM: Okay.
+
+LAURA: 40 and then six on the other one.
+
+MATT: One actually hit one of the heads, one of the various naga heads directly into its face. As it does it goes through both eyes and you can see it begin reeling from the attack. It's looking pretty rough, actually. The stitches beginning to come apart at some of the seams and you can see a black ichorous liquid spill out from some of the suture marks.
+
+LIAM: Just a reminder the daggers, folks, blink back to the belt on my waist.
+
+MATT: Because magic. Magic rogue shit. Keyleth, you're up.
+
+LAURA: Kill him!
+
+MARISHA: Okay, so I'm really upset, really hurting. Out of anger I take my staff and I go (bam) and I crack and do Thunderwave pushing him back 15 feet.
+
+MATT: All right. Makes the saving throw. He gets pushed back, so he takes damage, just half damage.
+
+MARISHA: Okay, 2d8.
+
+MATT: As you're setting up your gun it gets slammed right point blank to you.
+
+MARISHA: Oh sorry. It takes four damage.
+
+MATT: Four damage, all righty.
+
+MARISHA: Then I'm going to turn into an eagle.
+
+SAM: (laughs) As one does.
+
+MATT: We'll say for that, because I forgot to bring an eagle, you're now a– (eagle sounds)
+
+MARISHA: And I fly away.
+
+TRAVIS: Away.
+
+(laughter)
+
+MARISHA: Far, far, away.
+
+ORION: Where are you going?!
+
+SAM: Tell our story, Keyleth.
+
+MATT: That's pretty great.
+
+MARISHA: Then I cry in the corner and rock back and forth a little bit. That's my turn.
+
+MATT: I forgot to mention you actually take half damage for the saving throw for the venom so you still would've taken 14 points of poison damage, so mark that.
+
+ORION: Okay.
+
+MATT: It is half damage on a save. That brings us to Scanlan.
+
+SAM: Can I bonus inspire myself?
+
+MATT: Because you're Scanlan I'll say, yes. You have such a high opinion of yourself that even you could inspire yourself. So yes, why not.
+
+SAM: (singing) It would help me to acquire some dice to inspire. (speaking) I inspire myself first and move five feet back so I'm on the same row as him.
+
+MATT: There?
+
+SAM: Not that far.
+
+MATT: There.
+
+SAM: Yes. Them I'm going to cast Lightning Bolt at him.
+
+MATT: Okay! Straight line that way?
+
+SAM: Straight line, that way.
+
+MATT: You don't have to roll to hit. You just roll damage on that. I make a saving throw.
+
+SAM: Oh! I didn't even need to inspire.
+
+MATT: What's your DC on the spell? Top of your spell list.
+
+ORION: 17.
+
+SAM: Thank you.
+
+MATT: 17? That's a failure on its saving throw. Go ahead and roll 8d6.
+
+LAURA: 8d6?! Kill him!
+
+MATT: Bards. Gets spells from other classes.
+
+TRAVIS: If you kill, I will take a shit on this table.
+
+SAM: (counting)
+
+LIAM: It's gone.
+
+SAM: 24!
+
+MATT: 24 points of lightning damage.
+
+SAM: Yes. (sings a high-pitched note)
+
+MATT: How do you want to do this?
+
+(yelling)
+
+MARISHA: Wait! Is this the first time you've–
+
+SAM: I've never killed anything before!
+
+TRAVIS: Never killed anything in two years!
+
+LIAM: For the people at home, we live to hear Matt say:
+
+ALL: “How do you want to do this?”
+
+MATT: I let the player describe their victory. As you sing to yourself to bolster your arcane energy, you release a shear bolt of energy. How do you want to do this?
+
+SAM: The bolt of lightning begins in its tail and works its way up through its spine, slowly but painfully torturing it as it slowly, slowly feels the effect coursing through its evil body.
+
+MATT: Because of your bardic ability to actually shape sound from an arcane standpoint, a lightning bolt should be an instant flash of arcane energy, you actually cause it to crawl. You control it as it begins to cascade up the torso of this horrible abomination. As it does you can see the bolts splinter and destroy each suture wound as each of its heads begins to slough off the rest of the torso until nothing is left but the single head screaming into the air. As the bolt makes its way up the neck, its eyes burst out in a blast of energy. The body falls limp to the ground.
+
+SAM: Can it have a lightning bolt shaped in an “S?”
+
+MATT: A Scanlan-shaped lightning bolt is burned into the torso of the strange naga beast.
+
+TRAVIS: Well done, Scanlan, well done!
+
+MATT: The dust settles, the adrenaline still pumping in your system, Scanlan. All the rest of the dwarves begin stepping down, putting their crossbows down, looking down at the little gnome that created a storm from its hands. One of them pats him on the shoulder and goes, “Well done.”
+
+SAM: Thank you. Just promise me you'll that tell Pike about this.
+
+MATT: “Okay?”
+
+SAM: Because it was really cool, right?
+
+MATT: “That was pretty cool.”
+
+SAM: Okay, good.
+
+MATT: All the dwarves look into the tunnel that it came from and the one that you spoke to earlier goes, “So that's the kind of thing that's been coming out of there.”
+
+LAURA: Lovely.
+
+MARISHA: Thanks for the heads up.
+
+TALIESIN: That was really helpful.
+
+MATT: We'll go ahead and leave the game there for the night.
+
+(cheering)
+
+MATT: Folks, well done. Hope you guys had fun watching our first ever Critical Role. That was a good time so we'll be here next week on Thursday. 7:00, though. Today was a special early edition because all of Geek & Sundry's going to South by Southwest.
+
+ZAC: Good job, dude!
+
+MATT: Dude, thank you, Zac!
+
+ZAC: This is so much fun. This is the most fun I've had all week now until I die of stress behind the camera.
+
+MATT: Good! That's good.
+
+ZAC: Guys, I hate to end it so abruptly but we're actually packing up the cameras that are filming me now, our unit, everything, lights, and getting on a plane and heading to South by Southwest. We may stream tomorrow, we may not, we're flying blind, we'll see what stuff looks like when we get there. Thank you guys so much and we'll be back next week, 7:00pm. Next week guys, it's going to be great.
+
+MATT: Thank you all for coming!
