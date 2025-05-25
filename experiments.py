@@ -27,35 +27,37 @@ def agentic_summary(chunk, bullet_points=None, previous_summary=None):
     response1 = prompt_text_reply(META_KNOWLEDGE_PROMPT, str(prompt))
 
     if bullet_points is not None:
-        bullet_points += response1
+        bullet_points += "\n" + response1
     else:
         bullet_points = response1
     print(f"Summary Stage 1: {bullet_points}")
     
     # Add the bullet points to the prompt
     prompt['bullet_points'] = bullet_points
+
+    # Summarize for real
+    prompt['text'] = None  # Clear the text to avoid confusion
+    response3 = prompt_text_reply(META_SUMMARY_PROMPT, str(prompt))
+    print(f"Actual Summary: {response3}")
+
     # Cleanup the bullet points
     response2 = prompt_text_reply(META_CLEANUP_PROMPT, str(prompt))
     bullet_points = response2
-    prompt['bullet_points'] = bullet_points
     print(f"Summary Stage 2: {bullet_points}")
-
-    # Summarize for real
-    response3 = prompt_text_reply(META_SUMMARY_PROMPT, str(prompt))
-    print(f"New Prompt: {response3}")
 
     return bullet_points, response3
 
 if __name__ == "__main__":
-    with open("texts/cr_s1e1.txt", "r", encoding="utf-8") as fr:
+    with open("texts/anna_k.txt", "r", encoding="utf-8") as fr:
         doc = fr.read()
     # 1 OpenAI token is ~4 characters, so we can estimate the number of tokens
+    # Use ~5k tokens per chunk so that there is room for other summary text.
     text_length = len(doc)
     bullet_points = None
     previous_summary = None
-    for i in range(0, text_length, 40000):
-        j = min(i + 40000, text_length)
-        print(f"Processing chunk {i // 40000 + 1}: {doc[i:i+100]}... (length: {len(doc[i:j])})")
+    for i in range(0, text_length, 20000):
+        j = min(i + 20000, text_length)
+        print(f"Processing chunk {i // 20000 + 1}: {doc[i:i+100]}... (length: {len(doc[i:j])})")
         chunk = doc[i:j]
         # Summarize the chunk
         print("Starting summarization process...")

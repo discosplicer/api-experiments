@@ -161,3 +161,6 @@ cython_debug/
 
 # Secret files
 secret_api_keys.py
+
+# Ignore all text files in the texts directory
+texts/*

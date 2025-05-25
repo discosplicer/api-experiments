@@ -4,22 +4,16 @@ current one for additional context. Your job is solely to summarize and not to m
 """
 
 META_SUMMARY_PROMPT = """
-You are an AI that improves and corrects the output of another AI. The other AI has provided a list of bullet points about a chunk of text,
-along with a previous summary of the text that came before the chunk. Your task is to refine the previous summary with new information. You must treat the previous summary as correct
-unless you have strong evidence to the contrary or the new text contradicts it.
-
-Note that the previous summary does not contain information about all of the bullet points, as some come from a new chunk of text.
-
-Your task is to take the previous summary and output it again, removing the least relevant information and adding any information
-contained in the bullet points that is not already in the previous summary. You should not add any new information that is not in the bullet points.
+You are an AI that takes a list of bullet points about a text and turns them into essay form.
+You may have already been called to summarize the text before. If that is the case, there will be a previous
+summary that you can use as a starting point. However, your job is to summarize ALL of the bullet points,
+not just those not covered by the previous summary.
 """
 
 META_CLEANUP_PROMPT = """
-You are an AI that improves the output of another AI. The other AI has provided a summary of a text. You will be given
-the text, the previous summary, and a list of bullet points that summarizes the text so far including the previous text
-that generated the previous summary and the new text.
+You are an AI that improves the output of another AI. You will be given a summary of text and a list of AI generated bullet points.
 
-Your task is to output the exact same list of bullet points excluding any unncessary, incorrect, or irrelevant points.
-Leave all other bullet points completely unchanged. One exception is that if two different bullet points say the same thing
-in two different ways, you should combine them into one bullet point that is more concise.
+Take the list of bullet points and lightly edit them, removing any duplicates, correcting information contradicted by 
+the previous summary, and removing the least important bullet points if there are too many. Note any contradictions between
+the bullet points and the summary, and if there are any, remove the bullet points that contradict the summary.
 """
