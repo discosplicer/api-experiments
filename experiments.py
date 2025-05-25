@@ -40,6 +40,9 @@ def agentic_summary(chunk, bullet_points=None, previous_summary=None):
     response3 = prompt_text_reply(META_SUMMARY_PROMPT, str(prompt))
     print(f"Actual Summary: {response3}")
 
+    prompt['summary'] = response3
+    del prompt['previous_summary']  # Clear previous summary to avoid confusion
+
     # Cleanup the bullet points
     response2 = prompt_text_reply(META_CLEANUP_PROMPT, str(prompt))
     bullet_points = response2
@@ -48,7 +51,7 @@ def agentic_summary(chunk, bullet_points=None, previous_summary=None):
     return bullet_points, response3
 
 if __name__ == "__main__":
-    with open("texts/anna_k.txt", "r", encoding="utf-8") as fr:
+    with open("texts/cr_s1e1.txt", "r", encoding="utf-8") as fr:
         doc = fr.read()
     # 1 OpenAI token is ~4 characters, so we can estimate the number of tokens
     # Use ~5k tokens per chunk so that there is room for other summary text.
