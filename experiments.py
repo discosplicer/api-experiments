@@ -47,8 +47,9 @@ def agentic_summary(chunk, bullet_points=None, previous_summary=None):
     response3 = prompt_text_reply(META_SUMMARY_PROMPT, str(prompt))
     print(f"Actual Summary: {response3}")
 
+    # Effectively rename to just "summary" for cleanup.
     prompt['summary'] = response3
-    del prompt['previous_summary']  # Clear previous summary to avoid confusion
+    del prompt['previous_summary']
 
     # Cleanup the bullet points
     response2 = prompt_text_reply(META_CLEANUP_PROMPT, str(prompt))
@@ -58,7 +59,7 @@ def agentic_summary(chunk, bullet_points=None, previous_summary=None):
     return bullet_points, response3
 
 if __name__ == "__main__":
-    text_name = "pokemon_agent"
+    text_name = "cr_s1e1"
     print(f"Starting summarization for {text_name}...")
     # Load the text file
     with open(f"texts/{text_name}.txt", "r", encoding="utf-8") as fr:
@@ -83,7 +84,6 @@ if __name__ == "__main__":
     # One last summary pass
     prompt = {
         'text': None,
-        'previous_summary': previous_summary,
         'bullet_points': bullet_points,
     }
     summarized = prompt_text_reply(META_SUMMARY_PROMPT, str(prompt))
