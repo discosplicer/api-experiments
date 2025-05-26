@@ -25,7 +25,12 @@ def agentic_summary(chunk, bullet_points=None, previous_summary=None):
         'text': chunk,
         'previous_summary': previous_summary
     }
-    response1 = prompt_text_reply(META_KNOWLEDGE_PROMPT, str(prompt))
+    # Prepend the opening prompt if there is no previous summary
+    if previous_summary is None:
+        meta_prompt = OPENING_PROMPT + "\n" + META_KNOWLEDGE_PROMPT
+    else:
+        meta_prompt = META_KNOWLEDGE_PROMPT
+    response1 = prompt_text_reply(meta_prompt, str(prompt))
 
     if bullet_points is not None:
         bullet_points += "\n" + response1
@@ -52,7 +57,7 @@ def agentic_summary(chunk, bullet_points=None, previous_summary=None):
     return bullet_points, response3
 
 if __name__ == "__main__":
-    text_name = "cr_s1e2"
+    text_name = "cr_s1e1"
     print(f"Starting summarization for {text_name}...")
     # Load the text file
     with open(f"texts/{text_name}.txt", "r", encoding="utf-8") as fr:
