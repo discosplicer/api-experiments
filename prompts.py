@@ -4,7 +4,8 @@ a transcript, a news article, or something else? Include any relevant informatio
 Consider why a user would want to feed this text into an LLM, but don't state that explicitly.
 
 This prompt is being called repeatedly on a text that is too long to fit into the context window of another AI. 
-If the text appears incomplete, assume what the rest of the text will be and describe that. Do not use words like "partial" or "excerpt" in your description.
+If the text appears incomplete, assume what the rest of the text will be and describe that.
+Do not use words like "partial", "opening", or "excerpt" in your description, as the full text likely contains the entire work.
 """
 
 META_KNOWLEDGE_PROMPT = """
