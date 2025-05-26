@@ -57,7 +57,7 @@ def agentic_summary(chunk, bullet_points=None, previous_summary=None):
     return bullet_points, response3
 
 if __name__ == "__main__":
-    text_name = "cr_s1e1"
+    text_name = "pokemon_agent"
     print(f"Starting summarization for {text_name}...")
     # Load the text file
     with open(f"texts/{text_name}.txt", "r", encoding="utf-8") as fr:
