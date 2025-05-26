@@ -22,12 +22,12 @@ def prompt_text_reply(instructions, text):
 
 def agentic_summary(chunk, bullet_points=None, previous_summary=None):
     prompt = {
+        'previous_summary': previous_summary,
         'text': chunk,
-        'previous_summary': previous_summary
     }
     # Prepend the opening prompt if there is no previous summary
     if previous_summary is None:
-        meta_prompt = OPENING_PROMPT + "\n" + META_KNOWLEDGE_PROMPT
+        meta_prompt = META_KNOWLEDGE_PROMPT + "\n" + OPENING_PROMPT
     else:
         meta_prompt = META_KNOWLEDGE_PROMPT
     response1 = prompt_text_reply(meta_prompt, str(prompt))
@@ -42,7 +42,8 @@ def agentic_summary(chunk, bullet_points=None, previous_summary=None):
     prompt['bullet_points'] = bullet_points
 
     # Summarize for real
-    prompt['text'] = None  # Clear the text to avoid confusion
+    if previous_summary is not None:
+        prompt['text'] = None  # Clear the text to avoid confusion
     response3 = prompt_text_reply(META_SUMMARY_PROMPT, str(prompt))
     print(f"Actual Summary: {response3}")
 
@@ -79,6 +80,14 @@ if __name__ == "__main__":
             previous_summary=previous_summary, 
         )
         previous_summary = summarized
+    # One last summary pass
+    prompt = {
+        'text': None,
+        'previous_summary': previous_summary,
+        'bullet_points': bullet_points,
+    }
+    summarized = prompt_text_reply(META_SUMMARY_PROMPT, str(prompt))
+    print(f"Final Summary: {summarized}")
     with open(f"{text_name}_{OPENAI_MODEL_NAME}.md", "w", encoding="utf-8") as fw:
         fw.write(summarized)
-    print("Summarization complete. Check {text_name}.md for results.")
+    print(f"Summarization complete. Check {text_name}_{OPENAI_MODEL_NAME}.md for results.")
