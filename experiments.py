@@ -41,6 +41,8 @@ def agentic_summary(chunk, bullet_points=None, previous_summary=None):
     # Add the bullet points to the prompt
     prompt['bullet_points'] = bullet_points
 
+    del prompt['previous_summary']  # Remove previous summary to avoid confusion in the next step
+
     # Summarize for real
     if previous_summary is not None:
         prompt['text'] = None  # Clear the text to avoid confusion
@@ -49,7 +51,6 @@ def agentic_summary(chunk, bullet_points=None, previous_summary=None):
 
     # Effectively rename to just "summary" for cleanup.
     prompt['summary'] = response3
-    del prompt['previous_summary']
 
     # Cleanup the bullet points
     response2 = prompt_text_reply(META_CLEANUP_PROMPT, str(prompt))
@@ -59,7 +60,7 @@ def agentic_summary(chunk, bullet_points=None, previous_summary=None):
     return bullet_points, response3
 
 if __name__ == "__main__":
-    text_name = "cr_s1e1"
+    text_name = "plato"
     print(f"Starting summarization for {text_name}...")
     # Load the text file
     with open(f"texts/{text_name}.txt", "r", encoding="utf-8") as fr:

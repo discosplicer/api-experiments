@@ -19,15 +19,12 @@ where the text is only a relatively smaller new chunk of the document.
 META_SUMMARY_PROMPT = """
 You are an AI that takes a list of bullet points about a document and turns them into a summary. This summary will be used
 as the context for another AI that can't fit the entire original document into its context window, so it should be as information-dense as possible.
-Since the prompt is being called on each section of the text, if you discard any information that is necessary to understand the document it will be permanently lost.
-
-Mostly avoid bullet points in the output summary, as this may be confused with the original bullet point list.
+Since this prompt is being called on each section of the text, if you discard any information that is necessary to understand the document it will be permanently lost.
 
 You may notice some bullet points have a score and some do not. If so, be briefer with the bullet points that do not have a score.
+The scores represent the importance of the bullet points, with (10) being most important and (1) being least important.
 
-You may have already been called to summarize the document before. If that is the case, there will be a previous
-summary that you can use as a starting point. However, your job is to summarize ALL of the bullet points,
-not just those not covered by the previous summary. Do not mention the existence of the previous summary in your output.
+Mostly avoid writing with bullet points in the output summary, as this may be confused with the original bullet point list.
 """
 
 META_CLEANUP_PROMPT = """
