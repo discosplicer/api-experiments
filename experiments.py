@@ -8,7 +8,7 @@ def prompt_text_reply(instructions, text):
     This function uses the OpenAI API to summarize a text.
     It requires the OpenAI API key and model name to be set in the config.
     """
-    openai_client = OpenAI(api_key=API_OPENAI)
+    openai_client = OpenAI(api_key=API_OPENAI, timeout=900.0)  # Set a longer timeout for large texts
 
     response = openai_client.responses.create(
         model=OPENAI_MODEL_NAME,
@@ -16,6 +16,7 @@ def prompt_text_reply(instructions, text):
         instructions=instructions,
         max_output_tokens=MAX_TOKENS,
         temperature=TEMPERATURE,
+        service_tier="flex",
     )
     return response.output_text
 
@@ -51,7 +52,10 @@ def agentic_summary(chunk, bullet_points=None, previous_summary=None):
     return bullet_points, response3
 
 if __name__ == "__main__":
-    with open("texts/pokemon_agent.txt", "r", encoding="utf-8") as fr:
+    text_name = "cr_s1e2"
+    print(f"Starting summarization for {text_name}...")
+    # Load the text file
+    with open(f"texts/{text_name}.txt", "r", encoding="utf-8") as fr:
         doc = fr.read()
     # 1 OpenAI token is ~4 characters, so we can estimate the number of tokens
     # Use ~5k tokens per chunk so that there is room for other summary text.
@@ -70,8 +74,6 @@ if __name__ == "__main__":
             previous_summary=previous_summary, 
         )
         previous_summary = summarized
-    with open("agentic_summary.txt", "w", encoding="utf-8") as fw:
+    with open(f"{text_name}_{OPENAI_MODEL_NAME}.md", "w", encoding="utf-8") as fw:
         fw.write(summarized)
-    # with open("agentic_prompt.txt", "w", encoding="utf-8") as fw:
-    #     fw.write(customized_prompt)
-    print("Summarization complete. Check agentic_summary.txt for results.")
+    print("Summarization complete. Check {text_name}.md for results.")
