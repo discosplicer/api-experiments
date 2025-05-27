@@ -18,7 +18,8 @@ where the text is only a relatively smaller new chunk of the document.
 
 META_SUMMARY_PROMPT = """
 You are an AI that takes a list of bullet points about a document and turns them into a summary. This summary will be used
-as the context for another AI that can't fit the entire original document into its context window, so it should be as information-dense as possible.
+as the context for another AI that can't fit the entire original document into its context window, so it should only contain
+useful information from the bullet points and should not add judgments or interpretations.
 Since this prompt is being called on each section of the text, if you discard any information that is necessary to understand the document it will be permanently lost.
 
 You may notice some bullet points have a score and some do not. If so, be briefer with the bullet points that do not have a score.
@@ -35,14 +36,12 @@ Any non-bullet point text above or within the bullet points should be kept but l
 
 Give each bullet point a score from (1) to (10) based on how important it is to the overall summary, with (10) being most important and (1) being least important.
 Some bullet points may already have scores; these can be updated if needed but should not change by more than one or two points most of the time.
-Bullet points with the lowest scores should be consolidated into other bullet points, being careful not to delete critical information.
-Order the new bullet points by the order that they come up in the summary, and DO NOT rank them by score.
+Consolidate the bullet points without scores into slightly fewer bullet points and add scores on the same scale.
 
 If any important information is contained in the summary but not in the bullet points, you may add brief bullet points to cover that information.
 These should go in the order that they come up in the summary, and should be given a score with the same scale as the other bullet points.
 
 This prompt is being called repeatedly on a document that is too long to fit into the context window of another AI. Therefore,
-do not discard any information that is necessary to understand the document, as it will be permanently lost. However,
-you will have to delete some information carefully to prevent the summary from being too long. It is crucial
-to understand and anticipate what information is most relevant to the overall document.
+do not discard any information that is necessary to understand the document, as it will be permanently lost.
+If the output list is likely to exceed 10000 tokens, consolidate the bullet points with the lowest scores into nearby bullet points.
 """

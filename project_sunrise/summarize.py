@@ -104,9 +104,8 @@ def agentic_summary(chunk, model_conf, bullet_points=None, previous_summary=None
     # Add the bullet points to the prompt
     prompt["bullet_points"] = bullet_points
 
-    del prompt[
-        "previous_summary"
-    ]  # Remove previous summary to avoid confusion in the next step
+    # Remove previous summary to avoid confusion in the next step
+    del prompt["previous_summary"]  
 
     # Summarize for real
     if previous_summary is not None:
@@ -209,8 +208,11 @@ def main():
         output_dir = (
             args.output
             if args.output and os.path.isdir(args.output)
-            else os.path.dirname(input_file)
+            else os.path.dirname(input_file) + "/summaries"
         )
+        # Create the directory if it does not exist
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir, exist_ok=True)
         output_file = (
             os.path.join(output_dir, f"{text_name}_{model_conf.model_name}.md")
             if args.output is None or os.path.isdir(args.output)
