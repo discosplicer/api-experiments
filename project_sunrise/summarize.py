@@ -9,7 +9,7 @@ from project_sunrise.prompts import (
     META_KNOWLEDGE_PROMPT,
     OPENING_PROMPT,
     META_SUMMARY_PROMPT,
-    META_CLEANUP_PROMPT,
+    meta_cleanup_prompt,
 )
 
 
@@ -99,7 +99,7 @@ def agentic_summary(chunk, model_conf, bullet_points=None, previous_summary=None
         bullet_points += "\n" + new_bullet_points
     else:
         bullet_points = new_bullet_points
-    print(f"Summary Stage 1: {bullet_points}")
+    print(f"Raw list of bullet points: {bullet_points}")
 
     # Add the bullet points to the prompt
     prompt["bullet_points"] = bullet_points
@@ -117,8 +117,10 @@ def agentic_summary(chunk, model_conf, bullet_points=None, previous_summary=None
     prompt["summary"] = new_summary
 
     # Cleanup the bullet points
-    cleaned_bullet_points = prompt_text_reply(META_CLEANUP_PROMPT, str(prompt), model_conf)
-    print(f"Summary Stage 2: {cleaned_bullet_points}")
+    cleaned_bullet_points = prompt_text_reply(
+        meta_cleanup_prompt(model_conf.max_tokens), str(prompt), model_conf
+    )
+    print(f"Cleaned up bullet points: {cleaned_bullet_points}")
 
     return cleaned_bullet_points, new_summary
 
