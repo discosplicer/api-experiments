@@ -205,7 +205,7 @@ def main():
             "text": None,
             "bullet_points": bullet_points,
         }
-        summarized = prompt_text_reply(META_SUMMARY_PROMPT, str(prompt))
+        summarized = prompt_text_reply(META_SUMMARY_PROMPT, str(prompt), model_conf)
         print(f"Final Summary: {summarized}")
         output_dir = (
             args.output
