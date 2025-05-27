@@ -1,10 +1,17 @@
 import argparse
+from dataclasses import dataclass
 import os
 
 from openai import OpenAI
-from secret_api_keys import *
-from config import *
 from prompts import *
+
+@dataclass
+class AIModelConfig:
+    api_key: str
+    model_name: str
+    max_tokens: int = 10000
+    temperature: float = 1.0
+
 
 def is_text_file(filename):
     try:
@@ -29,19 +36,19 @@ def get_text_files_from_path(path):
                 files.append(full_path)
     return files
 
-def prompt_text_reply(instructions, text):
+def prompt_text_reply(instructions, text, model_conf):
     """
     This function uses the OpenAI API to summarize a text.
     It requires the OpenAI API key and model name to be set in the config.
     """
-    openai_client = OpenAI(api_key=API_OPENAI, timeout=900.0)  # Set a longer timeout for large texts
+    openai_client = OpenAI(api_key=model_conf.api_key, timeout=900.0)  # Set a longer timeout for large texts
     try:
         response = openai_client.responses.create(
-            model=OPENAI_MODEL_NAME,
+            model=model_conf.model_name,
             input=text,
             instructions=instructions,
-            max_output_tokens=MAX_TOKENS,
-            temperature=TEMPERATURE,
+            max_output_tokens=model_conf.max_tokens,
+            temperature=model_conf.temperature,
             service_tier="flex",
         )
         return response.output_text
@@ -49,7 +56,7 @@ def prompt_text_reply(instructions, text):
         print(f"OpenAI API error: {e}")
         return "[API ERROR]"
 
-def agentic_summary(chunk, bullet_points=None, previous_summary=None):
+def agentic_summary(chunk, model_conf, bullet_points=None, previous_summary=None):
     prompt = {
         'previous_summary': previous_summary,
         'text': chunk,
@@ -59,7 +66,7 @@ def agentic_summary(chunk, bullet_points=None, previous_summary=None):
         meta_prompt = META_KNOWLEDGE_PROMPT + "\n" + OPENING_PROMPT
     else:
         meta_prompt = META_KNOWLEDGE_PROMPT
-    response1 = prompt_text_reply(meta_prompt, str(prompt))
+    response1 = prompt_text_reply(meta_prompt, str(prompt), model_conf)
 
     if bullet_points is not None:
         bullet_points += "\n" + response1
@@ -75,14 +82,14 @@ def agentic_summary(chunk, bullet_points=None, previous_summary=None):
     # Summarize for real
     if previous_summary is not None:
         prompt['text'] = None  # Clear the text to avoid confusion
-    response3 = prompt_text_reply(META_SUMMARY_PROMPT, str(prompt))
+    response3 = prompt_text_reply(META_SUMMARY_PROMPT, str(prompt), model_conf)
     print(f"Actual Summary: {response3}")
 
     # Effectively rename to just "summary" for cleanup.
     prompt['summary'] = response3
 
     # Cleanup the bullet points
-    response2 = prompt_text_reply(META_CLEANUP_PROMPT, str(prompt))
+    response2 = prompt_text_reply(META_CLEANUP_PROMPT, str(prompt), model_conf)
     bullet_points = response2
     print(f"Summary Stage 2: {bullet_points}")
 
@@ -93,7 +100,24 @@ if __name__ == "__main__":
     parser.add_argument("input", help="Input file or directory to summarize")
     parser.add_argument("-o", "--output", help="Output file or directory", default=None)
     parser.add_argument("-c", "--chunk-size", type=int, help="Chunk size in characters", default=20000)
+    parser.add_argument("--api-key", help="OpenAI API key (or set OPENAI_API_KEY env var)")
+    parser.add_argument("--model", help="OpenAI model name", default="o4-mini")
+    parser.add_argument("--max-tokens", type=int, help="Max output tokens", default=10000)
+    parser.add_argument("--temperature", type=float, help="Sampling temperature", default=1.0)
     args = parser.parse_args()
+
+    api_key = args.api_key or os.environ.get("OPENAI_API_KEY")
+    if not api_key:
+        print("Error: OpenAI API key must be provided via --api-key or OPENAI_API_KEY environment variable.")
+        exit(1)
+
+    model_conf = AIModelConfig(
+        api_key=api_key,
+        model_name=args.model,
+        max_tokens=args.max_tokens,
+        temperature=args.temperature
+    )
+
     input_files = get_text_files_from_path(args.input)
     if not input_files:
         print("No valid text files found.")
@@ -125,8 +149,9 @@ if __name__ == "__main__":
             print("Starting summarization process...")
             bullet_points, summarized = agentic_summary(
                 chunk,
+                model_conf,
                 bullet_points=bullet_points,
-                previous_summary=previous_summary, 
+                previous_summary=previous_summary,
             )
             previous_summary = summarized
         # One last summary pass
@@ -138,8 +163,11 @@ if __name__ == "__main__":
         print(f"Final Summary: {summarized}")
         output_dir = args.output if args.output and os.path.isdir(args.output) else os.path.dirname(input_file)
         output_file = os.path.join(
-            output_dir, f"{text_name}_{OPENAI_MODEL_NAME}.md"
+            output_dir, f"{text_name}_{model_conf.model_name}.md"
         ) if args.output is None or os.path.isdir(args.output) else args.output
-        with open(output_file, "w", encoding="utf-8") as fw:
-            fw.write(summarized)
-        print(f"Summarization complete. Check {output_file} for results.")
+        try:
+            with open(output_file, "w", encoding="utf-8") as fw:
+                fw.write(summarized)
+            print(f"Summarization complete. Check {output_file} for results.")
+        except Exception as e:
+            print(f"Error writing to {output_file}: {e}")

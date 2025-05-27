@@ -14,15 +14,9 @@ Optionally, print progress and summary stats to the console.
 Usability
 * Command-Line Interface (CLI):
 Add --help and usage instructions.
-* Basic Error Handling:
-Handle missing files, permission errors, and API failures gracefully.
-* Config File Support:
-Allow user to specify API keys and model parameters via a config file or environment variables.
 Documentation & Cleanup
 * README.md:
 Project description, installation, usage examples, and limitations.
-* Requirements.txt:
-List all dependencies.
 * Code Cleanup:
 Remove unused code, add comments, and ensure consistent formatting.
 * Sample Input/Output:
