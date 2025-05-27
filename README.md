@@ -30,7 +30,7 @@ These generated summaries can be read on their own or copied into an LLM in case
 
 ## Usage Example
     ```
-    python experiments.py texts/your_text_here.txt --chunk-size 20000 --model o4-mini
+    python summarize.py texts/your_text_here.txt --chunk-size 20000 --model o4-mini
     ```
 
 ## Limitations

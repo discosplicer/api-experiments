@@ -1,9 +1,16 @@
 import argparse
-from dataclasses import dataclass
+import logging
 import os
+from dataclasses import dataclass
+from typing import List, Optional, Tuple
 
 from openai import OpenAI
-from project_sunrise.prompts import *
+from project_sunrise.prompts import (
+    META_KNOWLEDGE_PROMPT,
+    OPENING_PROMPT,
+    META_SUMMARY_PROMPT,
+    META_CLEANUP_PROMPT,
+)
 
 @dataclass
 class AIModelConfig:
@@ -13,7 +20,11 @@ class AIModelConfig:
     temperature: float = 1.0
 
 
-def is_text_file(filename):
+def is_text_file(filename: str) -> bool:
+    """
+    This function checks if a file is a text file by attempting to read it.
+    It returns True if the file is readable as text, otherwise False.
+    """
     try:
         with open(filename, 'r', encoding='utf-8') as f:
             f.read(1024)
@@ -21,7 +32,7 @@ def is_text_file(filename):
     except Exception:
         return False
 
-def get_text_files_from_path(path):
+def get_text_files_from_path(path: str) -> List[str]:
     """
     This function returns a list of text files in the given path.
     It filters out non-text files and directories.
@@ -95,7 +106,7 @@ def agentic_summary(chunk, model_conf, bullet_points=None, previous_summary=None
 
     return bullet_points, response3
 
-if __name__ == "__main__":
+def main():
     parser = argparse.ArgumentParser(description="Project Sunrise: Summarize text/code files using OpenAI API.")
     parser.add_argument("input", help="Input file or directory to summarize")
     parser.add_argument("-o", "--output", help="Output file or directory", default=None)
@@ -171,3 +182,7 @@ if __name__ == "__main__":
             print(f"Summarization complete. Check {output_file} for results.")
         except Exception as e:
             print(f"Error writing to {output_file}: {e}")
+
+if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+    main()
