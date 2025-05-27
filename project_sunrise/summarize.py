@@ -21,15 +21,23 @@ class AIModelConfig:
     temperature: float = 1.0
 
 
-def is_text_file(filename: str) -> bool:
+def is_text_file(filename: str, blocksize: int = 512) -> bool:
     """
     This function checks if a file is a text file by attempting to read it.
     It returns True if the file is readable as text, otherwise False.
     """
     try:
-        with open(filename, "r", encoding="utf-8") as f:
-            f.read(1024)
-        return True
+        with open(filename, "rb") as f:
+            chunk = f.read(blocksize)
+        # If the chunk contains null bytes, it's likely binary
+        if b"\x00" in chunk:
+            return False
+        # Try decoding as UTF-8
+        try:
+            chunk.decode("utf-8")
+            return True
+        except UnicodeDecodeError:
+            return False
     except Exception:
         return False
 
