@@ -25,6 +25,9 @@ def is_text_file(filename: str, blocksize: int = 512) -> bool:
     """
     This function checks if a file is a text file by attempting to read it.
     It returns True if the file is readable as text, otherwise False.
+
+    TODO: Get python-magic or some other way to not have to look for null bytes,
+        which is more of a proxy and not an actual check.
     """
     try:
         with open(filename, "rb") as f:
@@ -63,9 +66,8 @@ def prompt_text_reply(instructions, text, model_conf):
     This function uses the OpenAI API to summarize a text.
     It requires the OpenAI API key and model name to be set in the config.
     """
-    openai_client = OpenAI(
-        api_key=model_conf.api_key, timeout=900.0
-    )  # Set a longer timeout for large texts
+    # Set a longer timeout since we're using flex.
+    openai_client = OpenAI(api_key=model_conf.api_key, timeout=900.0)
     try:
         response = openai_client.responses.create(
             model=model_conf.model_name,

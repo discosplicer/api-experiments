@@ -164,3 +164,6 @@ secret_api_keys.py
 
 # Ignore all text files in the texts directory
 texts/*
+
+# Ruff
+.ruff_cache/
