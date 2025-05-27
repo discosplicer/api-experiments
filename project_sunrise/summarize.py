@@ -93,12 +93,12 @@ def agentic_summary(chunk, model_conf, bullet_points=None, previous_summary=None
         meta_prompt = META_KNOWLEDGE_PROMPT + "\n" + OPENING_PROMPT
     else:
         meta_prompt = META_KNOWLEDGE_PROMPT
-    response1 = prompt_text_reply(meta_prompt, str(prompt), model_conf)
+    new_bullet_points = prompt_text_reply(meta_prompt, str(prompt), model_conf)
 
     if bullet_points is not None:
-        bullet_points += "\n" + response1
+        bullet_points += "\n" + new_bullet_points
     else:
-        bullet_points = response1
+        bullet_points = new_bullet_points
     print(f"Summary Stage 1: {bullet_points}")
 
     # Add the bullet points to the prompt
@@ -111,18 +111,17 @@ def agentic_summary(chunk, model_conf, bullet_points=None, previous_summary=None
     # Summarize for real
     if previous_summary is not None:
         prompt["text"] = None  # Clear the text to avoid confusion
-    response3 = prompt_text_reply(META_SUMMARY_PROMPT, str(prompt), model_conf)
-    print(f"Actual Summary: {response3}")
+    new_summary = prompt_text_reply(META_SUMMARY_PROMPT, str(prompt), model_conf)
+    print(f"Actual Summary: {new_summary}")
 
-    # Effectively rename to just "summary" for cleanup.
-    prompt["summary"] = response3
+    # Rename to just "summary" for cleanup.
+    prompt["summary"] = new_summary
 
     # Cleanup the bullet points
-    response2 = prompt_text_reply(META_CLEANUP_PROMPT, str(prompt), model_conf)
-    bullet_points = response2
-    print(f"Summary Stage 2: {bullet_points}")
+    cleaned_bullet_points = prompt_text_reply(META_CLEANUP_PROMPT, str(prompt), model_conf)
+    print(f"Summary Stage 2: {cleaned_bullet_points}")
 
-    return bullet_points, response3
+    return cleaned_bullet_points, new_summary
 
 
 def main():
