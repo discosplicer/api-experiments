@@ -167,3 +167,7 @@ texts/*
 
 # Ruff
 .ruff_cache/
+
+# VS Code
+.vscode/
+.DS_Store
