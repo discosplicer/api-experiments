@@ -35,16 +35,19 @@ def prompt_text_reply(instructions, text):
     It requires the OpenAI API key and model name to be set in the config.
     """
     openai_client = OpenAI(api_key=API_OPENAI, timeout=900.0)  # Set a longer timeout for large texts
-
-    response = openai_client.responses.create(
-        model=OPENAI_MODEL_NAME,
-        input=text,
-        instructions=instructions,
-        max_output_tokens=MAX_TOKENS,
-        temperature=TEMPERATURE,
-        service_tier="flex",
-    )
-    return response.output_text
+    try:
+        response = openai_client.responses.create(
+            model=OPENAI_MODEL_NAME,
+            input=text,
+            instructions=instructions,
+            max_output_tokens=MAX_TOKENS,
+            temperature=TEMPERATURE,
+            service_tier="flex",
+        )
+        return response.output_text
+    except Exception as e:
+        print(f"OpenAI API error: {e}")
+        return "[API ERROR]"
 
 def agentic_summary(chunk, bullet_points=None, previous_summary=None):
     prompt = {
@@ -100,8 +103,15 @@ if __name__ == "__main__":
         text_name = os.path.basename(input_file) if os.path.isfile(input_file) else input_file
         print(f"Starting summarization for {text_name}...")
         # Load the text file
-        with open(input_file, "r", encoding="utf-8") as fr:
-            doc = fr.read()
+        try:
+            with open(input_file, "r", encoding="utf-8") as fr:
+                doc = fr.read()
+        except (FileNotFoundError, PermissionError) as e:
+            print(f"Error opening {input_file}: {e}")
+            continue
+        except Exception as e:
+            print(f"Unexpected error reading {input_file}: {e}")
+            continue
         # 1 OpenAI token is ~4 characters, so we can estimate the number of tokens
         # Use ~5k tokens per chunk so that there is room for other summary text.
         text_length = len(doc)

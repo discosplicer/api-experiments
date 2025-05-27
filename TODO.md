@@ -13,7 +13,6 @@ Output summaries in a clear, organized format (e.g., Markdown with file names as
 Optionally, print progress and summary stats to the console.
 Usability
 * Command-Line Interface (CLI):
-Add CLI arguments for input files/directories, output location, and config options (e.g., chunk size).
 Add --help and usage instructions.
 * Basic Error Handling:
 Handle missing files, permission errors, and API failures gracefully.
