@@ -3,7 +3,7 @@ from dataclasses import dataclass
 import os
 
 from openai import OpenAI
-from prompts import *
+from project_sunrise.prompts import *
 
 @dataclass
 class AIModelConfig:

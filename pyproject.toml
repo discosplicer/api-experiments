@@ -1,11 +1,10 @@
 [project]
-name = "api-experiments"
+name = "project_sunrise"
 version = "0.1.0"
 description = ""
 authors = [
     {name = "Jacob Larocca",email = "laroccajacob90@gmail.com"}
 ]
-license = {text = "MIT"}
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
