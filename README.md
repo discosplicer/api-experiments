@@ -34,10 +34,7 @@ These generated summaries can be read on their own or copied into an LLM in case
     ```
 
 ## Limitations
-Requires a valid OpenAI API key and internet connection.
-API usage may incur costs depending on your OpenAI plan.
-The project is in early development; interfaces and features may change.
-Not intended for production use without further security and error handling improvements.
+Requires a valid OpenAI API key.
 
 ## License
 MIT License. See LICENSE for details.

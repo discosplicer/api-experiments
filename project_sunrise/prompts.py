@@ -44,7 +44,7 @@ def meta_cleanup_prompt(max_tokens=10000):
 
     This prompt is being called repeatedly on a document that is too long to fit into the context window of another AI. Therefore,
     do not discard any information that is necessary to understand the document, as it will be permanently lost.
-    If the output list is likely to exceed {max_tokens} tokens, consolidate the bullet points with the lowest scores into nearby bullet points,
+    If the output list is likely to exceed or come close to {max_tokens} tokens, consolidate the bullet points with the lowest scores into nearby bullet points,
     or delete them if they are irrelevant to the document as a whole. You can also make any particularly long bullet points more concise.
-    If the output list is going to be below {max_tokens} tokens, keep the same number of scored bullet points as the input list unless there are any duplicates or contradictions.
+    If the output list is going to be safely below {max_tokens} tokens, keep the same number of scored bullet points as the input list unless there are any duplicates or contradictions.
     """

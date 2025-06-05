@@ -4,6 +4,7 @@ import os
 from dataclasses import dataclass
 from typing import List
 
+import dotenv
 from openai import OpenAI
 from project_sunrise.prompts import (
     META_KNOWLEDGE_PROMPT,
@@ -12,6 +13,8 @@ from project_sunrise.prompts import (
     meta_cleanup_prompt,
 )
 
+# Load environment variables from .env file
+dotenv.load_dotenv()
 
 @dataclass
 class AIModelConfig:
@@ -49,6 +52,7 @@ def get_text_files_from_path(path: str) -> List[str]:
     """
     This function returns a list of text files in the given path.
     It filters out non-text files and directories.
+    Returns files in alphabetical order.
     """
     if os.path.isfile(path):
         return [path] if is_text_file(path) else []
@@ -58,7 +62,7 @@ def get_text_files_from_path(path: str) -> List[str]:
             full_path = os.path.join(root, fname)
             if is_text_file(full_path):
                 files.append(full_path)
-    return files
+    return sorted(files)
 
 
 def prompt_text_reply(instructions, text, model_conf):
@@ -67,7 +71,7 @@ def prompt_text_reply(instructions, text, model_conf):
     It requires the OpenAI API key and model name to be set in the config.
     """
     # Set a longer timeout since we're using flex.
-    openai_client = OpenAI(api_key=model_conf.api_key, timeout=900.0)
+    openai_client = OpenAI(api_key=model_conf.api_key, timeout=900.0, max_retries=3)
     try:
         response = openai_client.responses.create(
             model=model_conf.model_name,
@@ -75,7 +79,6 @@ def prompt_text_reply(instructions, text, model_conf):
             instructions=instructions,
             max_output_tokens=model_conf.max_tokens,
             temperature=model_conf.temperature,
-            service_tier="flex",
         )
         return response.output_text
     except Exception as e:
@@ -125,6 +128,51 @@ def agentic_summary(chunk, model_conf, bullet_points=None, previous_summary=None
     return cleaned_bullet_points, new_summary
 
 
+def summarize_file(input_file: str, model_conf: AIModelConfig, chunk_size: int = 20000):
+    text_name = (
+        os.path.basename(input_file) if os.path.isfile(input_file) else input_file
+    )
+    print(f"Starting summarization for {text_name}...")
+    # Load the text file
+    try:
+        with open(input_file, "r", encoding="utf-8") as fr:
+            doc = fr.read()
+    except (FileNotFoundError, PermissionError) as e:
+        print(f"Error opening {input_file}: {e}")
+        return
+    except Exception as e:
+        print(f"Unexpected error reading {input_file}: {e}")
+        return
+    # 1 OpenAI token is ~4 characters, so we can estimate the number of tokens
+    # Use ~5k tokens per chunk so that there is room for other summary text.
+    text_length = len(doc)
+    bullet_points = None
+    previous_summary = None
+    for i in range(0, text_length, chunk_size):
+        j = min(i + chunk_size, text_length)
+        print(
+            f"Processing chunk {i // chunk_size + 1}: {doc[i:i+100]}... (length: {len(doc[i:j])})"
+        )
+        chunk = doc[i:j]
+        # Summarize the chunk
+        print("Starting summarization process...")
+        bullet_points, summarized = agentic_summary(
+            chunk,
+            model_conf,
+            bullet_points=bullet_points,
+            previous_summary=previous_summary,
+        )
+        previous_summary = summarized
+    # One last summary pass
+    prompt = {
+        "text": None,
+        "bullet_points": bullet_points,
+    }
+    summarized = prompt_text_reply(META_SUMMARY_PROMPT, str(prompt), model_conf)
+    print(f"Final Summary: {summarized}")
+    return summarized, text_name
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="Project Sunrise: Summarize text/code files using OpenAI API."
@@ -144,7 +192,12 @@ def main():
     parser.add_argument(
         "--temperature", type=float, help="Sampling temperature", default=1.0
     )
+    parser.add_argument(
+        "--overall", type=bool, help="whether to produce an overall summary", default=False
+    )
     args = parser.parse_args()
+
+    print("overall summary:", args.overall)
 
     api_key = args.api_key or os.environ.get("OPENAI_API_KEY")
     if not api_key:
@@ -165,48 +218,19 @@ def main():
         print("No valid text files found.")
         exit(1)
 
+    if args.overall:
+        summaries = []
+
     for input_file in input_files:
-        text_name = (
-            os.path.basename(input_file) if os.path.isfile(input_file) else input_file
+        print(f"Processing file: {input_file}")
+        summarized, text_name = summarize_file(
+            input_file, model_conf, chunk_size=args.chunk_size
         )
-        print(f"Starting summarization for {text_name}...")
-        # Load the text file
-        try:
-            with open(input_file, "r", encoding="utf-8") as fr:
-                doc = fr.read()
-        except (FileNotFoundError, PermissionError) as e:
-            print(f"Error opening {input_file}: {e}")
+        if not summarized:
+            print(f"Failed to summarize {input_file}. Skipping...")
             continue
-        except Exception as e:
-            print(f"Unexpected error reading {input_file}: {e}")
-            continue
-        # 1 OpenAI token is ~4 characters, so we can estimate the number of tokens
-        # Use ~5k tokens per chunk so that there is room for other summary text.
-        text_length = len(doc)
-        bullet_points = None
-        previous_summary = None
-        for i in range(0, text_length, args.chunk_size):
-            j = min(i + args.chunk_size, text_length)
-            print(
-                f"Processing chunk {i // args.chunk_size + 1}: {doc[i:i+100]}... (length: {len(doc[i:j])})"
-            )
-            chunk = doc[i:j]
-            # Summarize the chunk
-            print("Starting summarization process...")
-            bullet_points, summarized = agentic_summary(
-                chunk,
-                model_conf,
-                bullet_points=bullet_points,
-                previous_summary=previous_summary,
-            )
-            previous_summary = summarized
-        # One last summary pass
-        prompt = {
-            "text": None,
-            "bullet_points": bullet_points,
-        }
-        summarized = prompt_text_reply(META_SUMMARY_PROMPT, str(prompt), model_conf)
-        print(f"Final Summary: {summarized}")
+        if args.overall:
+            summaries.append(summarized)
         output_dir = (
             args.output
             if args.output and os.path.isdir(args.output)
@@ -222,10 +246,28 @@ def main():
         )
         try:
             with open(output_file, "w", encoding="utf-8") as fw:
-                fw.write(summarized)
+                fw.write(f"File {os.path.basename(input_file)} Summarized: \n\n{summarized}")
             print(f"Summarization complete. Check {output_file} for results.")
         except Exception as e:
             print(f"Error writing to {output_file}: {e}")
+    if args.overall:
+        overall_summary = "\n\n".join(summaries)
+        overall_output_file = (
+            os.path.join(output_dir, f"overall_summary_{model_conf.model_name}.md")
+            if args.output is None or os.path.isdir(args.output)
+            else args.output
+        )
+        try:
+            with open(overall_output_file, "w", encoding="utf-8") as fw:
+                fw.write(overall_summary)
+            folder_summary, _ = summarize_file(overall_output_file, model_conf, chunk_size=args.chunk_size)
+            # Overwrite the overall summary with the folder summary
+            if folder_summary:
+                with open(overall_output_file, "w", encoding="utf-8") as fw:
+                    fw.write(folder_summary)
+            print(f"Overall summarization complete. Check {overall_output_file} for results.")
+        except Exception as e:
+            print(f"Error writing overall summary to {overall_output_file}: {e}")
 
 
 if __name__ == "__main__":
