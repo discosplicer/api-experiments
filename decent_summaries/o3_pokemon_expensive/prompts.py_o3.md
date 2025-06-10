@@ -1,0 +1,15 @@
+File prompts.py Summarized: 
+
+The document aggregates multiple prompt blocks that coordinate an automated agent’s behavior while navigating a game environment represented by a text map whose origin (0, 0) lies at the top-left corner and whose coordinates are given as (column, row).
+
+FULL_NAVIGATOR_PROMPT directs the main exploring agent to employ depth-first search, study the supplied map, give priority to exits—especially those situated on the map’s edges—speak with NPCs, and collect items. NAVIGATION_PROMPT complements this by requiring the assistant to return precise, numbered “StepsToReach” instructions and by prohibiting any return to tiles that have already been explored.
+
+Three meta-reasoning blocks—META_KNOWLEDGE_PROMPT, META_KNOWLEDGE_CLEANUP_PROMPT, and META_KNOWLEDGE_SUMMARIZER—task a separate component with inferring the current game state, discarding contradictory information, and emitting concise status reports that include confidence percentages and recommended corrections. A reliability hierarchy for evidence is explicitly defined: RAM (100 % accurate) is most trustworthy, followed by in-game memory, on-screen text, the text map, raw vision, and finally conversation history.
+
+SYSTEM_PROMPT_OPENAI consolidates gameplay rules, navigation advice, and “BIG HINTS” such as “doors and stairs are always passable” and “building entrances appear on the bottom row.” It also standardizes labeling conventions, tool-usage rules, and formatting requirements, notably that all inner deliberation must be enclosed within <thinking>… tags.
+
+Tool usage is further clarified. The detailed_navigator tool is reserved for path-finding. bookmark_location_or_overwrite_label may be called only after positively identifying a doorway, stair, or NPC and must be updated if the original label proves incorrect; NPCs are labeled only after dialogue has occurred. mark_checkpoint is invoked solely after a major objective or blackout is conclusively resolved and must carry a short description such as “BEAT MISTY.” The navigate_to tool can target only tiles that are currently on-screen; movement to off-screen positions requires other methods.
+
+Universal map conventions state that the text map overrides raw vision, coordinates always follow the (column, row) format with the origin at the upper left, and the agent must avoid IMPASSABLE tiles and squares already visited. Additional navigation reminders include consistently exploring every unvisited square, following “StepsToReach” directions, and reverting to depth-first search when no other guidance is available. Supplementary “BIG HINTS” caution, for example, that NPCs should be addressed from two tiles away and that roof colors in Pokémon Red differ from later titles.
+
+Finally, the document ends with three deprecated SUMMARY_PROMPT_* blocks (Claude, Gemini, and OpenAI) that illustrate earlier approaches for compressing conversation histories and injecting troubleshooting suggestions.

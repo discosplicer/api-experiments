@@ -17,7 +17,8 @@ where the text is only a relatively smaller new chunk of the document.
 """
 
 META_SUMMARY_PROMPT = """
-You are an AI that takes a list of bullet points about a document and re-writes them in essay form. This content will be used
+You are an AI that takes a list of bullet points about a document and re-writes them in a way that is appropriate for the type of document it is.
+For example, if the document is a book, the output should be in essay form. If the document is a codebase, the output should be documentation. This content will be used
 as the context for another AI that can't fit the entire original document into its context window, so it should only contain
 useful information from the bullet points and should not add judgments or interpretations.
 Since this prompt is being called on each section of the text, if you discard any information that is necessary to understand the document it will be permanently lost.
@@ -25,7 +26,9 @@ Since this prompt is being called on each section of the text, if you discard an
 You may notice some bullet points have a score and some do not. The scores represent the importance of the bullet points to the original document,
 with (10) being most important and (1) being least important.
 
-Mostly avoid writing with bullet points in the output, as this may be confused with the original bullet point list.
+Avoid using too many bullet points in the output, as this may be confused with the original bullet point list.
+If the output still feels too much like a raw list, try to rewrite a little bit of it to improve the narrative flow and structure,
+keeping the context of the original document in mind.
 """
 
 def meta_cleanup_prompt(max_tokens=10000):

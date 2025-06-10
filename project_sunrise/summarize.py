@@ -226,6 +226,7 @@ def main():
         summarized, text_name = summarize_file(
             input_file, model_conf, chunk_size=args.chunk_size
         )
+        summarized = f"File {os.path.basename(input_file)} Summarized: \n\n" + summarized
         if not summarized:
             print(f"Failed to summarize {input_file}. Skipping...")
             continue
@@ -245,8 +246,9 @@ def main():
             else args.output
         )
         try:
+            # Write the summary to the output file
             with open(output_file, "w", encoding="utf-8") as fw:
-                fw.write(f"File {os.path.basename(input_file)} Summarized: \n\n{summarized}")
+                fw.write(summarized)
             print(f"Summarization complete. Check {output_file} for results.")
         except Exception as e:
             print(f"Error writing to {output_file}: {e}")

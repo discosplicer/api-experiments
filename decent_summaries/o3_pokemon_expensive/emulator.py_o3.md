@@ -1,0 +1,19 @@
+File emulator.py Summarized: 
+
+The Python module wraps the PyBoy Game Boy emulator so that external code can control Pokémon Red from a separate thread. PyBoy runs on its own “player” thread, and every cross-thread interaction is funneled through a queue of commands protected by a priority-aware lock.
+
+At the heart of the concurrency model is the PriorityLock, a queue-based lock that grants critical-section access according to numeric priority and can be used in with-statement form. Each Emulator instance keeps four primary fields: the dedicated player thread, the command queue, the PriorityLock itself, and a threading.Event that signals when the queue becomes empty.
+
+The player() function constitutes the main loop on the dedicated thread. It repeatedly dequeues commands—press or release button, wait, load state, save state, or stop—executes the request, and then advances PyBoy by one frame. The initialize() helper starts this loop (either in the main thread or on a new one) and then calls wait_for_pyboy(), which polls until the PyBoy object is created.
+
+Several convenience routines rely on the command queue. get_screenshot() blocks until the queue is empty, pauses briefly so the screen stabilizes, and returns a PIL Image produced from the current framebuffer. load_state() and save_state() place the corresponding command into the queue while holding the PriorityLock, clear the queue-empty event, and block until the operation has finished. press_buttons() enqueues press → wait → release cycles for every button in a list; it can operate synchronously and returns both an input log and the penultimate player coordinates.
+
+Memory is queried through a PokemonRedReader helper that exposes get_coordinates(), get_active_dialog(), and get_location(). Graphics-oriented helpers include _get_direction(), which infers the player’s facing direction by inspecting a 2 × 2 tile pattern, and _downsample_array(), which converts an 18 × 20 collision array into a 9 × 10 grid.
+
+Using these primitives, get_collision_map() constructs an ASCII map on the 9 × 10 grid that marks walls, walkable paths, sprites, and the player’s directional arrow. get_valid_moves() reports which directions are presently legal, taking terrain, sprites, and warp tiles into account. Sprite analysis is done in get_sprites(), which locates the bottom tile of each two-tile-high sprite by pairing Y coordinates and matching X positions. For additional collision logic, _can_move_between_tiles() disallows moves banned for specific tile-pair combinations within certain tilesets.
+
+Path-finding is provided by find_path(). It launches an A* search from the player’s cell, hard-coded as (4, 4) on the 9 × 10 grid, toward a target cell while honoring walls, active sprites, and the extra tile-pair restrictions. If the exact destination cannot be reached, the algorithm falls back to the nearest reachable tile. During the search it skips out-of-bounds or blocked neighbors, updates g_score and f_score values, maintains a heap, and records the closest_point encountered. After termination it reconstructs the move sequence and returns a status of success, partial success, or failure together with that sequence.
+
+Combat state is exposed by get_in_combat(), a direct wrapper around PokemonRedReader.read_in_combat(). For richer status reporting, get_state_from_memory() builds a multiline dump containing the player and rival names, money, current map, coordinates, valid moves, badges, inventory, any active dialog, full party Pokémon statistics, and it separately returns the current location and coordinates.
+
+Finally, stop() acquires the PriorityLock at the highest priority level, clears the queue-empty event, enqueues a “stop” command, and lets the player thread exit cleanly.
